@@ -1,0 +1,3310 @@
+state_name,district_name,disability,age_group,male,female,other,total
+Karnataka,Bagalkote,Acid Attack Victim,Jun-15,0,1,0,1
+Karnataka,Bagalkote,Acid Attack Victim,15-35,5,3,0,8
+Karnataka,Bagalkote,Acid Attack Victim,35-60,5,4,0,9
+Karnataka,Bagalkote,Acid Attack Victim,60-80,2,0,0,2
+Karnataka,Bagalkote,Acid Attack Victim,80+,0,0,0,0
+Karnataka,Bagalkote,Autism Spectrum Disorder,Jun-15,1,0,0,1
+Karnataka,Bagalkote,Autism Spectrum Disorder,15-35,1,0,0,1
+Karnataka,Bagalkote,Autism Spectrum Disorder,35-60,1,1,0,2
+Karnataka,Bagalkote,Autism Spectrum Disorder,60-80,0,0,0,0
+Karnataka,Bagalkote,Autism Spectrum Disorder,80+,0,0,0,0
+Karnataka,Bagalkote,Blindness,0-6,6,5,0,11
+Karnataka,Bagalkote,Blindness,Jun-15,161,145,0,306
+Karnataka,Bagalkote,Blindness,15-35,885,539,0,1424
+Karnataka,Bagalkote,Blindness,35-60,1119,590,0,1709
+Karnataka,Bagalkote,Blindness,60-80,336,196,0,532
+Karnataka,Bagalkote,Blindness,80+,29,6,0,35
+Karnataka,Bagalkote,Cerebral Palsy,0-6,8,11,0,19
+Karnataka,Bagalkote,Cerebral Palsy,Jun-15,49,25,0,74
+Karnataka,Bagalkote,Cerebral Palsy,15-35,65,48,0,113
+Karnataka,Bagalkote,Cerebral Palsy,35-60,24,10,0,34
+Karnataka,Bagalkote,Cerebral Palsy,60-80,3,0,0,3
+Karnataka,Bagalkote,Cerebral Palsy,80+,0,0,0,0
+Karnataka,Bagalkote,Chronic Neurological Conditions,0-6,0,1,0,1
+Karnataka,Bagalkote,Chronic Neurological Conditions,Jun-15,8,7,0,15
+Karnataka,Bagalkote,Chronic Neurological Conditions,15-35,54,30,0,84
+Karnataka,Bagalkote,Chronic Neurological Conditions,35-60,67,30,0,97
+Karnataka,Bagalkote,Chronic Neurological Conditions,60-80,17,6,0,23
+Karnataka,Bagalkote,Dwarfism,Jun-15,3,3,0,6
+Karnataka,Bagalkote,Dwarfism,15-35,11,33,0,44
+Karnataka,Bagalkote,Dwarfism,35-60,13,15,0,28
+Karnataka,Bagalkote,Dwarfism,60-80,1,0,0,1
+Karnataka,Bagalkote,Dwarfism,80+,1,0,0,1
+Karnataka,Bagalkote,Hearing Impairment,0-6,14,12,0,26
+Karnataka,Bagalkote,Hearing Impairment,Jun-15,214,162,0,376
+Karnataka,Bagalkote,Hearing Impairment,15-35,600,467,0,1067
+Karnataka,Bagalkote,Hearing Impairment,35-60,593,513,1,1107
+Karnataka,Bagalkote,Hearing Impairment,60-80,181,74,0,255
+Karnataka,Bagalkote,Hearing Impairment,80+,9,2,0,11
+Karnataka,Bagalkote,Hemophilia,0-6,0,0,0,0
+Karnataka,Bagalkote,Hemophilia,Jun-15,10,1,0,11
+Karnataka,Bagalkote,Hemophilia,15-35,20,0,0,20
+Karnataka,Bagalkote,Hemophilia,35-60,12,1,0,13
+Karnataka,Bagalkote,Hemophilia,60-80,2,0,0,2
+Karnataka,Bagalkote,Intellectual Disability,0-6,54,36,0,90
+Karnataka,Bagalkote,Intellectual Disability,Jun-15,754,477,0,1231
+Karnataka,Bagalkote,Intellectual Disability,15-35,1275,900,0,2175
+Karnataka,Bagalkote,Intellectual Disability,35-60,326,258,0,584
+Karnataka,Bagalkote,Intellectual Disability,60-80,10,10,0,20
+Karnataka,Bagalkote,Intellectual Disability,80+,0,0,0,0
+Karnataka,Bagalkote,Leprosy Cured,0-6,0,0,0,0
+Karnataka,Bagalkote,Leprosy Cured,Jun-15,0,0,0,0
+Karnataka,Bagalkote,Leprosy Cured,15-35,6,2,0,8
+Karnataka,Bagalkote,Leprosy Cured,35-60,19,11,0,30
+Karnataka,Bagalkote,Leprosy Cured,60-80,8,2,0,10
+Karnataka,Bagalkote,Leprosy Cured,80+,3,2,0,5
+Karnataka,Bagalkote,Locomotor Disability,0-6,25,24,0,49
+Karnataka,Bagalkote,Locomotor Disability,Jun-15,595,376,1,972
+Karnataka,Bagalkote,Locomotor Disability,15-35,2883,1691,1,4575
+Karnataka,Bagalkote,Locomotor Disability,35-60,6317,3104,1,9422
+Karnataka,Bagalkote,Locomotor Disability,60-80,1404,452,0,1856
+Karnataka,Bagalkote,Locomotor Disability,80+,72,27,0,99
+Karnataka,Bagalkote,Low Vision,0-6,2,0,0,2
+Karnataka,Bagalkote,Low Vision,Jun-15,31,36,0,67
+Karnataka,Bagalkote,Low Vision,15-35,226,142,0,368
+Karnataka,Bagalkote,Low Vision,35-60,246,137,0,383
+Karnataka,Bagalkote,Low Vision,60-80,67,19,0,86
+Karnataka,Bagalkote,Low Vision,80+,6,0,0,6
+Karnataka,Bagalkote,Mental Illness,0-6,3,0,0,3
+Karnataka,Bagalkote,Mental Illness,Jun-15,48,32,0,80
+Karnataka,Bagalkote,Mental Illness,15-35,173,136,0,309
+Karnataka,Bagalkote,Mental Illness,35-60,76,72,0,148
+Karnataka,Bagalkote,Mental Illness,60-80,6,6,0,12
+Karnataka,Bagalkote,Multiple Disabilities,0-6,8,10,0,18
+Karnataka,Bagalkote,Multiple Disabilities,Jun-15,170,120,0,290
+Karnataka,Bagalkote,Multiple Disabilities,15-35,345,241,0,586
+Karnataka,Bagalkote,Multiple Disabilities,35-60,223,128,0,351
+Karnataka,Bagalkote,Multiple Disabilities,60-80,43,26,0,69
+Karnataka,Bagalkote,Multiple Disabilities,80+,2,0,0,2
+Karnataka,Bagalkote,Multiple Sclerosis,0-6,0,0,0,0
+Karnataka,Bagalkote,Multiple Sclerosis,Jun-15,1,0,0,1
+Karnataka,Bagalkote,Multiple Sclerosis,15-35,3,0,0,3
+Karnataka,Bagalkote,Multiple Sclerosis,35-60,5,1,0,6
+Karnataka,Bagalkote,Multiple Sclerosis,60-80,0,0,0,0
+Karnataka,Bagalkote,Muscular Dystrophy,0-6,0,0,0,0
+Karnataka,Bagalkote,Muscular Dystrophy,Jun-15,12,7,0,19
+Karnataka,Bagalkote,Muscular Dystrophy,15-35,35,13,0,48
+Karnataka,Bagalkote,Muscular Dystrophy,35-60,32,8,0,40
+Karnataka,Bagalkote,Muscular Dystrophy,60-80,4,2,0,6
+Karnataka,Bagalkote,Parkinson'S Disease,15-35,1,0,0,1
+Karnataka,Bagalkote,Parkinson'S Disease,35-60,2,0,0,2
+Karnataka,Bagalkote,Parkinson'S Disease,60-80,2,0,0,2
+Karnataka,Bagalkote,Parkinson'S Disease,80+,0,0,0,0
+Karnataka,Bagalkote,Sickle Cell Disease,Jun-15,1,0,0,1
+Karnataka,Bagalkote,Sickle Cell Disease,15-35,0,1,0,1
+Karnataka,Bagalkote,Sickle Cell Disease,35-60,2,0,0,2
+Karnataka,Bagalkote,Sickle Cell Disease,60-80,0,0,0,0
+Karnataka,Bagalkote,Specific Learning Disabilities,Jun-15,0,0,0,0
+Karnataka,Bagalkote,Specific Learning Disabilities,15-35,1,0,0,1
+Karnataka,Bagalkote,Specific Learning Disabilities,35-60,1,0,0,1
+Karnataka,Bagalkote,Specific Learning Disabilities,60-80,0,0,0,0
+Karnataka,Bagalkote,Speech And Language Disability,0-6,0,0,0,0
+Karnataka,Bagalkote,Speech And Language Disability,Jun-15,22,13,0,35
+Karnataka,Bagalkote,Speech And Language Disability,15-35,34,28,0,62
+Karnataka,Bagalkote,Speech And Language Disability,35-60,30,9,0,39
+Karnataka,Bagalkote,Speech And Language Disability,60-80,6,1,0,7
+Karnataka,Bagalkote,Speech And Language Disability,80+,0,0,0,0
+Karnataka,Bagalkote,Thalassemia,0-6,5,4,0,9
+Karnataka,Bagalkote,Thalassemia,Jun-15,18,16,0,34
+Karnataka,Bagalkote,Thalassemia,15-35,9,9,0,18
+Karnataka,Bagalkote,Thalassemia,35-60,3,1,0,4
+Karnataka,Bagalkote,Thalassemia,60-80,0,0,0,0
+Karnataka,Bagalkote,Thalassemia,80+,0,0,0,0
+Karnataka,Ballari,Acid Attack Victim,Jun-15,0,1,0,1
+Karnataka,Ballari,Acid Attack Victim,15-35,1,1,0,2
+Karnataka,Ballari,Acid Attack Victim,35-60,4,3,0,7
+Karnataka,Ballari,Acid Attack Victim,60-80,1,0,0,1
+Karnataka,Ballari,Autism Spectrum Disorder,Jun-15,4,1,0,5
+Karnataka,Ballari,Autism Spectrum Disorder,15-35,5,2,0,7
+Karnataka,Ballari,Autism Spectrum Disorder,35-60,9,5,0,14
+Karnataka,Ballari,Autism Spectrum Disorder,60-80,1,2,0,3
+Karnataka,Ballari,Blindness,0-6,5,6,0,11
+Karnataka,Ballari,Blindness,Jun-15,73,49,0,122
+Karnataka,Ballari,Blindness,15-35,434,296,0,730
+Karnataka,Ballari,Blindness,35-60,622,327,0,949
+Karnataka,Ballari,Blindness,60-80,183,89,0,272
+Karnataka,Ballari,Blindness,80+,23,4,0,27
+Karnataka,Ballari,Cerebral Palsy,0-6,12,8,0,20
+Karnataka,Ballari,Cerebral Palsy,Jun-15,64,39,0,103
+Karnataka,Ballari,Cerebral Palsy,15-35,89,69,0,158
+Karnataka,Ballari,Cerebral Palsy,35-60,42,16,0,58
+Karnataka,Ballari,Cerebral Palsy,60-80,17,2,0,19
+Karnataka,Ballari,Chronic Neurological Conditions,0-6,0,2,0,2
+Karnataka,Ballari,Chronic Neurological Conditions,Jun-15,9,5,0,14
+Karnataka,Ballari,Chronic Neurological Conditions,15-35,61,45,0,106
+Karnataka,Ballari,Chronic Neurological Conditions,35-60,133,47,0,180
+Karnataka,Ballari,Chronic Neurological Conditions,60-80,31,11,0,42
+Karnataka,Ballari,Chronic Neurological Conditions,80+,3,2,0,5
+Karnataka,Ballari,Dwarfism,0-6,1,0,0,1
+Karnataka,Ballari,Dwarfism,Jun-15,4,4,0,8
+Karnataka,Ballari,Dwarfism,15-35,32,42,0,74
+Karnataka,Ballari,Dwarfism,35-60,15,10,0,25
+Karnataka,Ballari,Dwarfism,60-80,1,2,0,3
+Karnataka,Ballari,Hearing Impairment,0-6,27,18,0,45
+Karnataka,Ballari,Hearing Impairment,Jun-15,238,186,0,424
+Karnataka,Ballari,Hearing Impairment,15-35,687,525,0,1212
+Karnataka,Ballari,Hearing Impairment,35-60,901,845,0,1746
+Karnataka,Ballari,Hearing Impairment,60-80,248,135,0,383
+Karnataka,Ballari,Hearing Impairment,80+,17,3,0,20
+Karnataka,Ballari,Hemophilia,0-6,1,1,0,2
+Karnataka,Ballari,Hemophilia,Jun-15,5,3,0,8
+Karnataka,Ballari,Hemophilia,15-35,20,8,0,28
+Karnataka,Ballari,Hemophilia,35-60,26,6,0,32
+Karnataka,Ballari,Hemophilia,60-80,3,1,0,4
+Karnataka,Ballari,Intellectual Disability,0-6,39,23,0,62
+Karnataka,Ballari,Intellectual Disability,Jun-15,558,349,0,907
+Karnataka,Ballari,Intellectual Disability,15-35,748,517,0,1265
+Karnataka,Ballari,Intellectual Disability,35-60,190,170,0,360
+Karnataka,Ballari,Intellectual Disability,60-80,17,13,0,30
+Karnataka,Ballari,Leprosy Cured,Jun-15,0,2,0,2
+Karnataka,Ballari,Leprosy Cured,15-35,11,4,0,15
+Karnataka,Ballari,Leprosy Cured,35-60,46,19,0,65
+Karnataka,Ballari,Leprosy Cured,60-80,17,14,0,31
+Karnataka,Ballari,Leprosy Cured,80+,1,1,0,2
+Karnataka,Ballari,Locomotor Disability,0-6,55,38,0,93
+Karnataka,Ballari,Locomotor Disability,Jun-15,623,425,0,1048
+Karnataka,Ballari,Locomotor Disability,15-35,2843,1853,1,4697
+Karnataka,Ballari,Locomotor Disability,35-60,6524,3129,1,9654
+Karnataka,Ballari,Locomotor Disability,60-80,1328,408,0,1736
+Karnataka,Ballari,Locomotor Disability,80+,56,16,0,72
+Karnataka,Ballari,Low Vision,0-6,0,0,0,0
+Karnataka,Ballari,Low Vision,Jun-15,8,19,0,27
+Karnataka,Ballari,Low Vision,15-35,138,81,1,220
+Karnataka,Ballari,Low Vision,35-60,136,60,0,196
+Karnataka,Ballari,Low Vision,60-80,21,14,0,35
+Karnataka,Ballari,Low Vision,80+,2,3,0,5
+Karnataka,Ballari,Mental Illness,0-6,9,8,0,17
+Karnataka,Ballari,Mental Illness,Jun-15,343,258,0,601
+Karnataka,Ballari,Mental Illness,15-35,906,681,0,1587
+Karnataka,Ballari,Mental Illness,35-60,443,377,0,820
+Karnataka,Ballari,Mental Illness,60-80,24,30,0,54
+Karnataka,Ballari,Mental Illness,80+,0,0,0,0
+Karnataka,Ballari,Multiple Disabilities,0-6,5,4,0,9
+Karnataka,Ballari,Multiple Disabilities,Jun-15,108,66,0,174
+Karnataka,Ballari,Multiple Disabilities,15-35,269,141,0,410
+Karnataka,Ballari,Multiple Disabilities,35-60,198,100,0,298
+Karnataka,Ballari,Multiple Disabilities,60-80,43,13,0,56
+Karnataka,Ballari,Multiple Disabilities,80+,6,0,0,6
+Karnataka,Ballari,Multiple Sclerosis,0-6,1,0,0,1
+Karnataka,Ballari,Multiple Sclerosis,Jun-15,1,0,0,1
+Karnataka,Ballari,Multiple Sclerosis,15-35,7,3,0,10
+Karnataka,Ballari,Multiple Sclerosis,35-60,2,3,0,5
+Karnataka,Ballari,Multiple Sclerosis,60-80,0,0,0,0
+Karnataka,Ballari,Muscular Dystrophy,0-6,1,1,0,2
+Karnataka,Ballari,Muscular Dystrophy,Jun-15,4,3,0,7
+Karnataka,Ballari,Muscular Dystrophy,15-35,17,11,0,28
+Karnataka,Ballari,Muscular Dystrophy,35-60,25,15,0,40
+Karnataka,Ballari,Muscular Dystrophy,60-80,3,3,0,6
+Karnataka,Ballari,Parkinson'S Disease,15-35,4,2,0,6
+Karnataka,Ballari,Parkinson'S Disease,35-60,14,3,0,17
+Karnataka,Ballari,Parkinson'S Disease,60-80,7,2,0,9
+Karnataka,Ballari,Parkinson'S Disease,80+,0,0,0,0
+Karnataka,Ballari,Sickle Cell Disease,Jun-15,0,2,0,2
+Karnataka,Ballari,Sickle Cell Disease,15-35,1,3,0,4
+Karnataka,Ballari,Sickle Cell Disease,35-60,2,1,0,3
+Karnataka,Ballari,Sickle Cell Disease,60-80,0,1,0,1
+Karnataka,Ballari,Sickle Cell Disease,80+,0,0,0,0
+Karnataka,Ballari,Specific Learning Disabilities,Jun-15,0,3,0,3
+Karnataka,Ballari,Specific Learning Disabilities,15-35,3,4,0,7
+Karnataka,Ballari,Specific Learning Disabilities,35-60,0,2,0,2
+Karnataka,Ballari,Specific Learning Disabilities,60-80,1,0,0,1
+Karnataka,Ballari,Specific Learning Disabilities,80+,0,0,0,0
+Karnataka,Ballari,Speech And Language Disability,0-6,0,0,0,0
+Karnataka,Ballari,Speech And Language Disability,Jun-15,15,13,0,28
+Karnataka,Ballari,Speech And Language Disability,15-35,61,47,0,108
+Karnataka,Ballari,Speech And Language Disability,35-60,35,21,0,56
+Karnataka,Ballari,Speech And Language Disability,60-80,8,4,0,12
+Karnataka,Ballari,Speech And Language Disability,80+,0,1,0,1
+Karnataka,Ballari,Thalassemia,0-6,13,6,0,19
+Karnataka,Ballari,Thalassemia,Jun-15,29,22,0,51
+Karnataka,Ballari,Thalassemia,15-35,12,8,0,20
+Karnataka,Ballari,Thalassemia,35-60,6,5,0,11
+Karnataka,Belagavi,Acid Attack Victim,Jun-15,0,2,0,2
+Karnataka,Belagavi,Acid Attack Victim,15-35,8,6,0,14
+Karnataka,Belagavi,Acid Attack Victim,35-60,12,14,0,26
+Karnataka,Belagavi,Acid Attack Victim,60-80,4,1,0,5
+Karnataka,Belagavi,Acid Attack Victim,80+,0,0,0,0
+Karnataka,Belagavi,Autism Spectrum Disorder,0-6,2,0,0,2
+Karnataka,Belagavi,Autism Spectrum Disorder,Jun-15,8,1,0,9
+Karnataka,Belagavi,Autism Spectrum Disorder,15-35,8,8,0,16
+Karnataka,Belagavi,Autism Spectrum Disorder,35-60,9,4,0,13
+Karnataka,Belagavi,Autism Spectrum Disorder,60-80,4,3,0,7
+Karnataka,Belagavi,Autism Spectrum Disorder,80+,1,1,0,2
+Karnataka,Belagavi,Blindness,0-6,22,18,0,40
+Karnataka,Belagavi,Blindness,Jun-15,345,238,0,583
+Karnataka,Belagavi,Blindness,15-35,1581,1005,0,2586
+Karnataka,Belagavi,Blindness,35-60,3202,2328,1,5531
+Karnataka,Belagavi,Blindness,60-80,923,393,0,1316
+Karnataka,Belagavi,Blindness,80+,36,16,0,52
+Karnataka,Belagavi,Cerebral Palsy,0-6,20,6,0,26
+Karnataka,Belagavi,Cerebral Palsy,Jun-15,86,52,0,138
+Karnataka,Belagavi,Cerebral Palsy,15-35,103,71,0,174
+Karnataka,Belagavi,Cerebral Palsy,35-60,156,43,0,199
+Karnataka,Belagavi,Cerebral Palsy,60-80,51,15,0,66
+Karnataka,Belagavi,Chronic Neurological Conditions,0-6,1,0,0,1
+Karnataka,Belagavi,Chronic Neurological Conditions,Jun-15,11,4,0,15
+Karnataka,Belagavi,Chronic Neurological Conditions,15-35,35,18,0,53
+Karnataka,Belagavi,Chronic Neurological Conditions,35-60,127,46,0,173
+Karnataka,Belagavi,Chronic Neurological Conditions,60-80,43,6,0,49
+Karnataka,Belagavi,Chronic Neurological Conditions,80+,1,0,0,1
+Karnataka,Belagavi,Dwarfism,0-6,0,0,0,0
+Karnataka,Belagavi,Dwarfism,Jun-15,11,14,0,25
+Karnataka,Belagavi,Dwarfism,15-35,34,61,0,95
+Karnataka,Belagavi,Dwarfism,35-60,42,33,0,75
+Karnataka,Belagavi,Dwarfism,60-80,7,6,0,13
+Karnataka,Belagavi,Dwarfism,80+,0,1,0,1
+Karnataka,Belagavi,Hearing Impairment,0-6,38,36,0,74
+Karnataka,Belagavi,Hearing Impairment,Jun-15,580,527,0,1107
+Karnataka,Belagavi,Hearing Impairment,15-35,1667,1481,1,3149
+Karnataka,Belagavi,Hearing Impairment,35-60,2305,2364,0,4669
+Karnataka,Belagavi,Hearing Impairment,60-80,580,247,0,827
+Karnataka,Belagavi,Hearing Impairment,80+,43,14,1,58
+Karnataka,Belagavi,Hemophilia,0-6,6,0,0,6
+Karnataka,Belagavi,Hemophilia,Jun-15,21,0,0,21
+Karnataka,Belagavi,Hemophilia,15-35,19,4,0,23
+Karnataka,Belagavi,Hemophilia,35-60,34,19,0,53
+Karnataka,Belagavi,Hemophilia,60-80,11,2,0,13
+Karnataka,Belagavi,Hemophilia,80+,1,0,0,1
+Karnataka,Belagavi,Intellectual Disability,0-6,92,52,0,144
+Karnataka,Belagavi,Intellectual Disability,Jun-15,1183,777,0,1960
+Karnataka,Belagavi,Intellectual Disability,15-35,2814,1850,1,4665
+Karnataka,Belagavi,Intellectual Disability,35-60,1075,912,0,1987
+Karnataka,Belagavi,Intellectual Disability,60-80,91,74,0,165
+Karnataka,Belagavi,Intellectual Disability,80+,2,3,0,5
+Karnataka,Belagavi,Leprosy Cured,Jun-15,0,0,0,0
+Karnataka,Belagavi,Leprosy Cured,15-35,8,7,0,15
+Karnataka,Belagavi,Leprosy Cured,35-60,34,16,0,50
+Karnataka,Belagavi,Leprosy Cured,60-80,17,6,0,23
+Karnataka,Belagavi,Leprosy Cured,80+,0,0,0,0
+Karnataka,Belagavi,Locomotor Disability,0-6,136,90,0,226
+Karnataka,Belagavi,Locomotor Disability,Jun-15,1655,991,0,2646
+Karnataka,Belagavi,Locomotor Disability,15-35,7043,3775,2,10820
+Karnataka,Belagavi,Locomotor Disability,35-60,15825,7379,5,23209
+Karnataka,Belagavi,Locomotor Disability,60-80,4259,1233,3,5495
+Karnataka,Belagavi,Locomotor Disability,80+,258,70,0,328
+Karnataka,Belagavi,Low Vision,0-6,12,11,0,23
+Karnataka,Belagavi,Low Vision,Jun-15,184,155,0,339
+Karnataka,Belagavi,Low Vision,15-35,718,378,0,1096
+Karnataka,Belagavi,Low Vision,35-60,914,560,0,1474
+Karnataka,Belagavi,Low Vision,60-80,214,85,0,299
+Karnataka,Belagavi,Low Vision,80+,12,5,0,17
+Karnataka,Belagavi,Mental Illness,0-6,74,30,0,104
+Karnataka,Belagavi,Mental Illness,Jun-15,636,433,0,1069
+Karnataka,Belagavi,Mental Illness,15-35,1383,1053,0,2436
+Karnataka,Belagavi,Mental Illness,35-60,1467,1266,0,2733
+Karnataka,Belagavi,Mental Illness,60-80,173,119,0,292
+Karnataka,Belagavi,Mental Illness,80+,6,1,0,7
+Karnataka,Belagavi,Multiple Disabilities,0-6,53,29,0,82
+Karnataka,Belagavi,Multiple Disabilities,Jun-15,321,197,0,518
+Karnataka,Belagavi,Multiple Disabilities,15-35,389,222,0,611
+Karnataka,Belagavi,Multiple Disabilities,35-60,356,192,0,548
+Karnataka,Belagavi,Multiple Disabilities,60-80,117,31,1,149
+Karnataka,Belagavi,Multiple Disabilities,80+,8,2,0,10
+Karnataka,Belagavi,Multiple Sclerosis,0-6,2,0,0,2
+Karnataka,Belagavi,Multiple Sclerosis,Jun-15,4,3,0,7
+Karnataka,Belagavi,Multiple Sclerosis,15-35,17,7,0,24
+Karnataka,Belagavi,Multiple Sclerosis,35-60,12,12,0,24
+Karnataka,Belagavi,Multiple Sclerosis,60-80,5,2,0,7
+Karnataka,Belagavi,Multiple Sclerosis,80+,2,0,0,2
+Karnataka,Belagavi,Muscular Dystrophy,0-6,1,1,0,2
+Karnataka,Belagavi,Muscular Dystrophy,Jun-15,21,11,0,32
+Karnataka,Belagavi,Muscular Dystrophy,15-35,62,30,0,92
+Karnataka,Belagavi,Muscular Dystrophy,35-60,146,41,0,187
+Karnataka,Belagavi,Muscular Dystrophy,60-80,31,19,0,50
+Karnataka,Belagavi,Muscular Dystrophy,80+,6,0,0,6
+Karnataka,Belagavi,Parkinson'S Disease,Jun-15,0,1,0,1
+Karnataka,Belagavi,Parkinson'S Disease,15-35,5,1,0,6
+Karnataka,Belagavi,Parkinson'S Disease,35-60,12,4,0,16
+Karnataka,Belagavi,Parkinson'S Disease,60-80,6,1,0,7
+Karnataka,Belagavi,Sickle Cell Disease,Jun-15,0,0,0,0
+Karnataka,Belagavi,Sickle Cell Disease,15-35,1,1,0,2
+Karnataka,Belagavi,Sickle Cell Disease,35-60,4,1,0,5
+Karnataka,Belagavi,Sickle Cell Disease,60-80,1,0,0,1
+Karnataka,Belagavi,Specific Learning Disabilities,Jun-15,2,1,0,3
+Karnataka,Belagavi,Specific Learning Disabilities,15-35,10,7,0,17
+Karnataka,Belagavi,Specific Learning Disabilities,35-60,5,2,0,7
+Karnataka,Belagavi,Specific Learning Disabilities,60-80,2,0,0,2
+Karnataka,Belagavi,Specific Learning Disabilities,80+,1,0,0,1
+Karnataka,Belagavi,Speech And Language Disability,0-6,5,0,0,5
+Karnataka,Belagavi,Speech And Language Disability,Jun-15,122,75,0,197
+Karnataka,Belagavi,Speech And Language Disability,15-35,209,132,0,341
+Karnataka,Belagavi,Speech And Language Disability,35-60,164,92,0,256
+Karnataka,Belagavi,Speech And Language Disability,60-80,24,5,0,29
+Karnataka,Belagavi,Speech And Language Disability,80+,1,1,0,2
+Karnataka,Belagavi,Thalassemia,0-6,6,5,0,11
+Karnataka,Belagavi,Thalassemia,Jun-15,27,20,0,47
+Karnataka,Belagavi,Thalassemia,15-35,28,10,0,38
+Karnataka,Belagavi,Thalassemia,35-60,5,0,0,5
+Karnataka,Belagavi,Thalassemia,60-80,0,0,0,0
+Karnataka,Bengaluru Rural,Acid Attack Victim,15-35,0,1,0,1
+Karnataka,Bengaluru Rural,Acid Attack Victim,35-60,5,5,0,10
+Karnataka,Bengaluru Rural,Acid Attack Victim,60-80,4,0,0,4
+Karnataka,Bengaluru Rural,Acid Attack Victim,80+,1,0,0,1
+Karnataka,Bengaluru Rural,Autism Spectrum Disorder,0-6,1,3,0,4
+Karnataka,Bengaluru Rural,Autism Spectrum Disorder,Jun-15,15,2,0,17
+Karnataka,Bengaluru Rural,Autism Spectrum Disorder,15-35,6,0,0,6
+Karnataka,Bengaluru Rural,Autism Spectrum Disorder,35-60,1,0,0,1
+Karnataka,Bengaluru Rural,Blindness,Jun-15,19,18,0,37
+Karnataka,Bengaluru Rural,Blindness,15-35,176,131,0,307
+Karnataka,Bengaluru Rural,Blindness,35-60,404,254,0,658
+Karnataka,Bengaluru Rural,Blindness,60-80,187,85,0,272
+Karnataka,Bengaluru Rural,Blindness,80+,19,9,0,28
+Karnataka,Bengaluru Rural,Cerebral Palsy,0-6,7,4,0,11
+Karnataka,Bengaluru Rural,Cerebral Palsy,Jun-15,26,16,0,42
+Karnataka,Bengaluru Rural,Cerebral Palsy,15-35,28,22,0,50
+Karnataka,Bengaluru Rural,Cerebral Palsy,35-60,18,11,0,29
+Karnataka,Bengaluru Rural,Cerebral Palsy,60-80,2,1,0,3
+Karnataka,Bengaluru Rural,Chronic Neurological Conditions,Jun-15,1,1,0,2
+Karnataka,Bengaluru Rural,Chronic Neurological Conditions,15-35,6,1,0,7
+Karnataka,Bengaluru Rural,Chronic Neurological Conditions,35-60,35,11,0,46
+Karnataka,Bengaluru Rural,Chronic Neurological Conditions,60-80,13,5,0,18
+Karnataka,Bengaluru Rural,Chronic Neurological Conditions,80+,0,0,0,0
+Karnataka,Bengaluru Rural,Dwarfism,Jun-15,1,3,0,4
+Karnataka,Bengaluru Rural,Dwarfism,15-35,6,10,0,16
+Karnataka,Bengaluru Rural,Dwarfism,35-60,6,11,0,17
+Karnataka,Bengaluru Rural,Dwarfism,60-80,3,0,0,3
+Karnataka,Bengaluru Rural,Hearing Impairment,0-6,12,13,0,25
+Karnataka,Bengaluru Rural,Hearing Impairment,Jun-15,50,61,0,111
+Karnataka,Bengaluru Rural,Hearing Impairment,15-35,241,190,0,431
+Karnataka,Bengaluru Rural,Hearing Impairment,35-60,406,325,0,731
+Karnataka,Bengaluru Rural,Hearing Impairment,60-80,326,141,0,467
+Karnataka,Bengaluru Rural,Hearing Impairment,80+,139,36,0,175
+Karnataka,Bengaluru Rural,Hemophilia,Jun-15,1,0,0,1
+Karnataka,Bengaluru Rural,Hemophilia,15-35,5,0,0,5
+Karnataka,Bengaluru Rural,Hemophilia,35-60,2,1,0,3
+Karnataka,Bengaluru Rural,Hemophilia,60-80,1,0,0,1
+Karnataka,Bengaluru Rural,Hemophilia,80+,2,0,0,2
+Karnataka,Bengaluru Rural,Intellectual Disability,0-6,26,29,0,55
+Karnataka,Bengaluru Rural,Intellectual Disability,Jun-15,220,159,0,379
+Karnataka,Bengaluru Rural,Intellectual Disability,15-35,435,318,1,754
+Karnataka,Bengaluru Rural,Intellectual Disability,35-60,193,175,0,368
+Karnataka,Bengaluru Rural,Intellectual Disability,60-80,19,16,0,35
+Karnataka,Bengaluru Rural,Intellectual Disability,80+,3,0,0,3
+Karnataka,Bengaluru Rural,Leprosy Cured,15-35,0,2,0,2
+Karnataka,Bengaluru Rural,Leprosy Cured,35-60,2,3,0,5
+Karnataka,Bengaluru Rural,Leprosy Cured,60-80,5,2,0,7
+Karnataka,Bengaluru Rural,Leprosy Cured,80+,2,0,0,2
+Karnataka,Bengaluru Rural,Locomotor Disability,0-6,8,10,0,18
+Karnataka,Bengaluru Rural,Locomotor Disability,Jun-15,147,123,1,271
+Karnataka,Bengaluru Rural,Locomotor Disability,15-35,806,509,0,1315
+Karnataka,Bengaluru Rural,Locomotor Disability,35-60,3225,1395,1,4621
+Karnataka,Bengaluru Rural,Locomotor Disability,60-80,1230,409,0,1639
+Karnataka,Bengaluru Rural,Locomotor Disability,80+,146,46,0,192
+Karnataka,Bengaluru Rural,Low Vision,0-6,2,0,0,2
+Karnataka,Bengaluru Rural,Low Vision,Jun-15,7,10,0,17
+Karnataka,Bengaluru Rural,Low Vision,15-35,68,51,0,119
+Karnataka,Bengaluru Rural,Low Vision,35-60,74,52,0,126
+Karnataka,Bengaluru Rural,Low Vision,60-80,25,13,0,38
+Karnataka,Bengaluru Rural,Low Vision,80+,2,0,0,2
+Karnataka,Bengaluru Rural,Mental Illness,0-6,1,0,0,1
+Karnataka,Bengaluru Rural,Mental Illness,Jun-15,55,38,0,93
+Karnataka,Bengaluru Rural,Mental Illness,15-35,368,249,0,617
+Karnataka,Bengaluru Rural,Mental Illness,35-60,367,277,0,644
+Karnataka,Bengaluru Rural,Mental Illness,60-80,68,36,0,104
+Karnataka,Bengaluru Rural,Mental Illness,80+,4,1,0,5
+Karnataka,Bengaluru Rural,Multiple Disabilities,0-6,2,2,0,4
+Karnataka,Bengaluru Rural,Multiple Disabilities,Jun-15,42,26,0,68
+Karnataka,Bengaluru Rural,Multiple Disabilities,15-35,165,78,0,243
+Karnataka,Bengaluru Rural,Multiple Disabilities,35-60,221,107,0,328
+Karnataka,Bengaluru Rural,Multiple Disabilities,60-80,58,21,0,79
+Karnataka,Bengaluru Rural,Multiple Disabilities,80+,4,1,0,5
+Karnataka,Bengaluru Rural,Multiple Sclerosis,Jun-15,2,1,0,3
+Karnataka,Bengaluru Rural,Multiple Sclerosis,15-35,4,5,0,9
+Karnataka,Bengaluru Rural,Multiple Sclerosis,35-60,3,3,0,6
+Karnataka,Bengaluru Rural,Multiple Sclerosis,60-80,1,1,0,2
+Karnataka,Bengaluru Rural,Muscular Dystrophy,0-6,0,0,0,0
+Karnataka,Bengaluru Rural,Muscular Dystrophy,Jun-15,4,1,0,5
+Karnataka,Bengaluru Rural,Muscular Dystrophy,15-35,10,3,0,13
+Karnataka,Bengaluru Rural,Muscular Dystrophy,35-60,12,7,0,19
+Karnataka,Bengaluru Rural,Muscular Dystrophy,60-80,5,1,0,6
+Karnataka,Bengaluru Rural,Parkinson'S Disease,15-35,1,1,0,2
+Karnataka,Bengaluru Rural,Parkinson'S Disease,35-60,5,3,0,8
+Karnataka,Bengaluru Rural,Parkinson'S Disease,60-80,3,2,0,5
+Karnataka,Bengaluru Rural,Parkinson'S Disease,80+,0,1,0,1
+Karnataka,Bengaluru Rural,Sickle Cell Disease,15-35,0,0,0,0
+Karnataka,Bengaluru Rural,Specific Learning Disabilities,0-6,0,0,0,0
+Karnataka,Bengaluru Rural,Specific Learning Disabilities,Jun-15,2,1,0,3
+Karnataka,Bengaluru Rural,Specific Learning Disabilities,15-35,1,0,0,1
+Karnataka,Bengaluru Rural,Specific Learning Disabilities,35-60,0,0,0,0
+Karnataka,Bengaluru Rural,Speech And Language Disability,0-6,0,1,0,1
+Karnataka,Bengaluru Rural,Speech And Language Disability,Jun-15,6,11,0,17
+Karnataka,Bengaluru Rural,Speech And Language Disability,15-35,15,2,0,17
+Karnataka,Bengaluru Rural,Speech And Language Disability,35-60,12,6,0,18
+Karnataka,Bengaluru Rural,Speech And Language Disability,60-80,1,1,0,2
+Karnataka,Bengaluru Rural,Speech And Language Disability,80+,1,0,0,1
+Karnataka,Bengaluru Rural,Thalassemia,15-35,2,0,0,2
+Karnataka,Bengaluru Rural,Thalassemia,35-60,0,2,0,2
+Karnataka,Bengaluru Urban,Acid Attack Victim,Jun-15,4,0,0,4
+Karnataka,Bengaluru Urban,Acid Attack Victim,15-35,4,4,0,8
+Karnataka,Bengaluru Urban,Acid Attack Victim,35-60,7,16,0,23
+Karnataka,Bengaluru Urban,Acid Attack Victim,60-80,2,3,0,5
+Karnataka,Bengaluru Urban,Autism Spectrum Disorder,0-6,29,7,0,36
+Karnataka,Bengaluru Urban,Autism Spectrum Disorder,Jun-15,601,124,0,725
+Karnataka,Bengaluru Urban,Autism Spectrum Disorder,15-35,369,67,0,436
+Karnataka,Bengaluru Urban,Autism Spectrum Disorder,35-60,11,7,0,18
+Karnataka,Bengaluru Urban,Autism Spectrum Disorder,60-80,3,0,0,3
+Karnataka,Bengaluru Urban,Blindness,0-6,1,4,0,5
+Karnataka,Bengaluru Urban,Blindness,Jun-15,76,75,0,151
+Karnataka,Bengaluru Urban,Blindness,15-35,531,338,0,869
+Karnataka,Bengaluru Urban,Blindness,35-60,1171,690,0,1861
+Karnataka,Bengaluru Urban,Blindness,60-80,386,122,0,508
+Karnataka,Bengaluru Urban,Blindness,80+,35,7,0,42
+Karnataka,Bengaluru Urban,Cerebral Palsy,0-6,29,11,0,40
+Karnataka,Bengaluru Urban,Cerebral Palsy,Jun-15,141,88,0,229
+Karnataka,Bengaluru Urban,Cerebral Palsy,15-35,246,152,0,398
+Karnataka,Bengaluru Urban,Cerebral Palsy,35-60,141,54,0,195
+Karnataka,Bengaluru Urban,Cerebral Palsy,60-80,22,5,0,27
+Karnataka,Bengaluru Urban,Chronic Neurological Conditions,0-6,9,8,0,17
+Karnataka,Bengaluru Urban,Chronic Neurological Conditions,Jun-15,59,32,0,91
+Karnataka,Bengaluru Urban,Chronic Neurological Conditions,15-35,142,91,0,233
+Karnataka,Bengaluru Urban,Chronic Neurological Conditions,35-60,394,102,0,496
+Karnataka,Bengaluru Urban,Chronic Neurological Conditions,60-80,115,22,0,137
+Karnataka,Bengaluru Urban,Chronic Neurological Conditions,80+,7,4,0,11
+Karnataka,Bengaluru Urban,Dwarfism,0-6,1,1,0,2
+Karnataka,Bengaluru Urban,Dwarfism,Jun-15,4,5,0,9
+Karnataka,Bengaluru Urban,Dwarfism,15-35,34,38,0,72
+Karnataka,Bengaluru Urban,Dwarfism,35-60,33,37,0,70
+Karnataka,Bengaluru Urban,Dwarfism,60-80,3,3,0,6
+Karnataka,Bengaluru Urban,Hearing Impairment,0-6,50,37,0,87
+Karnataka,Bengaluru Urban,Hearing Impairment,Jun-15,411,344,0,755
+Karnataka,Bengaluru Urban,Hearing Impairment,15-35,1127,855,0,1982
+Karnataka,Bengaluru Urban,Hearing Impairment,35-60,1354,887,0,2241
+Karnataka,Bengaluru Urban,Hearing Impairment,60-80,583,176,0,759
+Karnataka,Bengaluru Urban,Hearing Impairment,80+,69,10,0,79
+Karnataka,Bengaluru Urban,Hemophilia,0-6,1,0,0,1
+Karnataka,Bengaluru Urban,Hemophilia,Jun-15,7,0,0,7
+Karnataka,Bengaluru Urban,Hemophilia,15-35,36,1,0,37
+Karnataka,Bengaluru Urban,Hemophilia,35-60,18,3,0,21
+Karnataka,Bengaluru Urban,Hemophilia,60-80,3,1,0,4
+Karnataka,Bengaluru Urban,Intellectual Disability,0-6,128,64,0,192
+Karnataka,Bengaluru Urban,Intellectual Disability,Jun-15,1629,1094,1,2724
+Karnataka,Bengaluru Urban,Intellectual Disability,15-35,3625,2086,1,5712
+Karnataka,Bengaluru Urban,Intellectual Disability,35-60,879,644,1,1524
+Karnataka,Bengaluru Urban,Intellectual Disability,60-80,60,42,0,102
+Karnataka,Bengaluru Urban,Intellectual Disability,80+,1,1,0,2
+Karnataka,Bengaluru Urban,Leprosy Cured,Jun-15,1,0,0,1
+Karnataka,Bengaluru Urban,Leprosy Cured,15-35,5,0,0,5
+Karnataka,Bengaluru Urban,Leprosy Cured,35-60,15,3,0,18
+Karnataka,Bengaluru Urban,Leprosy Cured,60-80,10,0,0,10
+Karnataka,Bengaluru Urban,Leprosy Cured,80+,0,1,0,1
+Karnataka,Bengaluru Urban,Locomotor Disability,0-6,35,29,0,64
+Karnataka,Bengaluru Urban,Locomotor Disability,Jun-15,439,289,0,728
+Karnataka,Bengaluru Urban,Locomotor Disability,15-35,2085,1188,0,3273
+Karnataka,Bengaluru Urban,Locomotor Disability,35-60,8000,3379,4,11383
+Karnataka,Bengaluru Urban,Locomotor Disability,60-80,2711,551,0,3262
+Karnataka,Bengaluru Urban,Locomotor Disability,80+,134,27,0,161
+Karnataka,Bengaluru Urban,Low Vision,0-6,0,0,0,0
+Karnataka,Bengaluru Urban,Low Vision,Jun-15,39,19,0,58
+Karnataka,Bengaluru Urban,Low Vision,15-35,189,98,0,287
+Karnataka,Bengaluru Urban,Low Vision,35-60,200,103,0,303
+Karnataka,Bengaluru Urban,Low Vision,60-80,57,14,0,71
+Karnataka,Bengaluru Urban,Low Vision,80+,4,3,0,7
+Karnataka,Bengaluru Urban,Mental Illness,0-6,2,3,0,5
+Karnataka,Bengaluru Urban,Mental Illness,Jun-15,56,38,0,94
+Karnataka,Bengaluru Urban,Mental Illness,15-35,578,274,0,852
+Karnataka,Bengaluru Urban,Mental Illness,35-60,981,653,0,1634
+Karnataka,Bengaluru Urban,Mental Illness,60-80,132,118,0,250
+Karnataka,Bengaluru Urban,Mental Illness,80+,5,1,0,6
+Karnataka,Bengaluru Urban,Multiple Disabilities,0-6,30,20,0,50
+Karnataka,Bengaluru Urban,Multiple Disabilities,Jun-15,426,197,0,623
+Karnataka,Bengaluru Urban,Multiple Disabilities,15-35,559,320,1,880
+Karnataka,Bengaluru Urban,Multiple Disabilities,35-60,251,124,0,375
+Karnataka,Bengaluru Urban,Multiple Disabilities,60-80,57,15,0,72
+Karnataka,Bengaluru Urban,Multiple Disabilities,80+,4,1,0,5
+Karnataka,Bengaluru Urban,Multiple Sclerosis,0-6,0,0,0,0
+Karnataka,Bengaluru Urban,Multiple Sclerosis,Jun-15,1,2,0,3
+Karnataka,Bengaluru Urban,Multiple Sclerosis,15-35,9,4,0,13
+Karnataka,Bengaluru Urban,Multiple Sclerosis,35-60,24,25,0,49
+Karnataka,Bengaluru Urban,Multiple Sclerosis,60-80,8,0,0,8
+Karnataka,Bengaluru Urban,Muscular Dystrophy,0-6,3,3,0,6
+Karnataka,Bengaluru Urban,Muscular Dystrophy,Jun-15,37,6,0,43
+Karnataka,Bengaluru Urban,Muscular Dystrophy,15-35,77,30,0,107
+Karnataka,Bengaluru Urban,Muscular Dystrophy,35-60,68,23,0,91
+Karnataka,Bengaluru Urban,Muscular Dystrophy,60-80,19,3,0,22
+Karnataka,Bengaluru Urban,Muscular Dystrophy,80+,0,0,0,0
+Karnataka,Bengaluru Urban,Parkinson'S Disease,15-35,0,2,0,2
+Karnataka,Bengaluru Urban,Parkinson'S Disease,35-60,3,2,0,5
+Karnataka,Bengaluru Urban,Parkinson'S Disease,60-80,5,2,0,7
+Karnataka,Bengaluru Urban,Sickle Cell Disease,Jun-15,1,0,0,1
+Karnataka,Bengaluru Urban,Sickle Cell Disease,15-35,0,1,0,1
+Karnataka,Bengaluru Urban,Sickle Cell Disease,35-60,2,0,0,2
+Karnataka,Bengaluru Urban,Sickle Cell Disease,60-80,0,0,0,0
+Karnataka,Bengaluru Urban,Specific Learning Disabilities,0-6,0,0,0,0
+Karnataka,Bengaluru Urban,Specific Learning Disabilities,Jun-15,3,1,0,4
+Karnataka,Bengaluru Urban,Specific Learning Disabilities,15-35,30,7,0,37
+Karnataka,Bengaluru Urban,Specific Learning Disabilities,35-60,2,1,0,3
+Karnataka,Bengaluru Urban,Speech And Language Disability,0-6,1,0,0,1
+Karnataka,Bengaluru Urban,Speech And Language Disability,Jun-15,12,6,0,18
+Karnataka,Bengaluru Urban,Speech And Language Disability,15-35,20,10,0,30
+Karnataka,Bengaluru Urban,Speech And Language Disability,35-60,14,5,0,19
+Karnataka,Bengaluru Urban,Speech And Language Disability,60-80,11,2,0,13
+Karnataka,Bengaluru Urban,Speech And Language Disability,80+,1,0,0,1
+Karnataka,Bengaluru Urban,Thalassemia,0-6,1,1,0,2
+Karnataka,Bengaluru Urban,Thalassemia,Jun-15,8,10,0,18
+Karnataka,Bengaluru Urban,Thalassemia,15-35,17,19,0,36
+Karnataka,Bengaluru Urban,Thalassemia,35-60,2,0,0,2
+Karnataka,Bengaluru Urban,Thalassemia,60-80,1,0,0,1
+Karnataka,Bidar,Acid Attack Victim,Jun-15,1,1,0,2
+Karnataka,Bidar,Acid Attack Victim,15-35,6,2,0,8
+Karnataka,Bidar,Acid Attack Victim,35-60,12,4,0,16
+Karnataka,Bidar,Acid Attack Victim,60-80,4,0,0,4
+Karnataka,Bidar,Acid Attack Victim,80+,1,0,0,1
+Karnataka,Bidar,Autism Spectrum Disorder,0-6,15,11,0,26
+Karnataka,Bidar,Autism Spectrum Disorder,Jun-15,9,1,0,10
+Karnataka,Bidar,Autism Spectrum Disorder,15-35,6,1,0,7
+Karnataka,Bidar,Autism Spectrum Disorder,35-60,2,1,0,3
+Karnataka,Bidar,Autism Spectrum Disorder,60-80,0,1,0,1
+Karnataka,Bidar,Blindness,0-6,5,8,0,13
+Karnataka,Bidar,Blindness,Jun-15,42,47,1,90
+Karnataka,Bidar,Blindness,15-35,318,225,0,543
+Karnataka,Bidar,Blindness,35-60,510,238,0,748
+Karnataka,Bidar,Blindness,60-80,193,94,0,287
+Karnataka,Bidar,Blindness,80+,19,8,0,27
+Karnataka,Bidar,Cerebral Palsy,0-6,18,5,1,24
+Karnataka,Bidar,Cerebral Palsy,Jun-15,47,24,0,71
+Karnataka,Bidar,Cerebral Palsy,15-35,40,18,0,58
+Karnataka,Bidar,Cerebral Palsy,35-60,138,23,0,161
+Karnataka,Bidar,Cerebral Palsy,60-80,32,4,0,36
+Karnataka,Bidar,Cerebral Palsy,80+,1,0,0,1
+Karnataka,Bidar,Chronic Neurological Conditions,0-6,1,0,0,1
+Karnataka,Bidar,Chronic Neurological Conditions,Jun-15,1,1,0,2
+Karnataka,Bidar,Chronic Neurological Conditions,15-35,41,12,0,53
+Karnataka,Bidar,Chronic Neurological Conditions,35-60,215,41,0,256
+Karnataka,Bidar,Chronic Neurological Conditions,60-80,60,5,0,65
+Karnataka,Bidar,Chronic Neurological Conditions,80+,3,1,0,4
+Karnataka,Bidar,Dwarfism,0-6,0,1,0,1
+Karnataka,Bidar,Dwarfism,Jun-15,3,5,0,8
+Karnataka,Bidar,Dwarfism,15-35,17,32,0,49
+Karnataka,Bidar,Dwarfism,35-60,19,18,0,37
+Karnataka,Bidar,Dwarfism,60-80,5,3,0,8
+Karnataka,Bidar,Dwarfism,80+,3,0,0,3
+Karnataka,Bidar,Hearing Impairment,0-6,19,16,0,35
+Karnataka,Bidar,Hearing Impairment,Jun-15,113,97,0,210
+Karnataka,Bidar,Hearing Impairment,15-35,251,201,0,452
+Karnataka,Bidar,Hearing Impairment,35-60,283,161,0,444
+Karnataka,Bidar,Hearing Impairment,60-80,56,26,0,82
+Karnataka,Bidar,Hearing Impairment,80+,6,0,0,6
+Karnataka,Bidar,Hemophilia,0-6,5,0,0,5
+Karnataka,Bidar,Hemophilia,Jun-15,10,1,0,11
+Karnataka,Bidar,Hemophilia,15-35,14,8,0,22
+Karnataka,Bidar,Hemophilia,35-60,51,9,0,60
+Karnataka,Bidar,Hemophilia,60-80,17,1,0,18
+Karnataka,Bidar,Hemophilia,80+,1,1,0,2
+Karnataka,Bidar,Intellectual Disability,0-6,29,16,0,45
+Karnataka,Bidar,Intellectual Disability,Jun-15,232,129,0,361
+Karnataka,Bidar,Intellectual Disability,15-35,310,172,0,482
+Karnataka,Bidar,Intellectual Disability,35-60,78,56,0,134
+Karnataka,Bidar,Intellectual Disability,60-80,3,5,0,8
+Karnataka,Bidar,Intellectual Disability,80+,0,1,0,1
+Karnataka,Bidar,Leprosy Cured,0-6,0,0,0,0
+Karnataka,Bidar,Leprosy Cured,Jun-15,1,0,0,1
+Karnataka,Bidar,Leprosy Cured,15-35,10,7,0,17
+Karnataka,Bidar,Leprosy Cured,35-60,35,13,0,48
+Karnataka,Bidar,Leprosy Cured,60-80,42,20,0,62
+Karnataka,Bidar,Leprosy Cured,80+,4,2,0,6
+Karnataka,Bidar,Locomotor Disability,0-6,71,40,0,111
+Karnataka,Bidar,Locomotor Disability,Jun-15,467,309,0,776
+Karnataka,Bidar,Locomotor Disability,15-35,2061,1188,2,3251
+Karnataka,Bidar,Locomotor Disability,35-60,5488,2176,0,7664
+Karnataka,Bidar,Locomotor Disability,60-80,1289,348,0,1637
+Karnataka,Bidar,Locomotor Disability,80+,100,22,0,122
+Karnataka,Bidar,Low Vision,0-6,2,0,0,2
+Karnataka,Bidar,Low Vision,Jun-15,27,17,0,44
+Karnataka,Bidar,Low Vision,15-35,122,64,0,186
+Karnataka,Bidar,Low Vision,35-60,99,55,0,154
+Karnataka,Bidar,Low Vision,60-80,39,11,0,50
+Karnataka,Bidar,Low Vision,80+,6,1,0,7
+Karnataka,Bidar,Mental Illness,0-6,21,13,0,34
+Karnataka,Bidar,Mental Illness,Jun-15,245,156,0,401
+Karnataka,Bidar,Mental Illness,15-35,498,393,0,891
+Karnataka,Bidar,Mental Illness,35-60,312,218,0,530
+Karnataka,Bidar,Mental Illness,60-80,25,10,0,35
+Karnataka,Bidar,Mental Illness,80+,3,1,0,4
+Karnataka,Bidar,Multiple Disabilities,0-6,7,4,0,11
+Karnataka,Bidar,Multiple Disabilities,Jun-15,101,77,0,178
+Karnataka,Bidar,Multiple Disabilities,15-35,227,179,0,406
+Karnataka,Bidar,Multiple Disabilities,35-60,195,86,0,281
+Karnataka,Bidar,Multiple Disabilities,60-80,43,3,0,46
+Karnataka,Bidar,Multiple Disabilities,80+,3,0,0,3
+Karnataka,Bidar,Multiple Sclerosis,0-6,0,1,0,1
+Karnataka,Bidar,Multiple Sclerosis,Jun-15,1,2,0,3
+Karnataka,Bidar,Multiple Sclerosis,15-35,7,4,0,11
+Karnataka,Bidar,Multiple Sclerosis,35-60,16,1,0,17
+Karnataka,Bidar,Multiple Sclerosis,60-80,5,0,0,5
+Karnataka,Bidar,Muscular Dystrophy,0-6,3,2,0,5
+Karnataka,Bidar,Muscular Dystrophy,Jun-15,17,4,0,21
+Karnataka,Bidar,Muscular Dystrophy,15-35,40,19,0,59
+Karnataka,Bidar,Muscular Dystrophy,35-60,52,11,0,63
+Karnataka,Bidar,Muscular Dystrophy,60-80,24,4,0,28
+Karnataka,Bidar,Muscular Dystrophy,80+,2,0,0,2
+Karnataka,Bidar,Parkinson'S Disease,15-35,2,1,0,3
+Karnataka,Bidar,Parkinson'S Disease,35-60,3,2,0,5
+Karnataka,Bidar,Parkinson'S Disease,60-80,2,0,0,2
+Karnataka,Bidar,Sickle Cell Disease,Jun-15,0,0,0,0
+Karnataka,Bidar,Sickle Cell Disease,15-35,1,1,0,2
+Karnataka,Bidar,Sickle Cell Disease,35-60,4,3,0,7
+Karnataka,Bidar,Sickle Cell Disease,60-80,1,0,0,1
+Karnataka,Bidar,Specific Learning Disabilities,Jun-15,0,0,0,0
+Karnataka,Bidar,Specific Learning Disabilities,15-35,4,2,0,6
+Karnataka,Bidar,Specific Learning Disabilities,35-60,5,1,0,6
+Karnataka,Bidar,Specific Learning Disabilities,60-80,0,1,0,1
+Karnataka,Bidar,Specific Learning Disabilities,80+,1,0,0,1
+Karnataka,Bidar,Speech And Language Disability,0-6,2,1,0,3
+Karnataka,Bidar,Speech And Language Disability,Jun-15,37,34,0,71
+Karnataka,Bidar,Speech And Language Disability,15-35,88,71,0,159
+Karnataka,Bidar,Speech And Language Disability,35-60,57,32,0,89
+Karnataka,Bidar,Speech And Language Disability,60-80,13,6,0,19
+Karnataka,Bidar,Speech And Language Disability,80+,0,0,0,0
+Karnataka,Bidar,Thalassemia,0-6,1,1,0,2
+Karnataka,Bidar,Thalassemia,Jun-15,5,6,0,11
+Karnataka,Bidar,Thalassemia,15-35,4,1,0,5
+Karnataka,Bidar,Thalassemia,35-60,3,1,0,4
+Karnataka,Bidar,Thalassemia,60-80,0,0,0,0
+Karnataka,Chamarajanagara,Acid Attack Victim,15-35,0,2,0,2
+Karnataka,Chamarajanagara,Acid Attack Victim,35-60,4,3,0,7
+Karnataka,Chamarajanagara,Autism Spectrum Disorder,Jun-15,0,0,0,0
+Karnataka,Chamarajanagara,Autism Spectrum Disorder,15-35,0,1,0,1
+Karnataka,Chamarajanagara,Autism Spectrum Disorder,35-60,2,1,0,3
+Karnataka,Chamarajanagara,Autism Spectrum Disorder,80+,1,0,0,1
+Karnataka,Chamarajanagara,Blindness,0-6,3,2,0,5
+Karnataka,Chamarajanagara,Blindness,Jun-15,56,35,0,91
+Karnataka,Chamarajanagara,Blindness,15-35,354,283,0,637
+Karnataka,Chamarajanagara,Blindness,35-60,926,624,0,1550
+Karnataka,Chamarajanagara,Blindness,60-80,330,183,0,513
+Karnataka,Chamarajanagara,Blindness,80+,21,7,0,28
+Karnataka,Chamarajanagara,Cerebral Palsy,0-6,15,10,0,25
+Karnataka,Chamarajanagara,Cerebral Palsy,Jun-15,72,35,0,107
+Karnataka,Chamarajanagara,Cerebral Palsy,15-35,62,40,0,102
+Karnataka,Chamarajanagara,Cerebral Palsy,35-60,11,4,0,15
+Karnataka,Chamarajanagara,Cerebral Palsy,60-80,1,2,0,3
+Karnataka,Chamarajanagara,Cerebral Palsy,80+,0,1,0,1
+Karnataka,Chamarajanagara,Chronic Neurological Conditions,Jun-15,1,0,0,1
+Karnataka,Chamarajanagara,Chronic Neurological Conditions,15-35,12,8,0,20
+Karnataka,Chamarajanagara,Chronic Neurological Conditions,35-60,161,24,0,185
+Karnataka,Chamarajanagara,Chronic Neurological Conditions,60-80,67,15,0,82
+Karnataka,Chamarajanagara,Chronic Neurological Conditions,80+,1,1,0,2
+Karnataka,Chamarajanagara,Dwarfism,Jun-15,3,4,0,7
+Karnataka,Chamarajanagara,Dwarfism,15-35,23,31,0,54
+Karnataka,Chamarajanagara,Dwarfism,35-60,7,25,0,32
+Karnataka,Chamarajanagara,Dwarfism,60-80,2,3,0,5
+Karnataka,Chamarajanagara,Hearing Impairment,0-6,9,3,0,12
+Karnataka,Chamarajanagara,Hearing Impairment,Jun-15,66,37,0,103
+Karnataka,Chamarajanagara,Hearing Impairment,15-35,206,166,0,372
+Karnataka,Chamarajanagara,Hearing Impairment,35-60,222,139,0,361
+Karnataka,Chamarajanagara,Hearing Impairment,60-80,64,26,0,90
+Karnataka,Chamarajanagara,Hearing Impairment,80+,1,1,0,2
+Karnataka,Chamarajanagara,Hemophilia,0-6,0,0,0,0
+Karnataka,Chamarajanagara,Hemophilia,Jun-15,2,0,0,2
+Karnataka,Chamarajanagara,Hemophilia,15-35,7,0,0,7
+Karnataka,Chamarajanagara,Hemophilia,35-60,0,0,0,0
+Karnataka,Chamarajanagara,Hemophilia,60-80,2,0,0,2
+Karnataka,Chamarajanagara,Hemophilia,80+,1,0,0,1
+Karnataka,Chamarajanagara,Intellectual Disability,0-6,7,3,0,10
+Karnataka,Chamarajanagara,Intellectual Disability,Jun-15,110,96,0,206
+Karnataka,Chamarajanagara,Intellectual Disability,15-35,389,285,0,674
+Karnataka,Chamarajanagara,Intellectual Disability,35-60,181,146,0,327
+Karnataka,Chamarajanagara,Intellectual Disability,60-80,13,3,0,16
+Karnataka,Chamarajanagara,Leprosy Cured,15-35,2,1,0,3
+Karnataka,Chamarajanagara,Leprosy Cured,35-60,9,4,0,13
+Karnataka,Chamarajanagara,Leprosy Cured,60-80,12,0,0,12
+Karnataka,Chamarajanagara,Leprosy Cured,80+,0,1,0,1
+Karnataka,Chamarajanagara,Locomotor Disability,0-6,31,17,0,48
+Karnataka,Chamarajanagara,Locomotor Disability,Jun-15,325,203,0,528
+Karnataka,Chamarajanagara,Locomotor Disability,15-35,1324,711,1,2036
+Karnataka,Chamarajanagara,Locomotor Disability,35-60,4175,1897,0,6072
+Karnataka,Chamarajanagara,Locomotor Disability,60-80,1517,475,0,1992
+Karnataka,Chamarajanagara,Locomotor Disability,80+,103,22,0,125
+Karnataka,Chamarajanagara,Low Vision,0-6,0,2,0,2
+Karnataka,Chamarajanagara,Low Vision,Jun-15,37,27,0,64
+Karnataka,Chamarajanagara,Low Vision,15-35,154,103,0,257
+Karnataka,Chamarajanagara,Low Vision,35-60,328,220,0,548
+Karnataka,Chamarajanagara,Low Vision,60-80,63,25,0,88
+Karnataka,Chamarajanagara,Low Vision,80+,2,1,0,3
+Karnataka,Chamarajanagara,Mental Illness,0-6,0,0,0,0
+Karnataka,Chamarajanagara,Mental Illness,Jun-15,15,9,0,24
+Karnataka,Chamarajanagara,Mental Illness,15-35,86,71,0,157
+Karnataka,Chamarajanagara,Mental Illness,35-60,140,85,0,225
+Karnataka,Chamarajanagara,Mental Illness,60-80,18,6,0,24
+Karnataka,Chamarajanagara,Mental Illness,80+,1,0,0,1
+Karnataka,Chamarajanagara,Multiple Disabilities,0-6,0,0,0,0
+Karnataka,Chamarajanagara,Multiple Disabilities,Jun-15,17,11,0,28
+Karnataka,Chamarajanagara,Multiple Disabilities,15-35,67,66,0,133
+Karnataka,Chamarajanagara,Multiple Disabilities,35-60,72,47,0,119
+Karnataka,Chamarajanagara,Multiple Disabilities,60-80,14,6,0,20
+Karnataka,Chamarajanagara,Multiple Disabilities,80+,0,1,0,1
+Karnataka,Chamarajanagara,Multiple Sclerosis,0-6,0,0,0,0
+Karnataka,Chamarajanagara,Multiple Sclerosis,15-35,1,3,0,4
+Karnataka,Chamarajanagara,Multiple Sclerosis,35-60,3,0,0,3
+Karnataka,Chamarajanagara,Multiple Sclerosis,60-80,3,1,0,4
+Karnataka,Chamarajanagara,Muscular Dystrophy,Jun-15,2,0,0,2
+Karnataka,Chamarajanagara,Muscular Dystrophy,15-35,4,4,0,8
+Karnataka,Chamarajanagara,Muscular Dystrophy,35-60,3,2,0,5
+Karnataka,Chamarajanagara,Muscular Dystrophy,60-80,2,0,0,2
+Karnataka,Chamarajanagara,Parkinson'S Disease,Jun-15,0,0,0,0
+Karnataka,Chamarajanagara,Parkinson'S Disease,35-60,5,0,0,5
+Karnataka,Chamarajanagara,Parkinson'S Disease,60-80,2,1,0,3
+Karnataka,Chamarajanagara,Sickle Cell Disease,0-6,2,0,0,2
+Karnataka,Chamarajanagara,Sickle Cell Disease,Jun-15,8,5,0,13
+Karnataka,Chamarajanagara,Sickle Cell Disease,15-35,1,11,0,12
+Karnataka,Chamarajanagara,Sickle Cell Disease,35-60,1,1,0,2
+Karnataka,Chamarajanagara,Specific Learning Disabilities,Jun-15,0,0,0,0
+Karnataka,Chamarajanagara,Specific Learning Disabilities,15-35,0,0,0,0
+Karnataka,Chamarajanagara,Specific Learning Disabilities,35-60,1,1,0,2
+Karnataka,Chamarajanagara,Speech And Language Disability,0-6,0,0,0,0
+Karnataka,Chamarajanagara,Speech And Language Disability,Jun-15,4,5,0,9
+Karnataka,Chamarajanagara,Speech And Language Disability,15-35,13,13,0,26
+Karnataka,Chamarajanagara,Speech And Language Disability,35-60,23,18,0,41
+Karnataka,Chamarajanagara,Speech And Language Disability,60-80,4,3,0,7
+Karnataka,Chamarajanagara,Thalassemia,Jun-15,3,5,0,8
+Karnataka,Chamarajanagara,Thalassemia,15-35,4,1,0,5
+Karnataka,Chamarajanagara,Thalassemia,35-60,1,0,0,1
+Karnataka,Chikkaballapura,Acid Attack Victim,Jun-15,0,1,0,1
+Karnataka,Chikkaballapura,Acid Attack Victim,15-35,0,1,0,1
+Karnataka,Chikkaballapura,Acid Attack Victim,35-60,4,6,0,10
+Karnataka,Chikkaballapura,Acid Attack Victim,60-80,1,2,0,3
+Karnataka,Chikkaballapura,Acid Attack Victim,80+,0,0,0,0
+Karnataka,Chikkaballapura,Autism Spectrum Disorder,0-6,1,1,0,2
+Karnataka,Chikkaballapura,Autism Spectrum Disorder,Jun-15,11,1,0,12
+Karnataka,Chikkaballapura,Autism Spectrum Disorder,15-35,4,2,0,6
+Karnataka,Chikkaballapura,Autism Spectrum Disorder,35-60,6,1,0,7
+Karnataka,Chikkaballapura,Autism Spectrum Disorder,60-80,1,1,0,2
+Karnataka,Chikkaballapura,Autism Spectrum Disorder,80+,0,0,0,0
+Karnataka,Chikkaballapura,Blindness,0-6,3,4,0,7
+Karnataka,Chikkaballapura,Blindness,Jun-15,41,26,0,67
+Karnataka,Chikkaballapura,Blindness,15-35,260,222,0,482
+Karnataka,Chikkaballapura,Blindness,35-60,596,372,0,968
+Karnataka,Chikkaballapura,Blindness,60-80,271,124,0,395
+Karnataka,Chikkaballapura,Blindness,80+,33,15,0,48
+Karnataka,Chikkaballapura,Cerebral Palsy,0-6,4,3,0,7
+Karnataka,Chikkaballapura,Cerebral Palsy,Jun-15,27,10,0,37
+Karnataka,Chikkaballapura,Cerebral Palsy,15-35,41,22,0,63
+Karnataka,Chikkaballapura,Cerebral Palsy,35-60,14,7,0,21
+Karnataka,Chikkaballapura,Cerebral Palsy,60-80,5,2,0,7
+Karnataka,Chikkaballapura,Cerebral Palsy,80+,0,0,0,0
+Karnataka,Chikkaballapura,Chronic Neurological Conditions,0-6,3,1,0,4
+Karnataka,Chikkaballapura,Chronic Neurological Conditions,Jun-15,9,8,0,17
+Karnataka,Chikkaballapura,Chronic Neurological Conditions,15-35,92,44,0,136
+Karnataka,Chikkaballapura,Chronic Neurological Conditions,35-60,610,228,0,838
+Karnataka,Chikkaballapura,Chronic Neurological Conditions,60-80,254,57,0,311
+Karnataka,Chikkaballapura,Chronic Neurological Conditions,80+,6,0,0,6
+Karnataka,Chikkaballapura,Dwarfism,0-6,2,0,0,2
+Karnataka,Chikkaballapura,Dwarfism,Jun-15,3,2,0,5
+Karnataka,Chikkaballapura,Dwarfism,15-35,12,22,0,34
+Karnataka,Chikkaballapura,Dwarfism,35-60,23,23,0,46
+Karnataka,Chikkaballapura,Dwarfism,60-80,3,2,0,5
+Karnataka,Chikkaballapura,Hearing Impairment,0-6,3,13,0,16
+Karnataka,Chikkaballapura,Hearing Impairment,Jun-15,93,89,0,182
+Karnataka,Chikkaballapura,Hearing Impairment,15-35,348,274,0,622
+Karnataka,Chikkaballapura,Hearing Impairment,35-60,933,932,1,1866
+Karnataka,Chikkaballapura,Hearing Impairment,60-80,474,222,1,697
+Karnataka,Chikkaballapura,Hearing Impairment,80+,72,8,0,80
+Karnataka,Chikkaballapura,Hemophilia,Jun-15,3,1,0,4
+Karnataka,Chikkaballapura,Hemophilia,15-35,4,1,0,5
+Karnataka,Chikkaballapura,Hemophilia,35-60,8,0,0,8
+Karnataka,Chikkaballapura,Hemophilia,60-80,7,0,0,7
+Karnataka,Chikkaballapura,Intellectual Disability,0-6,9,9,0,18
+Karnataka,Chikkaballapura,Intellectual Disability,Jun-15,308,231,1,540
+Karnataka,Chikkaballapura,Intellectual Disability,15-35,659,517,0,1176
+Karnataka,Chikkaballapura,Intellectual Disability,35-60,376,357,0,733
+Karnataka,Chikkaballapura,Intellectual Disability,60-80,47,27,0,74
+Karnataka,Chikkaballapura,Intellectual Disability,80+,0,1,0,1
+Karnataka,Chikkaballapura,Leprosy Cured,Jun-15,0,1,0,1
+Karnataka,Chikkaballapura,Leprosy Cured,15-35,1,3,0,4
+Karnataka,Chikkaballapura,Leprosy Cured,35-60,15,6,0,21
+Karnataka,Chikkaballapura,Leprosy Cured,60-80,7,7,0,14
+Karnataka,Chikkaballapura,Leprosy Cured,80+,2,1,0,3
+Karnataka,Chikkaballapura,Locomotor Disability,0-6,18,11,0,29
+Karnataka,Chikkaballapura,Locomotor Disability,Jun-15,204,116,0,320
+Karnataka,Chikkaballapura,Locomotor Disability,15-35,1101,631,0,1732
+Karnataka,Chikkaballapura,Locomotor Disability,35-60,4134,2154,1,6289
+Karnataka,Chikkaballapura,Locomotor Disability,60-80,1640,477,0,2117
+Karnataka,Chikkaballapura,Locomotor Disability,80+,129,19,0,148
+Karnataka,Chikkaballapura,Low Vision,Jun-15,3,4,0,7
+Karnataka,Chikkaballapura,Low Vision,15-35,17,14,0,31
+Karnataka,Chikkaballapura,Low Vision,35-60,38,15,0,53
+Karnataka,Chikkaballapura,Low Vision,60-80,12,5,0,17
+Karnataka,Chikkaballapura,Low Vision,80+,1,1,0,2
+Karnataka,Chikkaballapura,Mental Illness,Jun-15,28,7,0,35
+Karnataka,Chikkaballapura,Mental Illness,15-35,98,90,0,188
+Karnataka,Chikkaballapura,Mental Illness,35-60,132,142,0,274
+Karnataka,Chikkaballapura,Mental Illness,60-80,19,30,0,49
+Karnataka,Chikkaballapura,Mental Illness,80+,0,2,0,2
+Karnataka,Chikkaballapura,Multiple Disabilities,0-6,2,4,0,6
+Karnataka,Chikkaballapura,Multiple Disabilities,Jun-15,52,36,0,88
+Karnataka,Chikkaballapura,Multiple Disabilities,15-35,121,73,0,194
+Karnataka,Chikkaballapura,Multiple Disabilities,35-60,158,74,0,232
+Karnataka,Chikkaballapura,Multiple Disabilities,60-80,57,15,0,72
+Karnataka,Chikkaballapura,Multiple Disabilities,80+,2,1,0,3
+Karnataka,Chikkaballapura,Multiple Sclerosis,Jun-15,0,1,0,1
+Karnataka,Chikkaballapura,Multiple Sclerosis,15-35,0,2,0,2
+Karnataka,Chikkaballapura,Multiple Sclerosis,35-60,5,0,0,5
+Karnataka,Chikkaballapura,Multiple Sclerosis,60-80,0,0,0,0
+Karnataka,Chikkaballapura,Multiple Sclerosis,80+,0,0,0,0
+Karnataka,Chikkaballapura,Muscular Dystrophy,Jun-15,5,2,0,7
+Karnataka,Chikkaballapura,Muscular Dystrophy,15-35,5,3,0,8
+Karnataka,Chikkaballapura,Muscular Dystrophy,35-60,12,4,0,16
+Karnataka,Chikkaballapura,Muscular Dystrophy,60-80,6,2,0,8
+Karnataka,Chikkaballapura,Parkinson'S Disease,15-35,0,0,0,0
+Karnataka,Chikkaballapura,Parkinson'S Disease,35-60,2,2,0,4
+Karnataka,Chikkaballapura,Parkinson'S Disease,60-80,0,3,0,3
+Karnataka,Chikkaballapura,Parkinson'S Disease,80+,1,0,0,1
+Karnataka,Chikkaballapura,Sickle Cell Disease,Jun-15,0,0,0,0
+Karnataka,Chikkaballapura,Sickle Cell Disease,15-35,1,0,0,1
+Karnataka,Chikkaballapura,Sickle Cell Disease,35-60,1,0,0,1
+Karnataka,Chikkaballapura,Sickle Cell Disease,60-80,0,0,0,0
+Karnataka,Chikkaballapura,Specific Learning Disabilities,Jun-15,0,1,0,1
+Karnataka,Chikkaballapura,Specific Learning Disabilities,15-35,3,2,0,5
+Karnataka,Chikkaballapura,Specific Learning Disabilities,35-60,3,1,0,4
+Karnataka,Chikkaballapura,Specific Learning Disabilities,60-80,2,0,0,2
+Karnataka,Chikkaballapura,Speech And Language Disability,0-6,0,2,0,2
+Karnataka,Chikkaballapura,Speech And Language Disability,Jun-15,12,13,0,25
+Karnataka,Chikkaballapura,Speech And Language Disability,15-35,39,28,0,67
+Karnataka,Chikkaballapura,Speech And Language Disability,35-60,49,30,0,79
+Karnataka,Chikkaballapura,Speech And Language Disability,60-80,15,6,0,21
+Karnataka,Chikkaballapura,Speech And Language Disability,80+,1,0,0,1
+Karnataka,Chikkaballapura,Thalassemia,Jun-15,1,1,0,2
+Karnataka,Chikkaballapura,Thalassemia,15-35,5,2,0,7
+Karnataka,Chikkaballapura,Thalassemia,35-60,0,3,0,3
+Karnataka,Chikkaballapura,Thalassemia,60-80,0,0,0,0
+Karnataka,Chikkamagaluru,Acid Attack Victim,Jun-15,0,0,0,0
+Karnataka,Chikkamagaluru,Acid Attack Victim,15-35,1,3,0,4
+Karnataka,Chikkamagaluru,Acid Attack Victim,35-60,4,11,0,15
+Karnataka,Chikkamagaluru,Acid Attack Victim,60-80,2,0,0,2
+Karnataka,Chikkamagaluru,Autism Spectrum Disorder,0-6,1,1,0,2
+Karnataka,Chikkamagaluru,Autism Spectrum Disorder,Jun-15,15,5,0,20
+Karnataka,Chikkamagaluru,Autism Spectrum Disorder,15-35,9,3,0,12
+Karnataka,Chikkamagaluru,Autism Spectrum Disorder,35-60,14,8,0,22
+Karnataka,Chikkamagaluru,Autism Spectrum Disorder,60-80,9,1,0,10
+Karnataka,Chikkamagaluru,Autism Spectrum Disorder,80+,0,0,0,0
+Karnataka,Chikkamagaluru,Blindness,0-6,4,2,0,6
+Karnataka,Chikkamagaluru,Blindness,Jun-15,23,21,0,44
+Karnataka,Chikkamagaluru,Blindness,15-35,212,139,0,351
+Karnataka,Chikkamagaluru,Blindness,35-60,488,365,0,853
+Karnataka,Chikkamagaluru,Blindness,60-80,259,125,0,384
+Karnataka,Chikkamagaluru,Blindness,80+,25,14,0,39
+Karnataka,Chikkamagaluru,Cerebral Palsy,0-6,6,5,0,11
+Karnataka,Chikkamagaluru,Cerebral Palsy,Jun-15,38,15,0,53
+Karnataka,Chikkamagaluru,Cerebral Palsy,15-35,62,45,0,107
+Karnataka,Chikkamagaluru,Cerebral Palsy,35-60,31,25,0,56
+Karnataka,Chikkamagaluru,Cerebral Palsy,60-80,10,4,0,14
+Karnataka,Chikkamagaluru,Chronic Neurological Conditions,0-6,0,1,0,1
+Karnataka,Chikkamagaluru,Chronic Neurological Conditions,Jun-15,5,5,0,10
+Karnataka,Chikkamagaluru,Chronic Neurological Conditions,15-35,10,7,0,17
+Karnataka,Chikkamagaluru,Chronic Neurological Conditions,35-60,198,47,0,245
+Karnataka,Chikkamagaluru,Chronic Neurological Conditions,60-80,71,14,0,85
+Karnataka,Chikkamagaluru,Chronic Neurological Conditions,80+,2,0,0,2
+Karnataka,Chikkamagaluru,Dwarfism,Jun-15,1,1,0,2
+Karnataka,Chikkamagaluru,Dwarfism,15-35,10,24,0,34
+Karnataka,Chikkamagaluru,Dwarfism,35-60,17,19,0,36
+Karnataka,Chikkamagaluru,Dwarfism,60-80,1,6,0,7
+Karnataka,Chikkamagaluru,Hearing Impairment,0-6,2,7,0,9
+Karnataka,Chikkamagaluru,Hearing Impairment,Jun-15,75,70,0,145
+Karnataka,Chikkamagaluru,Hearing Impairment,15-35,227,211,0,438
+Karnataka,Chikkamagaluru,Hearing Impairment,35-60,413,439,0,852
+Karnataka,Chikkamagaluru,Hearing Impairment,60-80,254,126,0,380
+Karnataka,Chikkamagaluru,Hearing Impairment,80+,31,14,0,45
+Karnataka,Chikkamagaluru,Hemophilia,0-6,1,0,0,1
+Karnataka,Chikkamagaluru,Hemophilia,Jun-15,3,2,0,5
+Karnataka,Chikkamagaluru,Hemophilia,15-35,5,1,0,6
+Karnataka,Chikkamagaluru,Hemophilia,35-60,8,6,0,14
+Karnataka,Chikkamagaluru,Hemophilia,60-80,10,0,0,10
+Karnataka,Chikkamagaluru,Hemophilia,80+,1,0,0,1
+Karnataka,Chikkamagaluru,Intellectual Disability,0-6,17,6,0,23
+Karnataka,Chikkamagaluru,Intellectual Disability,Jun-15,192,127,0,319
+Karnataka,Chikkamagaluru,Intellectual Disability,15-35,461,331,1,793
+Karnataka,Chikkamagaluru,Intellectual Disability,35-60,261,208,2,471
+Karnataka,Chikkamagaluru,Intellectual Disability,60-80,32,15,0,47
+Karnataka,Chikkamagaluru,Intellectual Disability,80+,2,0,0,2
+Karnataka,Chikkamagaluru,Leprosy Cured,0-6,0,0,0,0
+Karnataka,Chikkamagaluru,Leprosy Cured,Jun-15,0,0,0,0
+Karnataka,Chikkamagaluru,Leprosy Cured,15-35,1,1,0,2
+Karnataka,Chikkamagaluru,Leprosy Cured,35-60,4,3,0,7
+Karnataka,Chikkamagaluru,Leprosy Cured,60-80,3,0,0,3
+Karnataka,Chikkamagaluru,Leprosy Cured,80+,0,1,0,1
+Karnataka,Chikkamagaluru,Locomotor Disability,0-6,14,9,0,23
+Karnataka,Chikkamagaluru,Locomotor Disability,Jun-15,191,112,0,303
+Karnataka,Chikkamagaluru,Locomotor Disability,15-35,897,533,0,1430
+Karnataka,Chikkamagaluru,Locomotor Disability,35-60,3078,1598,1,4677
+Karnataka,Chikkamagaluru,Locomotor Disability,60-80,1337,599,0,1936
+Karnataka,Chikkamagaluru,Locomotor Disability,80+,96,46,0,142
+Karnataka,Chikkamagaluru,Low Vision,Jun-15,15,9,0,24
+Karnataka,Chikkamagaluru,Low Vision,15-35,89,52,0,141
+Karnataka,Chikkamagaluru,Low Vision,35-60,124,66,0,190
+Karnataka,Chikkamagaluru,Low Vision,60-80,45,18,0,63
+Karnataka,Chikkamagaluru,Low Vision,80+,6,2,0,8
+Karnataka,Chikkamagaluru,Mental Illness,0-6,1,0,0,1
+Karnataka,Chikkamagaluru,Mental Illness,Jun-15,23,20,0,43
+Karnataka,Chikkamagaluru,Mental Illness,15-35,117,103,0,220
+Karnataka,Chikkamagaluru,Mental Illness,35-60,154,116,0,270
+Karnataka,Chikkamagaluru,Mental Illness,60-80,17,26,0,43
+Karnataka,Chikkamagaluru,Multiple Disabilities,0-6,8,2,0,10
+Karnataka,Chikkamagaluru,Multiple Disabilities,Jun-15,77,42,0,119
+Karnataka,Chikkamagaluru,Multiple Disabilities,15-35,257,192,0,449
+Karnataka,Chikkamagaluru,Multiple Disabilities,35-60,275,175,0,450
+Karnataka,Chikkamagaluru,Multiple Disabilities,60-80,117,48,1,166
+Karnataka,Chikkamagaluru,Multiple Disabilities,80+,5,8,0,13
+Karnataka,Chikkamagaluru,Multiple Sclerosis,Jun-15,1,1,0,2
+Karnataka,Chikkamagaluru,Multiple Sclerosis,15-35,4,2,0,6
+Karnataka,Chikkamagaluru,Multiple Sclerosis,35-60,10,7,0,17
+Karnataka,Chikkamagaluru,Multiple Sclerosis,60-80,2,0,0,2
+Karnataka,Chikkamagaluru,Multiple Sclerosis,80+,0,0,0,0
+Karnataka,Chikkamagaluru,Muscular Dystrophy,0-6,0,0,0,0
+Karnataka,Chikkamagaluru,Muscular Dystrophy,Jun-15,3,2,0,5
+Karnataka,Chikkamagaluru,Muscular Dystrophy,15-35,15,12,0,27
+Karnataka,Chikkamagaluru,Muscular Dystrophy,35-60,23,18,0,41
+Karnataka,Chikkamagaluru,Muscular Dystrophy,60-80,14,8,0,22
+Karnataka,Chikkamagaluru,Muscular Dystrophy,80+,1,0,0,1
+Karnataka,Chikkamagaluru,Parkinson'S Disease,15-35,1,1,0,2
+Karnataka,Chikkamagaluru,Parkinson'S Disease,35-60,8,5,0,13
+Karnataka,Chikkamagaluru,Parkinson'S Disease,60-80,6,3,0,9
+Karnataka,Chikkamagaluru,Parkinson'S Disease,80+,0,0,0,0
+Karnataka,Chikkamagaluru,Sickle Cell Disease,Jun-15,1,0,0,1
+Karnataka,Chikkamagaluru,Sickle Cell Disease,15-35,1,0,0,1
+Karnataka,Chikkamagaluru,Sickle Cell Disease,35-60,1,1,0,2
+Karnataka,Chikkamagaluru,Sickle Cell Disease,60-80,0,1,0,1
+Karnataka,Chikkamagaluru,Specific Learning Disabilities,Jun-15,0,0,0,0
+Karnataka,Chikkamagaluru,Specific Learning Disabilities,15-35,2,3,0,5
+Karnataka,Chikkamagaluru,Specific Learning Disabilities,35-60,0,0,0,0
+Karnataka,Chikkamagaluru,Speech And Language Disability,Jun-15,5,8,0,13
+Karnataka,Chikkamagaluru,Speech And Language Disability,15-35,32,18,0,50
+Karnataka,Chikkamagaluru,Speech And Language Disability,35-60,39,25,0,64
+Karnataka,Chikkamagaluru,Speech And Language Disability,60-80,9,5,0,14
+Karnataka,Chikkamagaluru,Speech And Language Disability,80+,0,0,0,0
+Karnataka,Chikkamagaluru,Thalassemia,0-6,0,1,0,1
+Karnataka,Chikkamagaluru,Thalassemia,Jun-15,9,7,0,16
+Karnataka,Chikkamagaluru,Thalassemia,15-35,10,6,0,16
+Karnataka,Chikkamagaluru,Thalassemia,35-60,1,0,0,1
+Karnataka,Chikkamagaluru,Thalassemia,60-80,0,0,0,0
+Karnataka,Chitradurga,Acid Attack Victim,Jun-15,1,1,0,2
+Karnataka,Chitradurga,Acid Attack Victim,15-35,0,2,0,2
+Karnataka,Chitradurga,Acid Attack Victim,35-60,5,6,0,11
+Karnataka,Chitradurga,Acid Attack Victim,60-80,3,1,0,4
+Karnataka,Chitradurga,Acid Attack Victim,80+,1,0,0,1
+Karnataka,Chitradurga,Autism Spectrum Disorder,0-6,0,0,0,0
+Karnataka,Chitradurga,Autism Spectrum Disorder,Jun-15,0,0,0,0
+Karnataka,Chitradurga,Autism Spectrum Disorder,15-35,1,0,0,1
+Karnataka,Chitradurga,Autism Spectrum Disorder,35-60,4,3,0,7
+Karnataka,Chitradurga,Autism Spectrum Disorder,60-80,0,0,0,0
+Karnataka,Chitradurga,Blindness,0-6,5,0,0,5
+Karnataka,Chitradurga,Blindness,Jun-15,68,46,0,114
+Karnataka,Chitradurga,Blindness,15-35,472,365,1,838
+Karnataka,Chitradurga,Blindness,35-60,1189,1021,0,2210
+Karnataka,Chitradurga,Blindness,60-80,391,206,0,597
+Karnataka,Chitradurga,Blindness,80+,30,22,0,52
+Karnataka,Chitradurga,Cerebral Palsy,0-6,17,12,0,29
+Karnataka,Chitradurga,Cerebral Palsy,Jun-15,64,63,0,127
+Karnataka,Chitradurga,Cerebral Palsy,15-35,90,54,0,144
+Karnataka,Chitradurga,Cerebral Palsy,35-60,25,30,0,55
+Karnataka,Chitradurga,Cerebral Palsy,60-80,10,3,0,13
+Karnataka,Chitradurga,Chronic Neurological Conditions,0-6,0,0,0,0
+Karnataka,Chitradurga,Chronic Neurological Conditions,Jun-15,2,1,0,3
+Karnataka,Chitradurga,Chronic Neurological Conditions,15-35,7,5,0,12
+Karnataka,Chitradurga,Chronic Neurological Conditions,35-60,12,6,0,18
+Karnataka,Chitradurga,Chronic Neurological Conditions,60-80,4,1,0,5
+Karnataka,Chitradurga,Chronic Neurological Conditions,80+,0,0,0,0
+Karnataka,Chitradurga,Dwarfism,Jun-15,5,6,0,11
+Karnataka,Chitradurga,Dwarfism,15-35,25,43,0,68
+Karnataka,Chitradurga,Dwarfism,35-60,25,24,0,49
+Karnataka,Chitradurga,Dwarfism,60-80,4,1,0,5
+Karnataka,Chitradurga,Hearing Impairment,0-6,16,10,0,26
+Karnataka,Chitradurga,Hearing Impairment,Jun-15,201,196,0,397
+Karnataka,Chitradurga,Hearing Impairment,15-35,907,681,0,1588
+Karnataka,Chitradurga,Hearing Impairment,35-60,1615,1617,0,3232
+Karnataka,Chitradurga,Hearing Impairment,60-80,674,324,1,999
+Karnataka,Chitradurga,Hearing Impairment,80+,99,14,0,113
+Karnataka,Chitradurga,Hemophilia,0-6,0,0,0,0
+Karnataka,Chitradurga,Hemophilia,Jun-15,6,2,0,8
+Karnataka,Chitradurga,Hemophilia,15-35,15,4,0,19
+Karnataka,Chitradurga,Hemophilia,35-60,7,5,0,12
+Karnataka,Chitradurga,Hemophilia,60-80,8,1,0,9
+Karnataka,Chitradurga,Intellectual Disability,0-6,6,1,0,7
+Karnataka,Chitradurga,Intellectual Disability,Jun-15,247,157,0,404
+Karnataka,Chitradurga,Intellectual Disability,15-35,336,261,0,597
+Karnataka,Chitradurga,Intellectual Disability,35-60,102,83,0,185
+Karnataka,Chitradurga,Intellectual Disability,60-80,12,8,0,20
+Karnataka,Chitradurga,Intellectual Disability,80+,0,1,0,1
+Karnataka,Chitradurga,Leprosy Cured,0-6,0,1,0,1
+Karnataka,Chitradurga,Leprosy Cured,Jun-15,2,0,0,2
+Karnataka,Chitradurga,Leprosy Cured,15-35,3,0,0,3
+Karnataka,Chitradurga,Leprosy Cured,35-60,10,3,0,13
+Karnataka,Chitradurga,Leprosy Cured,60-80,6,1,0,7
+Karnataka,Chitradurga,Leprosy Cured,80+,0,1,0,1
+Karnataka,Chitradurga,Locomotor Disability,0-6,49,35,0,84
+Karnataka,Chitradurga,Locomotor Disability,Jun-15,557,322,0,879
+Karnataka,Chitradurga,Locomotor Disability,15-35,1894,1199,0,3093
+Karnataka,Chitradurga,Locomotor Disability,35-60,4780,2238,3,7021
+Karnataka,Chitradurga,Locomotor Disability,60-80,1429,454,0,1883
+Karnataka,Chitradurga,Locomotor Disability,80+,88,27,0,115
+Karnataka,Chitradurga,Low Vision,0-6,4,3,0,7
+Karnataka,Chitradurga,Low Vision,Jun-15,181,140,0,321
+Karnataka,Chitradurga,Low Vision,15-35,876,681,0,1557
+Karnataka,Chitradurga,Low Vision,35-60,1689,1499,0,3188
+Karnataka,Chitradurga,Low Vision,60-80,419,219,1,639
+Karnataka,Chitradurga,Low Vision,80+,17,8,0,25
+Karnataka,Chitradurga,Mental Illness,0-6,2,0,0,2
+Karnataka,Chitradurga,Mental Illness,Jun-15,52,37,0,89
+Karnataka,Chitradurga,Mental Illness,15-35,350,214,0,564
+Karnataka,Chitradurga,Mental Illness,35-60,235,178,0,413
+Karnataka,Chitradurga,Mental Illness,60-80,24,16,0,40
+Karnataka,Chitradurga,Multiple Disabilities,0-6,5,2,0,7
+Karnataka,Chitradurga,Multiple Disabilities,Jun-15,63,54,0,117
+Karnataka,Chitradurga,Multiple Disabilities,15-35,114,88,0,202
+Karnataka,Chitradurga,Multiple Disabilities,35-60,156,83,0,239
+Karnataka,Chitradurga,Multiple Disabilities,60-80,49,11,0,60
+Karnataka,Chitradurga,Multiple Disabilities,80+,4,2,0,6
+Karnataka,Chitradurga,Multiple Sclerosis,0-6,2,0,0,2
+Karnataka,Chitradurga,Multiple Sclerosis,Jun-15,4,2,0,6
+Karnataka,Chitradurga,Multiple Sclerosis,15-35,9,7,0,16
+Karnataka,Chitradurga,Multiple Sclerosis,35-60,17,5,0,22
+Karnataka,Chitradurga,Multiple Sclerosis,60-80,5,0,0,5
+Karnataka,Chitradurga,Muscular Dystrophy,Jun-15,8,3,0,11
+Karnataka,Chitradurga,Muscular Dystrophy,15-35,30,12,0,42
+Karnataka,Chitradurga,Muscular Dystrophy,35-60,35,14,0,49
+Karnataka,Chitradurga,Muscular Dystrophy,60-80,9,8,0,17
+Karnataka,Chitradurga,Parkinson'S Disease,15-35,3,0,0,3
+Karnataka,Chitradurga,Parkinson'S Disease,35-60,10,2,0,12
+Karnataka,Chitradurga,Parkinson'S Disease,60-80,2,3,0,5
+Karnataka,Chitradurga,Parkinson'S Disease,80+,0,0,0,0
+Karnataka,Chitradurga,Sickle Cell Disease,15-35,1,1,0,2
+Karnataka,Chitradurga,Sickle Cell Disease,35-60,0,0,0,0
+Karnataka,Chitradurga,Specific Learning Disabilities,Jun-15,3,0,0,3
+Karnataka,Chitradurga,Specific Learning Disabilities,15-35,17,12,0,29
+Karnataka,Chitradurga,Specific Learning Disabilities,35-60,10,7,0,17
+Karnataka,Chitradurga,Specific Learning Disabilities,60-80,4,6,0,10
+Karnataka,Chitradurga,Specific Learning Disabilities,80+,1,0,0,1
+Karnataka,Chitradurga,Speech And Language Disability,0-6,2,0,0,2
+Karnataka,Chitradurga,Speech And Language Disability,Jun-15,53,47,0,100
+Karnataka,Chitradurga,Speech And Language Disability,15-35,118,77,0,195
+Karnataka,Chitradurga,Speech And Language Disability,35-60,104,50,0,154
+Karnataka,Chitradurga,Speech And Language Disability,60-80,16,4,0,20
+Karnataka,Chitradurga,Speech And Language Disability,80+,2,1,0,3
+Karnataka,Chitradurga,Thalassemia,0-6,1,4,0,5
+Karnataka,Chitradurga,Thalassemia,Jun-15,9,9,0,18
+Karnataka,Chitradurga,Thalassemia,15-35,5,6,0,11
+Karnataka,Chitradurga,Thalassemia,35-60,2,2,0,4
+Karnataka,Dakshina Kannada,Acid Attack Victim,15-35,1,0,0,1
+Karnataka,Dakshina Kannada,Acid Attack Victim,35-60,0,0,0,0
+Karnataka,Dakshina Kannada,Autism Spectrum Disorder,0-6,2,0,0,2
+Karnataka,Dakshina Kannada,Autism Spectrum Disorder,Jun-15,52,19,0,71
+Karnataka,Dakshina Kannada,Autism Spectrum Disorder,15-35,28,6,0,34
+Karnataka,Dakshina Kannada,Autism Spectrum Disorder,35-60,1,1,0,2
+Karnataka,Dakshina Kannada,Blindness,0-6,2,0,0,2
+Karnataka,Dakshina Kannada,Blindness,Jun-15,18,15,0,33
+Karnataka,Dakshina Kannada,Blindness,15-35,120,67,0,187
+Karnataka,Dakshina Kannada,Blindness,35-60,292,189,0,481
+Karnataka,Dakshina Kannada,Blindness,60-80,188,121,0,309
+Karnataka,Dakshina Kannada,Blindness,80+,8,3,0,11
+Karnataka,Dakshina Kannada,Cerebral Palsy,0-6,4,5,0,9
+Karnataka,Dakshina Kannada,Cerebral Palsy,Jun-15,82,68,0,150
+Karnataka,Dakshina Kannada,Cerebral Palsy,15-35,218,133,0,351
+Karnataka,Dakshina Kannada,Cerebral Palsy,35-60,143,94,0,237
+Karnataka,Dakshina Kannada,Cerebral Palsy,60-80,21,17,0,38
+Karnataka,Dakshina Kannada,Cerebral Palsy,80+,0,1,0,1
+Karnataka,Dakshina Kannada,Chronic Neurological Conditions,0-6,4,5,0,9
+Karnataka,Dakshina Kannada,Chronic Neurological Conditions,Jun-15,17,14,0,31
+Karnataka,Dakshina Kannada,Chronic Neurological Conditions,15-35,44,21,0,65
+Karnataka,Dakshina Kannada,Chronic Neurological Conditions,35-60,399,112,0,511
+Karnataka,Dakshina Kannada,Chronic Neurological Conditions,60-80,251,65,0,316
+Karnataka,Dakshina Kannada,Chronic Neurological Conditions,80+,11,1,0,12
+Karnataka,Dakshina Kannada,Dwarfism,Jun-15,4,5,0,9
+Karnataka,Dakshina Kannada,Dwarfism,15-35,17,24,0,41
+Karnataka,Dakshina Kannada,Dwarfism,35-60,33,37,0,70
+Karnataka,Dakshina Kannada,Dwarfism,60-80,5,9,0,14
+Karnataka,Dakshina Kannada,Hearing Impairment,0-6,8,9,0,17
+Karnataka,Dakshina Kannada,Hearing Impairment,Jun-15,86,94,0,180
+Karnataka,Dakshina Kannada,Hearing Impairment,15-35,385,298,1,684
+Karnataka,Dakshina Kannada,Hearing Impairment,35-60,618,578,0,1196
+Karnataka,Dakshina Kannada,Hearing Impairment,60-80,327,234,0,561
+Karnataka,Dakshina Kannada,Hearing Impairment,80+,43,13,0,56
+Karnataka,Dakshina Kannada,Hemophilia,Jun-15,3,0,0,3
+Karnataka,Dakshina Kannada,Hemophilia,15-35,20,0,0,20
+Karnataka,Dakshina Kannada,Hemophilia,35-60,6,3,0,9
+Karnataka,Dakshina Kannada,Hemophilia,60-80,5,1,0,6
+Karnataka,Dakshina Kannada,Hemophilia,80+,0,0,0,0
+Karnataka,Dakshina Kannada,Intellectual Disability,0-6,14,1,0,15
+Karnataka,Dakshina Kannada,Intellectual Disability,Jun-15,609,368,0,977
+Karnataka,Dakshina Kannada,Intellectual Disability,15-35,2158,1339,0,3497
+Karnataka,Dakshina Kannada,Intellectual Disability,35-60,799,725,0,1524
+Karnataka,Dakshina Kannada,Intellectual Disability,60-80,63,61,0,124
+Karnataka,Dakshina Kannada,Intellectual Disability,80+,0,4,0,4
+Karnataka,Dakshina Kannada,Leprosy Cured,15-35,0,0,0,0
+Karnataka,Dakshina Kannada,Leprosy Cured,35-60,8,5,0,13
+Karnataka,Dakshina Kannada,Leprosy Cured,60-80,6,5,0,11
+Karnataka,Dakshina Kannada,Leprosy Cured,80+,0,4,0,4
+Karnataka,Dakshina Kannada,Locomotor Disability,0-6,17,8,0,25
+Karnataka,Dakshina Kannada,Locomotor Disability,Jun-15,183,155,0,338
+Karnataka,Dakshina Kannada,Locomotor Disability,15-35,734,479,0,1213
+Karnataka,Dakshina Kannada,Locomotor Disability,35-60,2971,1420,1,4392
+Karnataka,Dakshina Kannada,Locomotor Disability,60-80,1589,614,0,2203
+Karnataka,Dakshina Kannada,Locomotor Disability,80+,96,33,0,129
+Karnataka,Dakshina Kannada,Low Vision,Jun-15,43,22,0,65
+Karnataka,Dakshina Kannada,Low Vision,15-35,193,123,0,316
+Karnataka,Dakshina Kannada,Low Vision,35-60,261,154,0,415
+Karnataka,Dakshina Kannada,Low Vision,60-80,145,68,0,213
+Karnataka,Dakshina Kannada,Low Vision,80+,11,3,0,14
+Karnataka,Dakshina Kannada,Mental Illness,Jun-15,9,9,0,18
+Karnataka,Dakshina Kannada,Mental Illness,15-35,100,61,0,161
+Karnataka,Dakshina Kannada,Mental Illness,35-60,249,212,0,461
+Karnataka,Dakshina Kannada,Mental Illness,60-80,59,49,0,108
+Karnataka,Dakshina Kannada,Mental Illness,80+,1,4,0,5
+Karnataka,Dakshina Kannada,Multiple Disabilities,0-6,9,9,0,18
+Karnataka,Dakshina Kannada,Multiple Disabilities,Jun-15,168,110,0,278
+Karnataka,Dakshina Kannada,Multiple Disabilities,15-35,316,202,0,518
+Karnataka,Dakshina Kannada,Multiple Disabilities,35-60,218,124,0,342
+Karnataka,Dakshina Kannada,Multiple Disabilities,60-80,81,19,0,100
+Karnataka,Dakshina Kannada,Multiple Disabilities,80+,6,1,0,7
+Karnataka,Dakshina Kannada,Multiple Sclerosis,Jun-15,1,0,0,1
+Karnataka,Dakshina Kannada,Multiple Sclerosis,15-35,0,2,0,2
+Karnataka,Dakshina Kannada,Multiple Sclerosis,35-60,3,1,0,4
+Karnataka,Dakshina Kannada,Multiple Sclerosis,60-80,0,0,0,0
+Karnataka,Dakshina Kannada,Muscular Dystrophy,0-6,1,1,0,2
+Karnataka,Dakshina Kannada,Muscular Dystrophy,Jun-15,12,0,0,12
+Karnataka,Dakshina Kannada,Muscular Dystrophy,15-35,25,7,0,32
+Karnataka,Dakshina Kannada,Muscular Dystrophy,35-60,21,10,0,31
+Karnataka,Dakshina Kannada,Muscular Dystrophy,60-80,5,1,0,6
+Karnataka,Dakshina Kannada,Muscular Dystrophy,80+,1,0,0,1
+Karnataka,Dakshina Kannada,Parkinson'S Disease,35-60,12,7,0,19
+Karnataka,Dakshina Kannada,Parkinson'S Disease,60-80,20,3,0,23
+Karnataka,Dakshina Kannada,Parkinson'S Disease,80+,0,1,0,1
+Karnataka,Dakshina Kannada,Sickle Cell Disease,15-35,1,0,0,1
+Karnataka,Dakshina Kannada,Sickle Cell Disease,35-60,0,0,0,0
+Karnataka,Dakshina Kannada,Sickle Cell Disease,60-80,0,0,0,0
+Karnataka,Dakshina Kannada,Specific Learning Disabilities,Jun-15,0,0,0,0
+Karnataka,Dakshina Kannada,Specific Learning Disabilities,15-35,1,1,0,2
+Karnataka,Dakshina Kannada,Specific Learning Disabilities,35-60,0,0,0,0
+Karnataka,Dakshina Kannada,Specific Learning Disabilities,60-80,0,0,0,0
+Karnataka,Dakshina Kannada,Speech And Language Disability,0-6,2,0,0,2
+Karnataka,Dakshina Kannada,Speech And Language Disability,Jun-15,12,7,0,19
+Karnataka,Dakshina Kannada,Speech And Language Disability,15-35,41,33,0,74
+Karnataka,Dakshina Kannada,Speech And Language Disability,35-60,36,32,1,69
+Karnataka,Dakshina Kannada,Speech And Language Disability,60-80,8,4,0,12
+Karnataka,Dakshina Kannada,Thalassemia,0-6,3,0,0,3
+Karnataka,Dakshina Kannada,Thalassemia,Jun-15,7,12,0,19
+Karnataka,Dakshina Kannada,Thalassemia,15-35,13,21,0,34
+Karnataka,Dakshina Kannada,Thalassemia,35-60,0,1,0,1
+Karnataka,Dakshina Kannada,Thalassemia,60-80,0,0,0,0
+Karnataka,Davangere,Acid Attack Victim,15-35,3,0,0,3
+Karnataka,Davangere,Acid Attack Victim,35-60,2,2,0,4
+Karnataka,Davangere,Autism Spectrum Disorder,0-6,0,2,0,2
+Karnataka,Davangere,Autism Spectrum Disorder,Jun-15,4,3,0,7
+Karnataka,Davangere,Autism Spectrum Disorder,15-35,3,0,0,3
+Karnataka,Davangere,Autism Spectrum Disorder,35-60,3,1,0,4
+Karnataka,Davangere,Blindness,0-6,6,5,0,11
+Karnataka,Davangere,Blindness,Jun-15,62,54,0,116
+Karnataka,Davangere,Blindness,15-35,315,239,0,554
+Karnataka,Davangere,Blindness,35-60,631,403,0,1034
+Karnataka,Davangere,Blindness,60-80,217,101,0,318
+Karnataka,Davangere,Blindness,80+,15,10,0,25
+Karnataka,Davangere,Cerebral Palsy,0-6,19,18,0,37
+Karnataka,Davangere,Cerebral Palsy,Jun-15,97,63,0,160
+Karnataka,Davangere,Cerebral Palsy,15-35,100,74,0,174
+Karnataka,Davangere,Cerebral Palsy,35-60,52,19,0,71
+Karnataka,Davangere,Cerebral Palsy,60-80,7,3,0,10
+Karnataka,Davangere,Chronic Neurological Conditions,Jun-15,1,2,0,3
+Karnataka,Davangere,Chronic Neurological Conditions,15-35,4,3,0,7
+Karnataka,Davangere,Chronic Neurological Conditions,35-60,19,6,0,25
+Karnataka,Davangere,Chronic Neurological Conditions,60-80,8,2,0,10
+Karnataka,Davangere,Dwarfism,0-6,0,4,0,4
+Karnataka,Davangere,Dwarfism,Jun-15,6,10,0,16
+Karnataka,Davangere,Dwarfism,15-35,13,19,0,32
+Karnataka,Davangere,Dwarfism,35-60,15,13,0,28
+Karnataka,Davangere,Dwarfism,60-80,1,2,0,3
+Karnataka,Davangere,Hearing Impairment,0-6,30,26,0,56
+Karnataka,Davangere,Hearing Impairment,Jun-15,195,165,0,360
+Karnataka,Davangere,Hearing Impairment,15-35,630,537,0,1167
+Karnataka,Davangere,Hearing Impairment,35-60,1016,838,0,1854
+Karnataka,Davangere,Hearing Impairment,60-80,548,230,0,778
+Karnataka,Davangere,Hearing Impairment,80+,103,43,0,146
+Karnataka,Davangere,Hemophilia,0-6,2,0,0,2
+Karnataka,Davangere,Hemophilia,Jun-15,8,1,0,9
+Karnataka,Davangere,Hemophilia,15-35,7,3,0,10
+Karnataka,Davangere,Hemophilia,35-60,6,1,0,7
+Karnataka,Davangere,Hemophilia,60-80,4,1,0,5
+Karnataka,Davangere,Intellectual Disability,0-6,50,34,0,84
+Karnataka,Davangere,Intellectual Disability,Jun-15,613,395,1,1009
+Karnataka,Davangere,Intellectual Disability,15-35,1262,833,2,2097
+Karnataka,Davangere,Intellectual Disability,35-60,459,396,0,855
+Karnataka,Davangere,Intellectual Disability,60-80,46,19,0,65
+Karnataka,Davangere,Intellectual Disability,80+,1,1,0,2
+Karnataka,Davangere,Leprosy Cured,Jun-15,1,0,0,1
+Karnataka,Davangere,Leprosy Cured,15-35,2,0,0,2
+Karnataka,Davangere,Leprosy Cured,35-60,7,1,0,8
+Karnataka,Davangere,Leprosy Cured,60-80,4,1,0,5
+Karnataka,Davangere,Locomotor Disability,0-6,58,34,0,92
+Karnataka,Davangere,Locomotor Disability,Jun-15,497,312,0,809
+Karnataka,Davangere,Locomotor Disability,15-35,1767,1191,0,2958
+Karnataka,Davangere,Locomotor Disability,35-60,5516,2779,1,8296
+Karnataka,Davangere,Locomotor Disability,60-80,1671,528,1,2200
+Karnataka,Davangere,Locomotor Disability,80+,73,21,0,94
+Karnataka,Davangere,Low Vision,0-6,2,1,0,3
+Karnataka,Davangere,Low Vision,Jun-15,41,43,0,84
+Karnataka,Davangere,Low Vision,15-35,195,128,0,323
+Karnataka,Davangere,Low Vision,35-60,218,144,0,362
+Karnataka,Davangere,Low Vision,60-80,41,12,0,53
+Karnataka,Davangere,Low Vision,80+,2,1,0,3
+Karnataka,Davangere,Mental Illness,0-6,5,5,0,10
+Karnataka,Davangere,Mental Illness,Jun-15,56,36,0,92
+Karnataka,Davangere,Mental Illness,15-35,149,123,0,272
+Karnataka,Davangere,Mental Illness,35-60,229,169,0,398
+Karnataka,Davangere,Mental Illness,60-80,27,26,0,53
+Karnataka,Davangere,Mental Illness,80+,0,1,0,1
+Karnataka,Davangere,Multiple Disabilities,0-6,13,11,0,24
+Karnataka,Davangere,Multiple Disabilities,Jun-15,77,38,0,115
+Karnataka,Davangere,Multiple Disabilities,15-35,117,59,0,176
+Karnataka,Davangere,Multiple Disabilities,35-60,124,81,0,205
+Karnataka,Davangere,Multiple Disabilities,60-80,47,7,0,54
+Karnataka,Davangere,Multiple Disabilities,80+,0,1,0,1
+Karnataka,Davangere,Multiple Sclerosis,0-6,1,1,0,2
+Karnataka,Davangere,Multiple Sclerosis,Jun-15,1,1,0,2
+Karnataka,Davangere,Multiple Sclerosis,15-35,1,0,0,1
+Karnataka,Davangere,Multiple Sclerosis,35-60,6,2,0,8
+Karnataka,Davangere,Multiple Sclerosis,60-80,1,1,0,2
+Karnataka,Davangere,Muscular Dystrophy,0-6,0,0,0,0
+Karnataka,Davangere,Muscular Dystrophy,Jun-15,15,3,0,18
+Karnataka,Davangere,Muscular Dystrophy,15-35,51,18,0,69
+Karnataka,Davangere,Muscular Dystrophy,35-60,33,12,0,45
+Karnataka,Davangere,Muscular Dystrophy,60-80,4,3,0,7
+Karnataka,Davangere,Parkinson'S Disease,Jun-15,1,0,0,1
+Karnataka,Davangere,Parkinson'S Disease,15-35,2,0,0,2
+Karnataka,Davangere,Parkinson'S Disease,35-60,19,3,0,22
+Karnataka,Davangere,Parkinson'S Disease,60-80,6,3,0,9
+Karnataka,Davangere,Sickle Cell Disease,Jun-15,1,0,0,1
+Karnataka,Davangere,Sickle Cell Disease,15-35,0,1,0,1
+Karnataka,Davangere,Sickle Cell Disease,35-60,1,0,0,1
+Karnataka,Davangere,Specific Learning Disabilities,Jun-15,0,1,0,1
+Karnataka,Davangere,Specific Learning Disabilities,15-35,5,1,0,6
+Karnataka,Davangere,Specific Learning Disabilities,35-60,2,0,0,2
+Karnataka,Davangere,Specific Learning Disabilities,60-80,2,0,0,2
+Karnataka,Davangere,Speech And Language Disability,0-6,0,2,0,2
+Karnataka,Davangere,Speech And Language Disability,Jun-15,7,8,0,15
+Karnataka,Davangere,Speech And Language Disability,15-35,23,20,0,43
+Karnataka,Davangere,Speech And Language Disability,35-60,34,23,0,57
+Karnataka,Davangere,Speech And Language Disability,60-80,7,3,0,10
+Karnataka,Davangere,Speech And Language Disability,80+,2,1,0,3
+Karnataka,Davangere,Thalassemia,0-6,2,6,0,8
+Karnataka,Davangere,Thalassemia,Jun-15,18,14,0,32
+Karnataka,Davangere,Thalassemia,15-35,14,3,0,17
+Karnataka,Davangere,Thalassemia,35-60,1,0,0,1
+Karnataka,Davangere,Thalassemia,60-80,1,0,0,1
+Karnataka,Dharwad,Acid Attack Victim,15-35,1,0,0,1
+Karnataka,Dharwad,Acid Attack Victim,35-60,1,3,0,4
+Karnataka,Dharwad,Acid Attack Victim,60-80,0,0,0,0
+Karnataka,Dharwad,Autism Spectrum Disorder,0-6,3,0,0,3
+Karnataka,Dharwad,Autism Spectrum Disorder,Jun-15,1,0,0,1
+Karnataka,Dharwad,Autism Spectrum Disorder,15-35,2,1,0,3
+Karnataka,Dharwad,Autism Spectrum Disorder,35-60,1,0,0,1
+Karnataka,Dharwad,Autism Spectrum Disorder,60-80,0,0,0,0
+Karnataka,Dharwad,Blindness,0-6,3,6,0,9
+Karnataka,Dharwad,Blindness,Jun-15,55,45,0,100
+Karnataka,Dharwad,Blindness,15-35,255,229,0,484
+Karnataka,Dharwad,Blindness,35-60,551,281,0,832
+Karnataka,Dharwad,Blindness,60-80,236,91,1,328
+Karnataka,Dharwad,Blindness,80+,23,7,0,30
+Karnataka,Dharwad,Cerebral Palsy,0-6,16,16,0,32
+Karnataka,Dharwad,Cerebral Palsy,Jun-15,101,67,0,168
+Karnataka,Dharwad,Cerebral Palsy,15-35,125,59,0,184
+Karnataka,Dharwad,Cerebral Palsy,35-60,209,80,0,289
+Karnataka,Dharwad,Cerebral Palsy,60-80,94,13,0,107
+Karnataka,Dharwad,Cerebral Palsy,80+,1,0,0,1
+Karnataka,Dharwad,Chronic Neurological Conditions,0-6,0,0,0,0
+Karnataka,Dharwad,Chronic Neurological Conditions,Jun-15,4,2,0,6
+Karnataka,Dharwad,Chronic Neurological Conditions,15-35,5,3,0,8
+Karnataka,Dharwad,Chronic Neurological Conditions,35-60,8,1,0,9
+Karnataka,Dharwad,Chronic Neurological Conditions,60-80,4,1,0,5
+Karnataka,Dharwad,Chronic Neurological Conditions,80+,0,0,0,0
+Karnataka,Dharwad,Dwarfism,0-6,1,0,0,1
+Karnataka,Dharwad,Dwarfism,Jun-15,4,6,0,10
+Karnataka,Dharwad,Dwarfism,15-35,18,24,0,42
+Karnataka,Dharwad,Dwarfism,35-60,16,14,0,30
+Karnataka,Dharwad,Dwarfism,60-80,2,1,0,3
+Karnataka,Dharwad,Hearing Impairment,0-6,31,19,0,50
+Karnataka,Dharwad,Hearing Impairment,Jun-15,208,172,0,380
+Karnataka,Dharwad,Hearing Impairment,15-35,544,523,1,1068
+Karnataka,Dharwad,Hearing Impairment,35-60,1007,1115,1,2123
+Karnataka,Dharwad,Hearing Impairment,60-80,423,187,0,610
+Karnataka,Dharwad,Hearing Impairment,80+,56,8,0,64
+Karnataka,Dharwad,Hemophilia,0-6,3,0,0,3
+Karnataka,Dharwad,Hemophilia,Jun-15,14,1,0,15
+Karnataka,Dharwad,Hemophilia,15-35,10,4,0,14
+Karnataka,Dharwad,Hemophilia,35-60,12,5,0,17
+Karnataka,Dharwad,Hemophilia,60-80,7,1,0,8
+Karnataka,Dharwad,Intellectual Disability,0-6,63,45,0,108
+Karnataka,Dharwad,Intellectual Disability,Jun-15,737,418,0,1155
+Karnataka,Dharwad,Intellectual Disability,15-35,1117,758,0,1875
+Karnataka,Dharwad,Intellectual Disability,35-60,340,303,1,644
+Karnataka,Dharwad,Intellectual Disability,60-80,20,23,0,43
+Karnataka,Dharwad,Intellectual Disability,80+,1,1,0,2
+Karnataka,Dharwad,Leprosy Cured,Jun-15,0,0,0,0
+Karnataka,Dharwad,Leprosy Cured,15-35,7,0,0,7
+Karnataka,Dharwad,Leprosy Cured,35-60,5,1,0,6
+Karnataka,Dharwad,Leprosy Cured,60-80,4,3,0,7
+Karnataka,Dharwad,Locomotor Disability,0-6,45,29,0,74
+Karnataka,Dharwad,Locomotor Disability,Jun-15,555,371,2,928
+Karnataka,Dharwad,Locomotor Disability,15-35,2128,1371,1,3500
+Karnataka,Dharwad,Locomotor Disability,35-60,6258,3342,1,9601
+Karnataka,Dharwad,Locomotor Disability,60-80,1831,490,1,2322
+Karnataka,Dharwad,Locomotor Disability,80+,109,38,0,147
+Karnataka,Dharwad,Low Vision,0-6,6,2,0,8
+Karnataka,Dharwad,Low Vision,Jun-15,93,64,0,157
+Karnataka,Dharwad,Low Vision,15-35,351,241,0,592
+Karnataka,Dharwad,Low Vision,35-60,650,538,0,1188
+Karnataka,Dharwad,Low Vision,60-80,199,82,0,281
+Karnataka,Dharwad,Low Vision,80+,19,3,0,22
+Karnataka,Dharwad,Mental Illness,0-6,4,4,0,8
+Karnataka,Dharwad,Mental Illness,Jun-15,83,62,0,145
+Karnataka,Dharwad,Mental Illness,15-35,238,163,0,401
+Karnataka,Dharwad,Mental Illness,35-60,206,112,0,318
+Karnataka,Dharwad,Mental Illness,60-80,19,13,0,32
+Karnataka,Dharwad,Mental Illness,80+,1,0,0,1
+Karnataka,Dharwad,Multiple Disabilities,0-6,15,4,0,19
+Karnataka,Dharwad,Multiple Disabilities,Jun-15,45,38,0,83
+Karnataka,Dharwad,Multiple Disabilities,15-35,89,37,0,126
+Karnataka,Dharwad,Multiple Disabilities,35-60,55,27,0,82
+Karnataka,Dharwad,Multiple Disabilities,60-80,15,4,0,19
+Karnataka,Dharwad,Multiple Disabilities,80+,0,0,0,0
+Karnataka,Dharwad,Multiple Sclerosis,Jun-15,3,0,0,3
+Karnataka,Dharwad,Multiple Sclerosis,15-35,3,2,0,5
+Karnataka,Dharwad,Multiple Sclerosis,35-60,4,3,0,7
+Karnataka,Dharwad,Multiple Sclerosis,60-80,1,0,0,1
+Karnataka,Dharwad,Multiple Sclerosis,80+,0,0,0,0
+Karnataka,Dharwad,Muscular Dystrophy,0-6,0,1,0,1
+Karnataka,Dharwad,Muscular Dystrophy,Jun-15,8,2,0,10
+Karnataka,Dharwad,Muscular Dystrophy,15-35,8,3,0,11
+Karnataka,Dharwad,Muscular Dystrophy,35-60,15,6,0,21
+Karnataka,Dharwad,Muscular Dystrophy,60-80,5,0,0,5
+Karnataka,Dharwad,Muscular Dystrophy,80+,0,0,0,0
+Karnataka,Dharwad,Parkinson'S Disease,35-60,2,0,0,2
+Karnataka,Dharwad,Parkinson'S Disease,60-80,0,0,0,0
+Karnataka,Dharwad,Sickle Cell Disease,15-35,0,0,0,0
+Karnataka,Dharwad,Sickle Cell Disease,60-80,0,0,0,0
+Karnataka,Dharwad,Specific Learning Disabilities,Jun-15,1,0,0,1
+Karnataka,Dharwad,Specific Learning Disabilities,15-35,5,1,0,6
+Karnataka,Dharwad,Specific Learning Disabilities,35-60,1,0,0,1
+Karnataka,Dharwad,Specific Learning Disabilities,60-80,0,0,0,0
+Karnataka,Dharwad,Specific Learning Disabilities,80+,0,0,0,0
+Karnataka,Dharwad,Speech And Language Disability,Jun-15,4,6,0,10
+Karnataka,Dharwad,Speech And Language Disability,15-35,21,10,0,31
+Karnataka,Dharwad,Speech And Language Disability,35-60,10,7,0,17
+Karnataka,Dharwad,Speech And Language Disability,60-80,3,0,0,3
+Karnataka,Dharwad,Speech And Language Disability,80+,0,0,0,0
+Karnataka,Dharwad,Thalassemia,0-6,4,4,0,8
+Karnataka,Dharwad,Thalassemia,Jun-15,15,8,0,23
+Karnataka,Dharwad,Thalassemia,15-35,4,7,0,11
+Karnataka,Dharwad,Thalassemia,35-60,1,1,0,2
+Karnataka,Gadag,Acid Attack Victim,Jun-15,0,0,0,0
+Karnataka,Gadag,Acid Attack Victim,15-35,1,2,0,3
+Karnataka,Gadag,Acid Attack Victim,35-60,3,2,0,5
+Karnataka,Gadag,Acid Attack Victim,60-80,3,0,0,3
+Karnataka,Gadag,Autism Spectrum Disorder,Jun-15,0,0,0,0
+Karnataka,Gadag,Autism Spectrum Disorder,15-35,1,2,0,3
+Karnataka,Gadag,Autism Spectrum Disorder,35-60,2,0,0,2
+Karnataka,Gadag,Autism Spectrum Disorder,60-80,0,0,0,0
+Karnataka,Gadag,Blindness,0-6,4,3,0,7
+Karnataka,Gadag,Blindness,Jun-15,38,28,0,66
+Karnataka,Gadag,Blindness,15-35,228,143,0,371
+Karnataka,Gadag,Blindness,35-60,424,229,0,653
+Karnataka,Gadag,Blindness,60-80,171,66,0,237
+Karnataka,Gadag,Blindness,80+,13,5,0,18
+Karnataka,Gadag,Cerebral Palsy,0-6,4,3,0,7
+Karnataka,Gadag,Cerebral Palsy,Jun-15,7,8,0,15
+Karnataka,Gadag,Cerebral Palsy,15-35,2,0,0,2
+Karnataka,Gadag,Cerebral Palsy,35-60,14,4,0,18
+Karnataka,Gadag,Cerebral Palsy,60-80,8,1,0,9
+Karnataka,Gadag,Chronic Neurological Conditions,Jun-15,2,1,0,3
+Karnataka,Gadag,Chronic Neurological Conditions,15-35,4,3,0,7
+Karnataka,Gadag,Chronic Neurological Conditions,35-60,11,4,0,15
+Karnataka,Gadag,Chronic Neurological Conditions,60-80,3,1,0,4
+Karnataka,Gadag,Chronic Neurological Conditions,80+,1,0,0,1
+Karnataka,Gadag,Dwarfism,Jun-15,1,3,0,4
+Karnataka,Gadag,Dwarfism,15-35,5,13,0,18
+Karnataka,Gadag,Dwarfism,35-60,12,17,0,29
+Karnataka,Gadag,Dwarfism,60-80,1,2,0,3
+Karnataka,Gadag,Hearing Impairment,0-6,18,9,0,27
+Karnataka,Gadag,Hearing Impairment,Jun-15,126,109,0,235
+Karnataka,Gadag,Hearing Impairment,15-35,374,319,0,693
+Karnataka,Gadag,Hearing Impairment,35-60,522,412,0,934
+Karnataka,Gadag,Hearing Impairment,60-80,220,58,0,278
+Karnataka,Gadag,Hearing Impairment,80+,24,2,0,26
+Karnataka,Gadag,Hemophilia,Jun-15,12,0,0,12
+Karnataka,Gadag,Hemophilia,15-35,1,3,0,4
+Karnataka,Gadag,Hemophilia,35-60,11,5,0,16
+Karnataka,Gadag,Hemophilia,60-80,4,0,0,4
+Karnataka,Gadag,Hemophilia,80+,2,0,0,2
+Karnataka,Gadag,Intellectual Disability,0-6,47,27,0,74
+Karnataka,Gadag,Intellectual Disability,Jun-15,510,314,0,824
+Karnataka,Gadag,Intellectual Disability,15-35,899,603,0,1502
+Karnataka,Gadag,Intellectual Disability,35-60,245,225,0,470
+Karnataka,Gadag,Intellectual Disability,60-80,16,6,0,22
+Karnataka,Gadag,Leprosy Cured,Jun-15,0,0,0,0
+Karnataka,Gadag,Leprosy Cured,15-35,1,3,0,4
+Karnataka,Gadag,Leprosy Cured,35-60,10,4,0,14
+Karnataka,Gadag,Leprosy Cured,60-80,10,4,0,14
+Karnataka,Gadag,Leprosy Cured,80+,1,0,0,1
+Karnataka,Gadag,Locomotor Disability,0-6,28,22,0,50
+Karnataka,Gadag,Locomotor Disability,Jun-15,383,251,0,634
+Karnataka,Gadag,Locomotor Disability,15-35,1604,961,0,2565
+Karnataka,Gadag,Locomotor Disability,35-60,4198,2010,4,6212
+Karnataka,Gadag,Locomotor Disability,60-80,1187,323,1,1511
+Karnataka,Gadag,Locomotor Disability,80+,62,16,0,78
+Karnataka,Gadag,Low Vision,0-6,3,3,0,6
+Karnataka,Gadag,Low Vision,Jun-15,77,71,0,148
+Karnataka,Gadag,Low Vision,15-35,412,225,0,637
+Karnataka,Gadag,Low Vision,35-60,561,317,0,878
+Karnataka,Gadag,Low Vision,60-80,181,55,0,236
+Karnataka,Gadag,Low Vision,80+,12,3,0,15
+Karnataka,Gadag,Mental Illness,0-6,1,4,0,5
+Karnataka,Gadag,Mental Illness,Jun-15,63,37,0,100
+Karnataka,Gadag,Mental Illness,15-35,137,101,0,238
+Karnataka,Gadag,Mental Illness,35-60,105,63,0,168
+Karnataka,Gadag,Mental Illness,60-80,10,8,0,18
+Karnataka,Gadag,Mental Illness,80+,0,0,0,0
+Karnataka,Gadag,Multiple Disabilities,0-6,5,6,0,11
+Karnataka,Gadag,Multiple Disabilities,Jun-15,41,22,0,63
+Karnataka,Gadag,Multiple Disabilities,15-35,74,58,0,132
+Karnataka,Gadag,Multiple Disabilities,35-60,54,31,0,85
+Karnataka,Gadag,Multiple Disabilities,60-80,10,0,0,10
+Karnataka,Gadag,Multiple Disabilities,80+,0,0,0,0
+Karnataka,Gadag,Multiple Sclerosis,0-6,1,0,0,1
+Karnataka,Gadag,Multiple Sclerosis,Jun-15,4,0,0,4
+Karnataka,Gadag,Multiple Sclerosis,15-35,2,0,0,2
+Karnataka,Gadag,Multiple Sclerosis,35-60,2,3,0,5
+Karnataka,Gadag,Multiple Sclerosis,60-80,0,1,0,1
+Karnataka,Gadag,Multiple Sclerosis,80+,1,0,0,1
+Karnataka,Gadag,Muscular Dystrophy,0-6,0,0,0,0
+Karnataka,Gadag,Muscular Dystrophy,Jun-15,1,1,0,2
+Karnataka,Gadag,Muscular Dystrophy,15-35,8,7,0,15
+Karnataka,Gadag,Muscular Dystrophy,35-60,25,9,0,34
+Karnataka,Gadag,Muscular Dystrophy,60-80,7,5,0,12
+Karnataka,Gadag,Muscular Dystrophy,80+,1,0,0,1
+Karnataka,Gadag,Parkinson'S Disease,15-35,1,0,0,1
+Karnataka,Gadag,Parkinson'S Disease,35-60,4,1,0,5
+Karnataka,Gadag,Parkinson'S Disease,60-80,1,2,0,3
+Karnataka,Gadag,Sickle Cell Disease,Jun-15,0,1,0,1
+Karnataka,Gadag,Sickle Cell Disease,15-35,0,1,0,1
+Karnataka,Gadag,Sickle Cell Disease,35-60,1,0,0,1
+Karnataka,Gadag,Sickle Cell Disease,60-80,0,0,0,0
+Karnataka,Gadag,Specific Learning Disabilities,Jun-15,0,0,0,0
+Karnataka,Gadag,Specific Learning Disabilities,15-35,0,2,0,2
+Karnataka,Gadag,Specific Learning Disabilities,35-60,0,0,0,0
+Karnataka,Gadag,Specific Learning Disabilities,60-80,2,0,0,2
+Karnataka,Gadag,Speech And Language Disability,0-6,0,0,0,0
+Karnataka,Gadag,Speech And Language Disability,Jun-15,14,10,0,24
+Karnataka,Gadag,Speech And Language Disability,15-35,10,12,0,22
+Karnataka,Gadag,Speech And Language Disability,35-60,11,8,0,19
+Karnataka,Gadag,Speech And Language Disability,60-80,0,0,0,0
+Karnataka,Gadag,Speech And Language Disability,80+,0,0,0,0
+Karnataka,Gadag,Thalassemia,0-6,4,1,0,5
+Karnataka,Gadag,Thalassemia,Jun-15,9,2,0,11
+Karnataka,Gadag,Thalassemia,15-35,6,0,0,6
+Karnataka,Gadag,Thalassemia,35-60,0,0,0,0
+Karnataka,Gadag,Thalassemia,60-80,0,0,0,0
+Karnataka,Hassan,Acid Attack Victim,15-35,2,1,0,3
+Karnataka,Hassan,Acid Attack Victim,35-60,3,9,0,12
+Karnataka,Hassan,Acid Attack Victim,60-80,1,3,0,4
+Karnataka,Hassan,Autism Spectrum Disorder,0-6,0,0,0,0
+Karnataka,Hassan,Autism Spectrum Disorder,Jun-15,11,1,0,12
+Karnataka,Hassan,Autism Spectrum Disorder,15-35,6,0,0,6
+Karnataka,Hassan,Autism Spectrum Disorder,35-60,2,3,0,5
+Karnataka,Hassan,Autism Spectrum Disorder,60-80,4,0,0,4
+Karnataka,Hassan,Blindness,0-6,1,1,0,2
+Karnataka,Hassan,Blindness,Jun-15,42,25,0,67
+Karnataka,Hassan,Blindness,15-35,371,238,0,609
+Karnataka,Hassan,Blindness,35-60,971,725,1,1697
+Karnataka,Hassan,Blindness,60-80,512,239,0,751
+Karnataka,Hassan,Blindness,80+,52,16,0,68
+Karnataka,Hassan,Cerebral Palsy,0-6,13,6,0,19
+Karnataka,Hassan,Cerebral Palsy,Jun-15,36,16,0,52
+Karnataka,Hassan,Cerebral Palsy,15-35,48,28,0,76
+Karnataka,Hassan,Cerebral Palsy,35-60,37,18,0,55
+Karnataka,Hassan,Cerebral Palsy,60-80,14,3,0,17
+Karnataka,Hassan,Cerebral Palsy,80+,0,0,0,0
+Karnataka,Hassan,Chronic Neurological Conditions,0-6,1,2,0,3
+Karnataka,Hassan,Chronic Neurological Conditions,Jun-15,8,14,0,22
+Karnataka,Hassan,Chronic Neurological Conditions,15-35,73,41,0,114
+Karnataka,Hassan,Chronic Neurological Conditions,35-60,421,123,0,544
+Karnataka,Hassan,Chronic Neurological Conditions,60-80,201,30,0,231
+Karnataka,Hassan,Chronic Neurological Conditions,80+,8,4,0,12
+Karnataka,Hassan,Dwarfism,0-6,0,1,0,1
+Karnataka,Hassan,Dwarfism,Jun-15,1,1,0,2
+Karnataka,Hassan,Dwarfism,15-35,9,11,0,20
+Karnataka,Hassan,Dwarfism,35-60,12,18,0,30
+Karnataka,Hassan,Dwarfism,60-80,4,3,0,7
+Karnataka,Hassan,Hearing Impairment,0-6,9,10,0,19
+Karnataka,Hassan,Hearing Impairment,Jun-15,110,74,0,184
+Karnataka,Hassan,Hearing Impairment,15-35,327,211,2,540
+Karnataka,Hassan,Hearing Impairment,35-60,667,543,1,1211
+Karnataka,Hassan,Hearing Impairment,60-80,357,220,0,577
+Karnataka,Hassan,Hearing Impairment,80+,67,17,0,84
+Karnataka,Hassan,Hemophilia,Jun-15,8,4,0,12
+Karnataka,Hassan,Hemophilia,15-35,19,3,0,22
+Karnataka,Hassan,Hemophilia,35-60,14,3,0,17
+Karnataka,Hassan,Hemophilia,60-80,7,1,0,8
+Karnataka,Hassan,Hemophilia,80+,1,0,0,1
+Karnataka,Hassan,Intellectual Disability,0-6,16,13,0,29
+Karnataka,Hassan,Intellectual Disability,Jun-15,307,216,1,524
+Karnataka,Hassan,Intellectual Disability,15-35,813,555,0,1368
+Karnataka,Hassan,Intellectual Disability,35-60,448,354,1,803
+Karnataka,Hassan,Intellectual Disability,60-80,42,26,0,68
+Karnataka,Hassan,Intellectual Disability,80+,0,1,0,1
+Karnataka,Hassan,Leprosy Cured,15-35,1,0,0,1
+Karnataka,Hassan,Leprosy Cured,35-60,4,1,0,5
+Karnataka,Hassan,Leprosy Cured,60-80,3,0,0,3
+Karnataka,Hassan,Leprosy Cured,80+,1,0,0,1
+Karnataka,Hassan,Locomotor Disability,0-6,15,20,0,35
+Karnataka,Hassan,Locomotor Disability,Jun-15,296,194,0,490
+Karnataka,Hassan,Locomotor Disability,15-35,1542,848,1,2391
+Karnataka,Hassan,Locomotor Disability,35-60,5241,2353,0,7594
+Karnataka,Hassan,Locomotor Disability,60-80,2223,711,0,2934
+Karnataka,Hassan,Locomotor Disability,80+,146,58,0,204
+Karnataka,Hassan,Low Vision,0-6,2,0,0,2
+Karnataka,Hassan,Low Vision,Jun-15,32,27,0,59
+Karnataka,Hassan,Low Vision,15-35,229,128,0,357
+Karnataka,Hassan,Low Vision,35-60,433,340,0,773
+Karnataka,Hassan,Low Vision,60-80,165,91,0,256
+Karnataka,Hassan,Low Vision,80+,18,2,0,20
+Karnataka,Hassan,Mental Illness,0-6,2,1,0,3
+Karnataka,Hassan,Mental Illness,Jun-15,99,74,0,173
+Karnataka,Hassan,Mental Illness,15-35,427,304,0,731
+Karnataka,Hassan,Mental Illness,35-60,344,293,0,637
+Karnataka,Hassan,Mental Illness,60-80,34,24,0,58
+Karnataka,Hassan,Mental Illness,80+,1,1,0,2
+Karnataka,Hassan,Multiple Disabilities,0-6,2,1,0,3
+Karnataka,Hassan,Multiple Disabilities,Jun-15,30,21,0,51
+Karnataka,Hassan,Multiple Disabilities,15-35,112,90,0,202
+Karnataka,Hassan,Multiple Disabilities,35-60,173,112,0,285
+Karnataka,Hassan,Multiple Disabilities,60-80,80,29,0,109
+Karnataka,Hassan,Multiple Disabilities,80+,7,3,0,10
+Karnataka,Hassan,Multiple Sclerosis,Jun-15,1,0,0,1
+Karnataka,Hassan,Multiple Sclerosis,15-35,10,5,0,15
+Karnataka,Hassan,Multiple Sclerosis,35-60,3,5,0,8
+Karnataka,Hassan,Multiple Sclerosis,60-80,3,1,0,4
+Karnataka,Hassan,Muscular Dystrophy,0-6,0,0,0,0
+Karnataka,Hassan,Muscular Dystrophy,Jun-15,12,2,0,14
+Karnataka,Hassan,Muscular Dystrophy,15-35,22,8,0,30
+Karnataka,Hassan,Muscular Dystrophy,35-60,42,15,0,57
+Karnataka,Hassan,Muscular Dystrophy,60-80,18,3,0,21
+Karnataka,Hassan,Muscular Dystrophy,80+,3,1,0,4
+Karnataka,Hassan,Parkinson'S Disease,Jun-15,1,0,0,1
+Karnataka,Hassan,Parkinson'S Disease,15-35,2,1,0,3
+Karnataka,Hassan,Parkinson'S Disease,35-60,13,6,0,19
+Karnataka,Hassan,Parkinson'S Disease,60-80,11,4,0,15
+Karnataka,Hassan,Sickle Cell Disease,Jun-15,0,0,0,0
+Karnataka,Hassan,Sickle Cell Disease,15-35,2,2,0,4
+Karnataka,Hassan,Sickle Cell Disease,35-60,1,1,0,2
+Karnataka,Hassan,Sickle Cell Disease,60-80,1,0,0,1
+Karnataka,Hassan,Specific Learning Disabilities,Jun-15,1,0,0,1
+Karnataka,Hassan,Specific Learning Disabilities,15-35,5,0,0,5
+Karnataka,Hassan,Specific Learning Disabilities,35-60,1,0,0,1
+Karnataka,Hassan,Specific Learning Disabilities,60-80,0,0,0,0
+Karnataka,Hassan,Speech And Language Disability,0-6,1,0,0,1
+Karnataka,Hassan,Speech And Language Disability,Jun-15,11,3,0,14
+Karnataka,Hassan,Speech And Language Disability,15-35,24,26,0,50
+Karnataka,Hassan,Speech And Language Disability,35-60,43,30,1,74
+Karnataka,Hassan,Speech And Language Disability,60-80,30,5,0,35
+Karnataka,Hassan,Speech And Language Disability,80+,2,0,0,2
+Karnataka,Hassan,Thalassemia,0-6,2,2,0,4
+Karnataka,Hassan,Thalassemia,Jun-15,7,10,0,17
+Karnataka,Hassan,Thalassemia,15-35,8,8,0,16
+Karnataka,Hassan,Thalassemia,35-60,2,1,0,3
+Karnataka,Hassan,Thalassemia,60-80,1,1,0,2
+Karnataka,Haveri,Acid Attack Victim,0-6,0,0,0,0
+Karnataka,Haveri,Acid Attack Victim,Jun-15,1,0,0,1
+Karnataka,Haveri,Acid Attack Victim,15-35,1,6,0,7
+Karnataka,Haveri,Acid Attack Victim,35-60,8,3,0,11
+Karnataka,Haveri,Acid Attack Victim,60-80,8,0,0,8
+Karnataka,Haveri,Acid Attack Victim,80+,0,0,0,0
+Karnataka,Haveri,Autism Spectrum Disorder,0-6,0,0,0,0
+Karnataka,Haveri,Autism Spectrum Disorder,Jun-15,0,1,0,1
+Karnataka,Haveri,Autism Spectrum Disorder,15-35,0,0,0,0
+Karnataka,Haveri,Autism Spectrum Disorder,35-60,0,1,0,1
+Karnataka,Haveri,Autism Spectrum Disorder,60-80,1,0,0,1
+Karnataka,Haveri,Blindness,0-6,11,8,0,19
+Karnataka,Haveri,Blindness,Jun-15,127,87,0,214
+Karnataka,Haveri,Blindness,15-35,497,338,0,835
+Karnataka,Haveri,Blindness,35-60,907,545,1,1453
+Karnataka,Haveri,Blindness,60-80,378,151,0,529
+Karnataka,Haveri,Blindness,80+,28,5,0,33
+Karnataka,Haveri,Cerebral Palsy,0-6,3,0,0,3
+Karnataka,Haveri,Cerebral Palsy,Jun-15,7,1,0,8
+Karnataka,Haveri,Cerebral Palsy,15-35,11,10,0,21
+Karnataka,Haveri,Cerebral Palsy,35-60,61,11,0,72
+Karnataka,Haveri,Cerebral Palsy,60-80,23,7,0,30
+Karnataka,Haveri,Chronic Neurological Conditions,0-6,0,2,0,2
+Karnataka,Haveri,Chronic Neurological Conditions,Jun-15,2,0,0,2
+Karnataka,Haveri,Chronic Neurological Conditions,15-35,2,5,0,7
+Karnataka,Haveri,Chronic Neurological Conditions,35-60,19,7,0,26
+Karnataka,Haveri,Chronic Neurological Conditions,60-80,4,0,0,4
+Karnataka,Haveri,Dwarfism,0-6,1,0,0,1
+Karnataka,Haveri,Dwarfism,Jun-15,1,0,0,1
+Karnataka,Haveri,Dwarfism,15-35,13,7,0,20
+Karnataka,Haveri,Dwarfism,35-60,9,9,0,18
+Karnataka,Haveri,Dwarfism,60-80,3,1,0,4
+Karnataka,Haveri,Hearing Impairment,0-6,17,15,0,32
+Karnataka,Haveri,Hearing Impairment,Jun-15,249,200,0,449
+Karnataka,Haveri,Hearing Impairment,15-35,684,515,1,1200
+Karnataka,Haveri,Hearing Impairment,35-60,1013,841,0,1854
+Karnataka,Haveri,Hearing Impairment,60-80,412,130,0,542
+Karnataka,Haveri,Hearing Impairment,80+,43,7,0,50
+Karnataka,Haveri,Hemophilia,0-6,1,0,0,1
+Karnataka,Haveri,Hemophilia,Jun-15,11,2,0,13
+Karnataka,Haveri,Hemophilia,15-35,20,4,0,24
+Karnataka,Haveri,Hemophilia,35-60,7,6,0,13
+Karnataka,Haveri,Hemophilia,60-80,10,0,0,10
+Karnataka,Haveri,Hemophilia,80+,0,0,0,0
+Karnataka,Haveri,Intellectual Disability,0-6,121,74,0,195
+Karnataka,Haveri,Intellectual Disability,Jun-15,739,483,0,1222
+Karnataka,Haveri,Intellectual Disability,15-35,1124,720,0,1844
+Karnataka,Haveri,Intellectual Disability,35-60,336,276,0,612
+Karnataka,Haveri,Intellectual Disability,60-80,26,19,0,45
+Karnataka,Haveri,Intellectual Disability,80+,2,1,0,3
+Karnataka,Haveri,Leprosy Cured,Jun-15,1,0,0,1
+Karnataka,Haveri,Leprosy Cured,15-35,0,0,0,0
+Karnataka,Haveri,Leprosy Cured,35-60,11,5,0,16
+Karnataka,Haveri,Leprosy Cured,60-80,10,3,0,13
+Karnataka,Haveri,Locomotor Disability,0-6,44,21,0,65
+Karnataka,Haveri,Locomotor Disability,Jun-15,707,427,0,1134
+Karnataka,Haveri,Locomotor Disability,15-35,2997,1686,0,4683
+Karnataka,Haveri,Locomotor Disability,35-60,8174,3923,2,12099
+Karnataka,Haveri,Locomotor Disability,60-80,2715,866,1,3582
+Karnataka,Haveri,Locomotor Disability,80+,160,41,0,201
+Karnataka,Haveri,Low Vision,0-6,4,0,0,4
+Karnataka,Haveri,Low Vision,Jun-15,72,40,0,112
+Karnataka,Haveri,Low Vision,15-35,238,119,0,357
+Karnataka,Haveri,Low Vision,35-60,277,150,0,427
+Karnataka,Haveri,Low Vision,60-80,97,25,0,122
+Karnataka,Haveri,Low Vision,80+,2,1,0,3
+Karnataka,Haveri,Mental Illness,0-6,7,2,0,9
+Karnataka,Haveri,Mental Illness,Jun-15,85,55,0,140
+Karnataka,Haveri,Mental Illness,15-35,261,180,1,442
+Karnataka,Haveri,Mental Illness,35-60,217,189,0,406
+Karnataka,Haveri,Mental Illness,60-80,23,17,0,40
+Karnataka,Haveri,Mental Illness,80+,1,0,0,1
+Karnataka,Haveri,Multiple Disabilities,0-6,7,8,0,15
+Karnataka,Haveri,Multiple Disabilities,Jun-15,218,143,0,361
+Karnataka,Haveri,Multiple Disabilities,15-35,259,167,0,426
+Karnataka,Haveri,Multiple Disabilities,35-60,189,101,0,290
+Karnataka,Haveri,Multiple Disabilities,60-80,87,21,0,108
+Karnataka,Haveri,Multiple Disabilities,80+,2,2,0,4
+Karnataka,Haveri,Multiple Sclerosis,0-6,0,0,0,0
+Karnataka,Haveri,Multiple Sclerosis,Jun-15,0,0,0,0
+Karnataka,Haveri,Multiple Sclerosis,15-35,7,1,0,8
+Karnataka,Haveri,Multiple Sclerosis,35-60,7,11,0,18
+Karnataka,Haveri,Multiple Sclerosis,60-80,9,2,0,11
+Karnataka,Haveri,Multiple Sclerosis,80+,1,0,0,1
+Karnataka,Haveri,Muscular Dystrophy,0-6,0,0,0,0
+Karnataka,Haveri,Muscular Dystrophy,Jun-15,3,1,0,4
+Karnataka,Haveri,Muscular Dystrophy,15-35,16,9,0,25
+Karnataka,Haveri,Muscular Dystrophy,35-60,28,10,0,38
+Karnataka,Haveri,Muscular Dystrophy,60-80,5,5,0,10
+Karnataka,Haveri,Muscular Dystrophy,80+,1,0,0,1
+Karnataka,Haveri,Parkinson'S Disease,Jun-15,0,1,0,1
+Karnataka,Haveri,Parkinson'S Disease,15-35,2,0,0,2
+Karnataka,Haveri,Parkinson'S Disease,35-60,6,2,0,8
+Karnataka,Haveri,Parkinson'S Disease,60-80,5,1,0,6
+Karnataka,Haveri,Sickle Cell Disease,0-6,0,1,0,1
+Karnataka,Haveri,Sickle Cell Disease,Jun-15,1,0,0,1
+Karnataka,Haveri,Sickle Cell Disease,15-35,2,0,0,2
+Karnataka,Haveri,Sickle Cell Disease,35-60,2,3,0,5
+Karnataka,Haveri,Sickle Cell Disease,60-80,2,0,0,2
+Karnataka,Haveri,Specific Learning Disabilities,Jun-15,1,0,0,1
+Karnataka,Haveri,Specific Learning Disabilities,15-35,2,2,0,4
+Karnataka,Haveri,Specific Learning Disabilities,35-60,1,0,0,1
+Karnataka,Haveri,Specific Learning Disabilities,60-80,0,0,0,0
+Karnataka,Haveri,Speech And Language Disability,0-6,1,2,0,3
+Karnataka,Haveri,Speech And Language Disability,Jun-15,39,26,0,65
+Karnataka,Haveri,Speech And Language Disability,15-35,56,39,0,95
+Karnataka,Haveri,Speech And Language Disability,35-60,51,32,0,83
+Karnataka,Haveri,Speech And Language Disability,60-80,4,5,0,9
+Karnataka,Haveri,Speech And Language Disability,80+,0,2,0,2
+Karnataka,Haveri,Thalassemia,0-6,7,0,0,7
+Karnataka,Haveri,Thalassemia,Jun-15,10,10,0,20
+Karnataka,Haveri,Thalassemia,15-35,11,4,0,15
+Karnataka,Haveri,Thalassemia,35-60,1,0,0,1
+Karnataka,Haveri,Thalassemia,60-80,0,0,0,0
+Karnataka,Kalaburagi,Acid Attack Victim,0-6,0,0,0,0
+Karnataka,Kalaburagi,Acid Attack Victim,Jun-15,0,0,0,0
+Karnataka,Kalaburagi,Acid Attack Victim,15-35,4,5,0,9
+Karnataka,Kalaburagi,Acid Attack Victim,35-60,8,7,0,15
+Karnataka,Kalaburagi,Acid Attack Victim,60-80,2,0,0,2
+Karnataka,Kalaburagi,Acid Attack Victim,80+,0,0,0,0
+Karnataka,Kalaburagi,Autism Spectrum Disorder,0-6,0,1,0,1
+Karnataka,Kalaburagi,Autism Spectrum Disorder,Jun-15,6,1,0,7
+Karnataka,Kalaburagi,Autism Spectrum Disorder,15-35,1,3,0,4
+Karnataka,Kalaburagi,Autism Spectrum Disorder,35-60,8,2,0,10
+Karnataka,Kalaburagi,Autism Spectrum Disorder,60-80,0,1,0,1
+Karnataka,Kalaburagi,Blindness,0-6,4,4,0,8
+Karnataka,Kalaburagi,Blindness,Jun-15,84,75,0,159
+Karnataka,Kalaburagi,Blindness,15-35,490,336,0,826
+Karnataka,Kalaburagi,Blindness,35-60,657,325,0,982
+Karnataka,Kalaburagi,Blindness,60-80,269,81,0,350
+Karnataka,Kalaburagi,Blindness,80+,20,6,0,26
+Karnataka,Kalaburagi,Cerebral Palsy,0-6,59,44,0,103
+Karnataka,Kalaburagi,Cerebral Palsy,Jun-15,166,104,0,270
+Karnataka,Kalaburagi,Cerebral Palsy,15-35,133,74,0,207
+Karnataka,Kalaburagi,Cerebral Palsy,35-60,83,36,0,119
+Karnataka,Kalaburagi,Cerebral Palsy,60-80,13,5,0,18
+Karnataka,Kalaburagi,Cerebral Palsy,80+,0,0,0,0
+Karnataka,Kalaburagi,Chronic Neurological Conditions,0-6,1,1,0,2
+Karnataka,Kalaburagi,Chronic Neurological Conditions,Jun-15,7,8,0,15
+Karnataka,Kalaburagi,Chronic Neurological Conditions,15-35,130,57,0,187
+Karnataka,Kalaburagi,Chronic Neurological Conditions,35-60,555,134,0,689
+Karnataka,Kalaburagi,Chronic Neurological Conditions,60-80,179,22,0,201
+Karnataka,Kalaburagi,Chronic Neurological Conditions,80+,4,0,0,4
+Karnataka,Kalaburagi,Dwarfism,0-6,0,0,0,0
+Karnataka,Kalaburagi,Dwarfism,Jun-15,5,8,0,13
+Karnataka,Kalaburagi,Dwarfism,15-35,40,59,0,99
+Karnataka,Kalaburagi,Dwarfism,35-60,23,23,0,46
+Karnataka,Kalaburagi,Dwarfism,60-80,2,1,0,3
+Karnataka,Kalaburagi,Hearing Impairment,0-6,55,33,0,88
+Karnataka,Kalaburagi,Hearing Impairment,Jun-15,322,218,0,540
+Karnataka,Kalaburagi,Hearing Impairment,15-35,806,652,0,1458
+Karnataka,Kalaburagi,Hearing Impairment,35-60,969,646,0,1615
+Karnataka,Kalaburagi,Hearing Impairment,60-80,312,93,0,405
+Karnataka,Kalaburagi,Hearing Impairment,80+,27,2,0,29
+Karnataka,Kalaburagi,Hemophilia,Jun-15,5,0,0,5
+Karnataka,Kalaburagi,Hemophilia,15-35,8,0,0,8
+Karnataka,Kalaburagi,Hemophilia,35-60,6,2,0,8
+Karnataka,Kalaburagi,Hemophilia,60-80,8,0,0,8
+Karnataka,Kalaburagi,Hemophilia,80+,0,0,0,0
+Karnataka,Kalaburagi,Intellectual Disability,0-6,51,31,1,83
+Karnataka,Kalaburagi,Intellectual Disability,Jun-15,798,547,0,1345
+Karnataka,Kalaburagi,Intellectual Disability,15-35,1213,985,0,2198
+Karnataka,Kalaburagi,Intellectual Disability,35-60,287,227,0,514
+Karnataka,Kalaburagi,Intellectual Disability,60-80,12,4,0,16
+Karnataka,Kalaburagi,Intellectual Disability,80+,0,0,0,0
+Karnataka,Kalaburagi,Leprosy Cured,Jun-15,0,0,0,0
+Karnataka,Kalaburagi,Leprosy Cured,15-35,9,3,0,12
+Karnataka,Kalaburagi,Leprosy Cured,35-60,41,24,0,65
+Karnataka,Kalaburagi,Leprosy Cured,60-80,31,16,0,47
+Karnataka,Kalaburagi,Leprosy Cured,80+,2,2,0,4
+Karnataka,Kalaburagi,Locomotor Disability,0-6,34,26,0,60
+Karnataka,Kalaburagi,Locomotor Disability,Jun-15,503,298,0,801
+Karnataka,Kalaburagi,Locomotor Disability,15-35,3012,1637,0,4649
+Karnataka,Kalaburagi,Locomotor Disability,35-60,7764,3105,1,10870
+Karnataka,Kalaburagi,Locomotor Disability,60-80,1915,492,1,2408
+Karnataka,Kalaburagi,Locomotor Disability,80+,105,16,0,121
+Karnataka,Kalaburagi,Low Vision,0-6,5,1,0,6
+Karnataka,Kalaburagi,Low Vision,Jun-15,59,52,0,111
+Karnataka,Kalaburagi,Low Vision,15-35,254,154,0,408
+Karnataka,Kalaburagi,Low Vision,35-60,307,136,0,443
+Karnataka,Kalaburagi,Low Vision,60-80,72,23,0,95
+Karnataka,Kalaburagi,Low Vision,80+,5,2,0,7
+Karnataka,Kalaburagi,Mental Illness,0-6,3,4,0,7
+Karnataka,Kalaburagi,Mental Illness,Jun-15,106,52,0,158
+Karnataka,Kalaburagi,Mental Illness,15-35,147,111,0,258
+Karnataka,Kalaburagi,Mental Illness,35-60,160,80,0,240
+Karnataka,Kalaburagi,Mental Illness,60-80,7,8,0,15
+Karnataka,Kalaburagi,Mental Illness,80+,1,1,0,2
+Karnataka,Kalaburagi,Multiple Disabilities,0-6,1,2,0,3
+Karnataka,Kalaburagi,Multiple Disabilities,Jun-15,51,22,0,73
+Karnataka,Kalaburagi,Multiple Disabilities,15-35,115,81,0,196
+Karnataka,Kalaburagi,Multiple Disabilities,35-60,120,41,0,161
+Karnataka,Kalaburagi,Multiple Disabilities,60-80,42,14,0,56
+Karnataka,Kalaburagi,Multiple Disabilities,80+,4,0,0,4
+Karnataka,Kalaburagi,Multiple Sclerosis,0-6,0,0,0,0
+Karnataka,Kalaburagi,Multiple Sclerosis,Jun-15,3,0,0,3
+Karnataka,Kalaburagi,Multiple Sclerosis,15-35,2,0,0,2
+Karnataka,Kalaburagi,Multiple Sclerosis,35-60,4,3,0,7
+Karnataka,Kalaburagi,Multiple Sclerosis,60-80,3,0,0,3
+Karnataka,Kalaburagi,Muscular Dystrophy,0-6,0,0,0,0
+Karnataka,Kalaburagi,Muscular Dystrophy,Jun-15,21,2,0,23
+Karnataka,Kalaburagi,Muscular Dystrophy,15-35,24,7,0,31
+Karnataka,Kalaburagi,Muscular Dystrophy,35-60,34,9,0,43
+Karnataka,Kalaburagi,Muscular Dystrophy,60-80,12,2,0,14
+Karnataka,Kalaburagi,Muscular Dystrophy,80+,1,0,0,1
+Karnataka,Kalaburagi,Parkinson'S Disease,Jun-15,0,0,0,0
+Karnataka,Kalaburagi,Parkinson'S Disease,15-35,1,3,0,4
+Karnataka,Kalaburagi,Parkinson'S Disease,35-60,15,2,0,17
+Karnataka,Kalaburagi,Parkinson'S Disease,60-80,11,1,0,12
+Karnataka,Kalaburagi,Parkinson'S Disease,80+,1,0,0,1
+Karnataka,Kalaburagi,Sickle Cell Disease,Jun-15,1,0,0,1
+Karnataka,Kalaburagi,Sickle Cell Disease,15-35,0,0,0,0
+Karnataka,Kalaburagi,Sickle Cell Disease,35-60,1,2,0,3
+Karnataka,Kalaburagi,Sickle Cell Disease,60-80,0,0,0,0
+Karnataka,Kalaburagi,Specific Learning Disabilities,Jun-15,0,0,0,0
+Karnataka,Kalaburagi,Specific Learning Disabilities,15-35,2,2,0,4
+Karnataka,Kalaburagi,Specific Learning Disabilities,35-60,0,0,0,0
+Karnataka,Kalaburagi,Specific Learning Disabilities,60-80,0,0,0,0
+Karnataka,Kalaburagi,Specific Learning Disabilities,80+,0,0,0,0
+Karnataka,Kalaburagi,Speech And Language Disability,0-6,2,6,0,8
+Karnataka,Kalaburagi,Speech And Language Disability,Jun-15,43,39,0,82
+Karnataka,Kalaburagi,Speech And Language Disability,15-35,80,36,0,116
+Karnataka,Kalaburagi,Speech And Language Disability,35-60,71,19,0,90
+Karnataka,Kalaburagi,Speech And Language Disability,60-80,14,2,0,16
+Karnataka,Kalaburagi,Thalassemia,0-6,4,5,0,9
+Karnataka,Kalaburagi,Thalassemia,Jun-15,7,7,0,14
+Karnataka,Kalaburagi,Thalassemia,15-35,12,9,0,21
+Karnataka,Kalaburagi,Thalassemia,35-60,0,1,0,1
+Karnataka,Kalaburagi,Thalassemia,60-80,0,0,0,0
+Karnataka,Kodagu,Acid Attack Victim,15-35,0,1,0,1
+Karnataka,Kodagu,Acid Attack Victim,35-60,1,4,0,5
+Karnataka,Kodagu,Autism Spectrum Disorder,0-6,1,0,0,1
+Karnataka,Kodagu,Autism Spectrum Disorder,Jun-15,2,0,0,2
+Karnataka,Kodagu,Autism Spectrum Disorder,15-35,1,0,0,1
+Karnataka,Kodagu,Autism Spectrum Disorder,60-80,0,0,0,0
+Karnataka,Kodagu,Autism Spectrum Disorder,80+,1,0,0,1
+Karnataka,Kodagu,Blindness,Jun-15,3,1,0,4
+Karnataka,Kodagu,Blindness,15-35,22,14,0,36
+Karnataka,Kodagu,Blindness,35-60,63,44,0,107
+Karnataka,Kodagu,Blindness,60-80,44,30,0,74
+Karnataka,Kodagu,Blindness,80+,1,4,0,5
+Karnataka,Kodagu,Cerebral Palsy,0-6,4,2,0,6
+Karnataka,Kodagu,Cerebral Palsy,Jun-15,17,5,0,22
+Karnataka,Kodagu,Cerebral Palsy,15-35,30,16,0,46
+Karnataka,Kodagu,Cerebral Palsy,35-60,15,10,0,25
+Karnataka,Kodagu,Cerebral Palsy,60-80,0,1,0,1
+Karnataka,Kodagu,Chronic Neurological Conditions,Jun-15,1,0,0,1
+Karnataka,Kodagu,Chronic Neurological Conditions,15-35,1,1,0,2
+Karnataka,Kodagu,Chronic Neurological Conditions,35-60,10,1,0,11
+Karnataka,Kodagu,Chronic Neurological Conditions,60-80,7,0,0,7
+Karnataka,Kodagu,Dwarfism,Jun-15,2,2,0,4
+Karnataka,Kodagu,Dwarfism,15-35,10,10,0,20
+Karnataka,Kodagu,Dwarfism,35-60,15,8,0,23
+Karnataka,Kodagu,Dwarfism,60-80,3,2,0,5
+Karnataka,Kodagu,Dwarfism,80+,1,0,0,1
+Karnataka,Kodagu,Hearing Impairment,0-6,1,1,0,2
+Karnataka,Kodagu,Hearing Impairment,Jun-15,26,20,0,46
+Karnataka,Kodagu,Hearing Impairment,15-35,111,86,0,197
+Karnataka,Kodagu,Hearing Impairment,35-60,226,209,1,436
+Karnataka,Kodagu,Hearing Impairment,60-80,209,178,0,387
+Karnataka,Kodagu,Hearing Impairment,80+,40,34,0,74
+Karnataka,Kodagu,Hemophilia,15-35,6,0,0,6
+Karnataka,Kodagu,Hemophilia,60-80,0,0,0,0
+Karnataka,Kodagu,Intellectual Disability,0-6,14,7,0,21
+Karnataka,Kodagu,Intellectual Disability,Jun-15,124,84,0,208
+Karnataka,Kodagu,Intellectual Disability,15-35,414,270,0,684
+Karnataka,Kodagu,Intellectual Disability,35-60,185,165,0,350
+Karnataka,Kodagu,Intellectual Disability,60-80,11,18,0,29
+Karnataka,Kodagu,Intellectual Disability,80+,0,0,0,0
+Karnataka,Kodagu,Leprosy Cured,35-60,0,0,0,0
+Karnataka,Kodagu,Locomotor Disability,0-6,4,5,0,9
+Karnataka,Kodagu,Locomotor Disability,Jun-15,49,31,0,80
+Karnataka,Kodagu,Locomotor Disability,15-35,299,164,0,463
+Karnataka,Kodagu,Locomotor Disability,35-60,1047,523,0,1570
+Karnataka,Kodagu,Locomotor Disability,60-80,644,267,0,911
+Karnataka,Kodagu,Locomotor Disability,80+,43,15,0,58
+Karnataka,Kodagu,Low Vision,Jun-15,9,12,0,21
+Karnataka,Kodagu,Low Vision,15-35,53,32,0,85
+Karnataka,Kodagu,Low Vision,35-60,82,49,0,131
+Karnataka,Kodagu,Low Vision,60-80,47,27,0,74
+Karnataka,Kodagu,Low Vision,80+,4,1,0,5
+Karnataka,Kodagu,Mental Illness,0-6,0,0,0,0
+Karnataka,Kodagu,Mental Illness,Jun-15,1,0,0,1
+Karnataka,Kodagu,Mental Illness,15-35,8,5,0,13
+Karnataka,Kodagu,Mental Illness,35-60,47,49,0,96
+Karnataka,Kodagu,Mental Illness,60-80,19,14,0,33
+Karnataka,Kodagu,Mental Illness,80+,1,0,0,1
+Karnataka,Kodagu,Multiple Disabilities,0-6,2,1,0,3
+Karnataka,Kodagu,Multiple Disabilities,Jun-15,44,28,0,72
+Karnataka,Kodagu,Multiple Disabilities,15-35,96,79,0,175
+Karnataka,Kodagu,Multiple Disabilities,35-60,80,69,0,149
+Karnataka,Kodagu,Multiple Disabilities,60-80,63,25,0,88
+Karnataka,Kodagu,Multiple Disabilities,80+,7,1,0,8
+Karnataka,Kodagu,Multiple Sclerosis,15-35,0,0,0,0
+Karnataka,Kodagu,Multiple Sclerosis,35-60,0,0,0,0
+Karnataka,Kodagu,Muscular Dystrophy,0-6,1,0,0,1
+Karnataka,Kodagu,Muscular Dystrophy,Jun-15,5,0,0,5
+Karnataka,Kodagu,Muscular Dystrophy,15-35,13,1,0,14
+Karnataka,Kodagu,Muscular Dystrophy,35-60,3,5,0,8
+Karnataka,Kodagu,Muscular Dystrophy,60-80,3,0,0,3
+Karnataka,Kodagu,Parkinson'S Disease,15-35,0,0,0,0
+Karnataka,Kodagu,Parkinson'S Disease,35-60,0,1,0,1
+Karnataka,Kodagu,Parkinson'S Disease,60-80,7,3,0,10
+Karnataka,Kodagu,Parkinson'S Disease,80+,1,1,0,2
+Karnataka,Kodagu,Sickle Cell Disease,0-6,0,2,0,2
+Karnataka,Kodagu,Sickle Cell Disease,Jun-15,1,0,0,1
+Karnataka,Kodagu,Sickle Cell Disease,15-35,5,2,0,7
+Karnataka,Kodagu,Sickle Cell Disease,35-60,0,0,0,0
+Karnataka,Kodagu,Sickle Cell Disease,60-80,0,0,0,0
+Karnataka,Kodagu,Specific Learning Disabilities,Jun-15,0,1,0,1
+Karnataka,Kodagu,Specific Learning Disabilities,15-35,0,0,0,0
+Karnataka,Kodagu,Speech And Language Disability,0-6,0,1,0,1
+Karnataka,Kodagu,Speech And Language Disability,Jun-15,4,1,0,5
+Karnataka,Kodagu,Speech And Language Disability,15-35,9,5,0,14
+Karnataka,Kodagu,Speech And Language Disability,35-60,14,5,0,19
+Karnataka,Kodagu,Speech And Language Disability,60-80,4,1,0,5
+Karnataka,Kodagu,Speech And Language Disability,80+,0,0,0,0
+Karnataka,Kodagu,Thalassemia,0-6,1,0,0,1
+Karnataka,Kodagu,Thalassemia,Jun-15,2,4,0,6
+Karnataka,Kodagu,Thalassemia,15-35,6,7,0,13
+Karnataka,Kodagu,Thalassemia,35-60,0,0,0,0
+Karnataka,Kodagu,Thalassemia,60-80,0,0,0,0
+Karnataka,Kolar,Acid Attack Victim,Jun-15,1,0,0,1
+Karnataka,Kolar,Acid Attack Victim,15-35,3,3,0,6
+Karnataka,Kolar,Acid Attack Victim,35-60,4,8,0,12
+Karnataka,Kolar,Acid Attack Victim,60-80,3,0,0,3
+Karnataka,Kolar,Acid Attack Victim,80+,0,0,0,0
+Karnataka,Kolar,Autism Spectrum Disorder,0-6,0,0,0,0
+Karnataka,Kolar,Autism Spectrum Disorder,Jun-15,8,2,0,10
+Karnataka,Kolar,Autism Spectrum Disorder,15-35,5,0,0,5
+Karnataka,Kolar,Autism Spectrum Disorder,35-60,2,1,0,3
+Karnataka,Kolar,Autism Spectrum Disorder,60-80,2,0,0,2
+Karnataka,Kolar,Autism Spectrum Disorder,80+,0,0,0,0
+Karnataka,Kolar,Blindness,0-6,2,0,0,2
+Karnataka,Kolar,Blindness,Jun-15,43,35,0,78
+Karnataka,Kolar,Blindness,15-35,306,217,0,523
+Karnataka,Kolar,Blindness,35-60,569,354,1,924
+Karnataka,Kolar,Blindness,60-80,269,126,0,395
+Karnataka,Kolar,Blindness,80+,36,13,0,49
+Karnataka,Kolar,Cerebral Palsy,0-6,7,8,0,15
+Karnataka,Kolar,Cerebral Palsy,Jun-15,99,58,0,157
+Karnataka,Kolar,Cerebral Palsy,15-35,194,126,0,320
+Karnataka,Kolar,Cerebral Palsy,35-60,116,43,1,160
+Karnataka,Kolar,Cerebral Palsy,60-80,31,7,0,38
+Karnataka,Kolar,Cerebral Palsy,80+,0,1,0,1
+Karnataka,Kolar,Chronic Neurological Conditions,0-6,3,1,0,4
+Karnataka,Kolar,Chronic Neurological Conditions,Jun-15,13,11,0,24
+Karnataka,Kolar,Chronic Neurological Conditions,15-35,77,50,0,127
+Karnataka,Kolar,Chronic Neurological Conditions,35-60,282,105,0,387
+Karnataka,Kolar,Chronic Neurological Conditions,60-80,130,20,0,150
+Karnataka,Kolar,Chronic Neurological Conditions,80+,8,0,0,8
+Karnataka,Kolar,Dwarfism,Jun-15,1,2,0,3
+Karnataka,Kolar,Dwarfism,15-35,29,33,0,62
+Karnataka,Kolar,Dwarfism,35-60,27,33,0,60
+Karnataka,Kolar,Dwarfism,60-80,5,2,0,7
+Karnataka,Kolar,Dwarfism,80+,0,0,0,0
+Karnataka,Kolar,Hearing Impairment,0-6,12,12,0,24
+Karnataka,Kolar,Hearing Impairment,Jun-15,133,101,0,234
+Karnataka,Kolar,Hearing Impairment,15-35,372,314,0,686
+Karnataka,Kolar,Hearing Impairment,35-60,736,521,0,1257
+Karnataka,Kolar,Hearing Impairment,60-80,275,143,0,418
+Karnataka,Kolar,Hearing Impairment,80+,22,9,0,31
+Karnataka,Kolar,Hemophilia,0-6,0,1,0,1
+Karnataka,Kolar,Hemophilia,Jun-15,1,1,0,2
+Karnataka,Kolar,Hemophilia,15-35,4,2,0,6
+Karnataka,Kolar,Hemophilia,35-60,13,3,0,16
+Karnataka,Kolar,Hemophilia,60-80,0,2,0,2
+Karnataka,Kolar,Hemophilia,80+,1,0,0,1
+Karnataka,Kolar,Intellectual Disability,0-6,5,7,0,12
+Karnataka,Kolar,Intellectual Disability,Jun-15,306,222,0,528
+Karnataka,Kolar,Intellectual Disability,15-35,722,610,0,1332
+Karnataka,Kolar,Intellectual Disability,35-60,347,295,0,642
+Karnataka,Kolar,Intellectual Disability,60-80,32,17,0,49
+Karnataka,Kolar,Intellectual Disability,80+,0,0,0,0
+Karnataka,Kolar,Leprosy Cured,Jun-15,1,0,0,1
+Karnataka,Kolar,Leprosy Cured,15-35,2,3,0,5
+Karnataka,Kolar,Leprosy Cured,35-60,22,8,0,30
+Karnataka,Kolar,Leprosy Cured,60-80,17,10,0,27
+Karnataka,Kolar,Leprosy Cured,80+,1,2,0,3
+Karnataka,Kolar,Locomotor Disability,0-6,15,14,0,29
+Karnataka,Kolar,Locomotor Disability,Jun-15,194,119,0,313
+Karnataka,Kolar,Locomotor Disability,15-35,1146,634,0,1780
+Karnataka,Kolar,Locomotor Disability,35-60,3913,1669,2,5584
+Karnataka,Kolar,Locomotor Disability,60-80,1604,451,0,2055
+Karnataka,Kolar,Locomotor Disability,80+,121,45,0,166
+Karnataka,Kolar,Low Vision,Jun-15,6,5,0,11
+Karnataka,Kolar,Low Vision,15-35,44,24,0,68
+Karnataka,Kolar,Low Vision,35-60,73,30,0,103
+Karnataka,Kolar,Low Vision,60-80,21,5,0,26
+Karnataka,Kolar,Low Vision,80+,5,1,0,6
+Karnataka,Kolar,Mental Illness,0-6,7,1,0,8
+Karnataka,Kolar,Mental Illness,Jun-15,80,55,0,135
+Karnataka,Kolar,Mental Illness,15-35,272,219,0,491
+Karnataka,Kolar,Mental Illness,35-60,312,281,0,593
+Karnataka,Kolar,Mental Illness,60-80,57,42,0,99
+Karnataka,Kolar,Mental Illness,80+,3,0,0,3
+Karnataka,Kolar,Multiple Disabilities,0-6,3,4,0,7
+Karnataka,Kolar,Multiple Disabilities,Jun-15,49,35,0,84
+Karnataka,Kolar,Multiple Disabilities,15-35,174,122,0,296
+Karnataka,Kolar,Multiple Disabilities,35-60,234,100,0,334
+Karnataka,Kolar,Multiple Disabilities,60-80,63,18,0,81
+Karnataka,Kolar,Multiple Disabilities,80+,6,2,0,8
+Karnataka,Kolar,Multiple Sclerosis,0-6,1,0,0,1
+Karnataka,Kolar,Multiple Sclerosis,Jun-15,1,3,0,4
+Karnataka,Kolar,Multiple Sclerosis,15-35,4,8,0,12
+Karnataka,Kolar,Multiple Sclerosis,35-60,9,10,0,19
+Karnataka,Kolar,Multiple Sclerosis,60-80,2,0,0,2
+Karnataka,Kolar,Multiple Sclerosis,80+,0,0,0,0
+Karnataka,Kolar,Muscular Dystrophy,0-6,0,0,0,0
+Karnataka,Kolar,Muscular Dystrophy,Jun-15,14,3,0,17
+Karnataka,Kolar,Muscular Dystrophy,15-35,23,20,0,43
+Karnataka,Kolar,Muscular Dystrophy,35-60,43,20,0,63
+Karnataka,Kolar,Muscular Dystrophy,60-80,19,4,0,23
+Karnataka,Kolar,Muscular Dystrophy,80+,2,0,0,2
+Karnataka,Kolar,Parkinson'S Disease,Jun-15,2,0,0,2
+Karnataka,Kolar,Parkinson'S Disease,15-35,0,2,0,2
+Karnataka,Kolar,Parkinson'S Disease,35-60,11,7,0,18
+Karnataka,Kolar,Parkinson'S Disease,60-80,9,3,0,12
+Karnataka,Kolar,Parkinson'S Disease,80+,4,0,0,4
+Karnataka,Kolar,Sickle Cell Disease,Jun-15,0,0,0,0
+Karnataka,Kolar,Sickle Cell Disease,15-35,1,2,0,3
+Karnataka,Kolar,Sickle Cell Disease,35-60,1,0,0,1
+Karnataka,Kolar,Sickle Cell Disease,60-80,0,0,0,0
+Karnataka,Kolar,Specific Learning Disabilities,Jun-15,1,2,0,3
+Karnataka,Kolar,Specific Learning Disabilities,15-35,0,2,0,2
+Karnataka,Kolar,Specific Learning Disabilities,35-60,0,1,0,1
+Karnataka,Kolar,Specific Learning Disabilities,60-80,0,1,0,1
+Karnataka,Kolar,Speech And Language Disability,Jun-15,6,3,0,9
+Karnataka,Kolar,Speech And Language Disability,15-35,8,11,0,19
+Karnataka,Kolar,Speech And Language Disability,35-60,18,13,0,31
+Karnataka,Kolar,Speech And Language Disability,60-80,11,2,0,13
+Karnataka,Kolar,Speech And Language Disability,80+,1,1,0,2
+Karnataka,Kolar,Thalassemia,Jun-15,2,0,0,2
+Karnataka,Kolar,Thalassemia,15-35,1,0,0,1
+Karnataka,Kolar,Thalassemia,35-60,1,0,0,1
+Karnataka,Koppal,Acid Attack Victim,15-35,1,0,0,1
+Karnataka,Koppal,Acid Attack Victim,35-60,4,0,0,4
+Karnataka,Koppal,Acid Attack Victim,60-80,1,0,0,1
+Karnataka,Koppal,Autism Spectrum Disorder,0-6,0,0,0,0
+Karnataka,Koppal,Autism Spectrum Disorder,Jun-15,0,1,0,1
+Karnataka,Koppal,Autism Spectrum Disorder,15-35,1,1,0,2
+Karnataka,Koppal,Autism Spectrum Disorder,35-60,4,1,0,5
+Karnataka,Koppal,Autism Spectrum Disorder,60-80,0,0,0,0
+Karnataka,Koppal,Blindness,0-6,4,4,0,8
+Karnataka,Koppal,Blindness,Jun-15,76,62,0,138
+Karnataka,Koppal,Blindness,15-35,432,293,0,725
+Karnataka,Koppal,Blindness,35-60,565,310,0,875
+Karnataka,Koppal,Blindness,60-80,166,74,0,240
+Karnataka,Koppal,Blindness,80+,5,3,0,8
+Karnataka,Koppal,Cerebral Palsy,0-6,26,17,0,43
+Karnataka,Koppal,Cerebral Palsy,Jun-15,113,64,0,177
+Karnataka,Koppal,Cerebral Palsy,15-35,82,52,0,134
+Karnataka,Koppal,Cerebral Palsy,35-60,41,10,0,51
+Karnataka,Koppal,Cerebral Palsy,60-80,6,1,0,7
+Karnataka,Koppal,Cerebral Palsy,80+,0,1,0,1
+Karnataka,Koppal,Chronic Neurological Conditions,Jun-15,0,1,0,1
+Karnataka,Koppal,Chronic Neurological Conditions,15-35,2,1,0,3
+Karnataka,Koppal,Chronic Neurological Conditions,35-60,5,4,0,9
+Karnataka,Koppal,Chronic Neurological Conditions,60-80,2,0,0,2
+Karnataka,Koppal,Dwarfism,Jun-15,6,3,0,9
+Karnataka,Koppal,Dwarfism,15-35,12,21,0,33
+Karnataka,Koppal,Dwarfism,35-60,12,14,0,26
+Karnataka,Koppal,Dwarfism,60-80,1,0,0,1
+Karnataka,Koppal,Hearing Impairment,0-6,25,15,0,40
+Karnataka,Koppal,Hearing Impairment,Jun-15,130,121,0,251
+Karnataka,Koppal,Hearing Impairment,15-35,427,342,0,769
+Karnataka,Koppal,Hearing Impairment,35-60,455,325,0,780
+Karnataka,Koppal,Hearing Impairment,60-80,153,56,0,209
+Karnataka,Koppal,Hearing Impairment,80+,6,1,0,7
+Karnataka,Koppal,Hemophilia,0-6,1,1,0,2
+Karnataka,Koppal,Hemophilia,Jun-15,10,0,0,10
+Karnataka,Koppal,Hemophilia,15-35,13,2,0,15
+Karnataka,Koppal,Hemophilia,35-60,11,3,0,14
+Karnataka,Koppal,Hemophilia,60-80,4,0,0,4
+Karnataka,Koppal,Intellectual Disability,0-6,75,61,1,137
+Karnataka,Koppal,Intellectual Disability,Jun-15,684,442,0,1126
+Karnataka,Koppal,Intellectual Disability,15-35,678,510,0,1188
+Karnataka,Koppal,Intellectual Disability,35-60,103,111,0,214
+Karnataka,Koppal,Intellectual Disability,60-80,10,5,0,15
+Karnataka,Koppal,Intellectual Disability,80+,1,0,0,1
+Karnataka,Koppal,Leprosy Cured,Jun-15,0,0,0,0
+Karnataka,Koppal,Leprosy Cured,15-35,1,1,0,2
+Karnataka,Koppal,Leprosy Cured,35-60,37,20,0,57
+Karnataka,Koppal,Leprosy Cured,60-80,33,9,0,42
+Karnataka,Koppal,Leprosy Cured,80+,3,2,0,5
+Karnataka,Koppal,Locomotor Disability,0-6,38,19,0,57
+Karnataka,Koppal,Locomotor Disability,Jun-15,411,229,0,640
+Karnataka,Koppal,Locomotor Disability,15-35,2332,1380,0,3712
+Karnataka,Koppal,Locomotor Disability,35-60,4690,2163,3,6856
+Karnataka,Koppal,Locomotor Disability,60-80,1013,292,0,1305
+Karnataka,Koppal,Locomotor Disability,80+,54,11,0,65
+Karnataka,Koppal,Low Vision,0-6,0,0,0,0
+Karnataka,Koppal,Low Vision,Jun-15,44,33,0,77
+Karnataka,Koppal,Low Vision,15-35,225,116,0,341
+Karnataka,Koppal,Low Vision,35-60,197,89,0,286
+Karnataka,Koppal,Low Vision,60-80,46,23,0,69
+Karnataka,Koppal,Low Vision,80+,2,1,0,3
+Karnataka,Koppal,Mental Illness,0-6,6,0,0,6
+Karnataka,Koppal,Mental Illness,Jun-15,142,98,0,240
+Karnataka,Koppal,Mental Illness,15-35,522,431,0,953
+Karnataka,Koppal,Mental Illness,35-60,318,291,0,609
+Karnataka,Koppal,Mental Illness,60-80,26,34,0,60
+Karnataka,Koppal,Mental Illness,80+,1,1,0,2
+Karnataka,Koppal,Multiple Disabilities,0-6,1,0,0,1
+Karnataka,Koppal,Multiple Disabilities,Jun-15,11,8,0,19
+Karnataka,Koppal,Multiple Disabilities,15-35,33,18,0,51
+Karnataka,Koppal,Multiple Disabilities,35-60,21,15,0,36
+Karnataka,Koppal,Multiple Disabilities,60-80,6,1,0,7
+Karnataka,Koppal,Multiple Disabilities,80+,0,0,0,0
+Karnataka,Koppal,Multiple Sclerosis,0-6,0,1,0,1
+Karnataka,Koppal,Multiple Sclerosis,Jun-15,0,0,0,0
+Karnataka,Koppal,Multiple Sclerosis,15-35,2,1,0,3
+Karnataka,Koppal,Multiple Sclerosis,35-60,1,0,0,1
+Karnataka,Koppal,Multiple Sclerosis,60-80,0,0,0,0
+Karnataka,Koppal,Muscular Dystrophy,0-6,1,0,0,1
+Karnataka,Koppal,Muscular Dystrophy,Jun-15,6,1,0,7
+Karnataka,Koppal,Muscular Dystrophy,15-35,20,4,0,24
+Karnataka,Koppal,Muscular Dystrophy,35-60,12,3,0,15
+Karnataka,Koppal,Muscular Dystrophy,60-80,3,1,0,4
+Karnataka,Koppal,Muscular Dystrophy,80+,0,0,0,0
+Karnataka,Koppal,Parkinson'S Disease,15-35,3,1,0,4
+Karnataka,Koppal,Parkinson'S Disease,35-60,4,1,0,5
+Karnataka,Koppal,Parkinson'S Disease,60-80,2,0,0,2
+Karnataka,Koppal,Sickle Cell Disease,Jun-15,0,0,0,0
+Karnataka,Koppal,Sickle Cell Disease,35-60,0,0,0,0
+Karnataka,Koppal,Sickle Cell Disease,60-80,0,0,0,0
+Karnataka,Koppal,Specific Learning Disabilities,0-6,0,0,0,0
+Karnataka,Koppal,Specific Learning Disabilities,Jun-15,1,0,0,1
+Karnataka,Koppal,Specific Learning Disabilities,15-35,1,1,0,2
+Karnataka,Koppal,Specific Learning Disabilities,35-60,1,0,0,1
+Karnataka,Koppal,Speech And Language Disability,0-6,1,0,0,1
+Karnataka,Koppal,Speech And Language Disability,Jun-15,5,4,0,9
+Karnataka,Koppal,Speech And Language Disability,15-35,15,13,1,29
+Karnataka,Koppal,Speech And Language Disability,35-60,6,3,0,9
+Karnataka,Koppal,Speech And Language Disability,60-80,1,0,0,1
+Karnataka,Koppal,Speech And Language Disability,80+,0,0,0,0
+Karnataka,Koppal,Thalassemia,0-6,3,4,0,7
+Karnataka,Koppal,Thalassemia,Jun-15,15,5,0,20
+Karnataka,Koppal,Thalassemia,15-35,7,2,0,9
+Karnataka,Koppal,Thalassemia,35-60,1,0,0,1
+Karnataka,Mandya,Acid Attack Victim,15-35,1,1,0,2
+Karnataka,Mandya,Acid Attack Victim,35-60,5,3,0,8
+Karnataka,Mandya,Acid Attack Victim,60-80,4,0,0,4
+Karnataka,Mandya,Acid Attack Victim,80+,0,0,0,0
+Karnataka,Mandya,Autism Spectrum Disorder,0-6,1,1,0,2
+Karnataka,Mandya,Autism Spectrum Disorder,Jun-15,5,4,0,9
+Karnataka,Mandya,Autism Spectrum Disorder,15-35,5,3,0,8
+Karnataka,Mandya,Autism Spectrum Disorder,35-60,4,1,0,5
+Karnataka,Mandya,Autism Spectrum Disorder,60-80,1,0,0,1
+Karnataka,Mandya,Blindness,0-6,5,1,0,6
+Karnataka,Mandya,Blindness,Jun-15,29,27,0,56
+Karnataka,Mandya,Blindness,15-35,210,149,0,359
+Karnataka,Mandya,Blindness,35-60,640,449,1,1090
+Karnataka,Mandya,Blindness,60-80,320,144,1,465
+Karnataka,Mandya,Blindness,80+,32,14,0,46
+Karnataka,Mandya,Cerebral Palsy,0-6,14,10,0,24
+Karnataka,Mandya,Cerebral Palsy,Jun-15,84,55,0,139
+Karnataka,Mandya,Cerebral Palsy,15-35,112,81,0,193
+Karnataka,Mandya,Cerebral Palsy,35-60,51,24,0,75
+Karnataka,Mandya,Cerebral Palsy,60-80,8,2,0,10
+Karnataka,Mandya,Cerebral Palsy,80+,0,0,0,0
+Karnataka,Mandya,Chronic Neurological Conditions,0-6,3,2,0,5
+Karnataka,Mandya,Chronic Neurological Conditions,Jun-15,39,11,0,50
+Karnataka,Mandya,Chronic Neurological Conditions,15-35,138,97,0,235
+Karnataka,Mandya,Chronic Neurological Conditions,35-60,638,213,0,851
+Karnataka,Mandya,Chronic Neurological Conditions,60-80,340,64,0,404
+Karnataka,Mandya,Chronic Neurological Conditions,80+,14,2,0,16
+Karnataka,Mandya,Dwarfism,Jun-15,4,3,0,7
+Karnataka,Mandya,Dwarfism,15-35,9,10,0,19
+Karnataka,Mandya,Dwarfism,35-60,11,18,0,29
+Karnataka,Mandya,Dwarfism,60-80,3,1,0,4
+Karnataka,Mandya,Hearing Impairment,0-6,13,8,0,21
+Karnataka,Mandya,Hearing Impairment,Jun-15,112,89,0,201
+Karnataka,Mandya,Hearing Impairment,15-35,441,405,0,846
+Karnataka,Mandya,Hearing Impairment,35-60,1037,890,1,1928
+Karnataka,Mandya,Hearing Impairment,60-80,444,197,0,641
+Karnataka,Mandya,Hearing Impairment,80+,47,13,0,60
+Karnataka,Mandya,Hemophilia,0-6,3,0,0,3
+Karnataka,Mandya,Hemophilia,Jun-15,9,4,0,13
+Karnataka,Mandya,Hemophilia,15-35,17,4,0,21
+Karnataka,Mandya,Hemophilia,35-60,14,3,0,17
+Karnataka,Mandya,Hemophilia,60-80,6,2,0,8
+Karnataka,Mandya,Hemophilia,80+,0,0,0,0
+Karnataka,Mandya,Intellectual Disability,0-6,35,25,0,60
+Karnataka,Mandya,Intellectual Disability,Jun-15,489,283,1,773
+Karnataka,Mandya,Intellectual Disability,15-35,1164,830,0,1994
+Karnataka,Mandya,Intellectual Disability,35-60,575,508,0,1083
+Karnataka,Mandya,Intellectual Disability,60-80,37,43,0,80
+Karnataka,Mandya,Intellectual Disability,80+,0,0,0,0
+Karnataka,Mandya,Leprosy Cured,Jun-15,0,0,0,0
+Karnataka,Mandya,Leprosy Cured,15-35,1,0,0,1
+Karnataka,Mandya,Leprosy Cured,35-60,11,3,0,14
+Karnataka,Mandya,Leprosy Cured,60-80,13,3,0,16
+Karnataka,Mandya,Leprosy Cured,80+,1,0,0,1
+Karnataka,Mandya,Locomotor Disability,0-6,17,11,0,28
+Karnataka,Mandya,Locomotor Disability,Jun-15,232,127,0,359
+Karnataka,Mandya,Locomotor Disability,15-35,1249,667,1,1917
+Karnataka,Mandya,Locomotor Disability,35-60,5232,2303,2,7537
+Karnataka,Mandya,Locomotor Disability,60-80,2287,635,0,2922
+Karnataka,Mandya,Locomotor Disability,80+,193,31,0,224
+Karnataka,Mandya,Low Vision,0-6,1,0,0,1
+Karnataka,Mandya,Low Vision,Jun-15,42,20,0,62
+Karnataka,Mandya,Low Vision,15-35,178,93,0,271
+Karnataka,Mandya,Low Vision,35-60,315,190,0,505
+Karnataka,Mandya,Low Vision,60-80,112,43,0,155
+Karnataka,Mandya,Low Vision,80+,8,3,0,11
+Karnataka,Mandya,Mental Illness,0-6,1,3,0,4
+Karnataka,Mandya,Mental Illness,Jun-15,40,32,0,72
+Karnataka,Mandya,Mental Illness,15-35,179,126,0,305
+Karnataka,Mandya,Mental Illness,35-60,287,220,0,507
+Karnataka,Mandya,Mental Illness,60-80,48,21,0,69
+Karnataka,Mandya,Mental Illness,80+,0,1,0,1
+Karnataka,Mandya,Multiple Disabilities,0-6,2,0,0,2
+Karnataka,Mandya,Multiple Disabilities,Jun-15,11,7,0,18
+Karnataka,Mandya,Multiple Disabilities,15-35,61,29,0,90
+Karnataka,Mandya,Multiple Disabilities,35-60,111,71,0,182
+Karnataka,Mandya,Multiple Disabilities,60-80,36,8,0,44
+Karnataka,Mandya,Multiple Disabilities,80+,0,0,0,0
+Karnataka,Mandya,Multiple Sclerosis,0-6,1,0,0,1
+Karnataka,Mandya,Multiple Sclerosis,Jun-15,3,0,0,3
+Karnataka,Mandya,Multiple Sclerosis,15-35,3,1,0,4
+Karnataka,Mandya,Multiple Sclerosis,35-60,4,7,0,11
+Karnataka,Mandya,Multiple Sclerosis,60-80,0,0,0,0
+Karnataka,Mandya,Muscular Dystrophy,0-6,0,1,0,1
+Karnataka,Mandya,Muscular Dystrophy,Jun-15,22,1,0,23
+Karnataka,Mandya,Muscular Dystrophy,15-35,37,8,0,45
+Karnataka,Mandya,Muscular Dystrophy,35-60,27,18,0,45
+Karnataka,Mandya,Muscular Dystrophy,60-80,4,0,0,4
+Karnataka,Mandya,Muscular Dystrophy,80+,0,0,0,0
+Karnataka,Mandya,Parkinson'S Disease,15-35,1,0,0,1
+Karnataka,Mandya,Parkinson'S Disease,35-60,7,2,0,9
+Karnataka,Mandya,Parkinson'S Disease,60-80,5,3,0,8
+Karnataka,Mandya,Parkinson'S Disease,80+,0,0,0,0
+Karnataka,Mandya,Sickle Cell Disease,Jun-15,0,0,0,0
+Karnataka,Mandya,Sickle Cell Disease,15-35,0,0,0,0
+Karnataka,Mandya,Sickle Cell Disease,35-60,0,0,0,0
+Karnataka,Mandya,Sickle Cell Disease,60-80,1,0,0,1
+Karnataka,Mandya,Specific Learning Disabilities,Jun-15,0,0,0,0
+Karnataka,Mandya,Specific Learning Disabilities,15-35,2,0,0,2
+Karnataka,Mandya,Specific Learning Disabilities,35-60,1,0,0,1
+Karnataka,Mandya,Specific Learning Disabilities,60-80,1,0,0,1
+Karnataka,Mandya,Specific Learning Disabilities,80+,0,0,0,0
+Karnataka,Mandya,Speech And Language Disability,0-6,0,0,0,0
+Karnataka,Mandya,Speech And Language Disability,Jun-15,7,6,0,13
+Karnataka,Mandya,Speech And Language Disability,15-35,27,20,0,47
+Karnataka,Mandya,Speech And Language Disability,35-60,37,18,0,55
+Karnataka,Mandya,Speech And Language Disability,60-80,19,4,0,23
+Karnataka,Mandya,Speech And Language Disability,80+,0,0,0,0
+Karnataka,Mandya,Thalassemia,Jun-15,8,4,0,12
+Karnataka,Mandya,Thalassemia,15-35,6,2,0,8
+Karnataka,Mandya,Thalassemia,35-60,3,0,0,3
+Karnataka,Mandya,Thalassemia,60-80,0,0,0,0
+Karnataka,Mysuru,Acid Attack Victim,15-35,2,0,0,2
+Karnataka,Mysuru,Acid Attack Victim,35-60,1,4,0,5
+Karnataka,Mysuru,Acid Attack Victim,60-80,3,1,0,4
+Karnataka,Mysuru,Acid Attack Victim,80+,0,0,0,0
+Karnataka,Mysuru,Autism Spectrum Disorder,0-6,4,2,0,6
+Karnataka,Mysuru,Autism Spectrum Disorder,Jun-15,24,6,0,30
+Karnataka,Mysuru,Autism Spectrum Disorder,15-35,7,1,0,8
+Karnataka,Mysuru,Autism Spectrum Disorder,35-60,5,2,0,7
+Karnataka,Mysuru,Autism Spectrum Disorder,60-80,1,1,0,2
+Karnataka,Mysuru,Autism Spectrum Disorder,80+,0,0,0,0
+Karnataka,Mysuru,Blindness,0-6,2,3,0,5
+Karnataka,Mysuru,Blindness,Jun-15,81,53,0,134
+Karnataka,Mysuru,Blindness,15-35,514,401,0,915
+Karnataka,Mysuru,Blindness,35-60,1246,820,0,2066
+Karnataka,Mysuru,Blindness,60-80,491,199,0,690
+Karnataka,Mysuru,Blindness,80+,54,19,0,73
+Karnataka,Mysuru,Cerebral Palsy,0-6,14,10,0,24
+Karnataka,Mysuru,Cerebral Palsy,Jun-15,116,81,0,197
+Karnataka,Mysuru,Cerebral Palsy,15-35,268,153,0,421
+Karnataka,Mysuru,Cerebral Palsy,35-60,153,73,0,226
+Karnataka,Mysuru,Cerebral Palsy,60-80,17,7,0,24
+Karnataka,Mysuru,Cerebral Palsy,80+,2,0,0,2
+Karnataka,Mysuru,Chronic Neurological Conditions,0-6,2,1,0,3
+Karnataka,Mysuru,Chronic Neurological Conditions,Jun-15,9,10,0,19
+Karnataka,Mysuru,Chronic Neurological Conditions,15-35,60,37,0,97
+Karnataka,Mysuru,Chronic Neurological Conditions,35-60,297,117,0,414
+Karnataka,Mysuru,Chronic Neurological Conditions,60-80,97,14,0,111
+Karnataka,Mysuru,Chronic Neurological Conditions,80+,7,3,0,10
+Karnataka,Mysuru,Dwarfism,0-6,1,1,0,2
+Karnataka,Mysuru,Dwarfism,Jun-15,10,5,0,15
+Karnataka,Mysuru,Dwarfism,15-35,21,40,0,61
+Karnataka,Mysuru,Dwarfism,35-60,27,47,0,74
+Karnataka,Mysuru,Dwarfism,60-80,3,4,0,7
+Karnataka,Mysuru,Dwarfism,80+,0,0,0,0
+Karnataka,Mysuru,Hearing Impairment,0-6,62,45,0,107
+Karnataka,Mysuru,Hearing Impairment,Jun-15,273,198,0,471
+Karnataka,Mysuru,Hearing Impairment,15-35,951,702,0,1653
+Karnataka,Mysuru,Hearing Impairment,35-60,1202,1087,0,2289
+Karnataka,Mysuru,Hearing Impairment,60-80,342,138,0,480
+Karnataka,Mysuru,Hearing Impairment,80+,32,5,0,37
+Karnataka,Mysuru,Hemophilia,0-6,2,0,0,2
+Karnataka,Mysuru,Hemophilia,Jun-15,10,0,0,10
+Karnataka,Mysuru,Hemophilia,15-35,26,8,0,34
+Karnataka,Mysuru,Hemophilia,35-60,28,8,0,36
+Karnataka,Mysuru,Hemophilia,60-80,6,1,0,7
+Karnataka,Mysuru,Hemophilia,80+,0,0,0,0
+Karnataka,Mysuru,Intellectual Disability,0-6,29,20,0,49
+Karnataka,Mysuru,Intellectual Disability,Jun-15,657,395,0,1052
+Karnataka,Mysuru,Intellectual Disability,15-35,1343,925,0,2268
+Karnataka,Mysuru,Intellectual Disability,35-60,436,401,0,837
+Karnataka,Mysuru,Intellectual Disability,60-80,25,26,0,51
+Karnataka,Mysuru,Intellectual Disability,80+,0,0,0,0
+Karnataka,Mysuru,Leprosy Cured,Jun-15,0,0,0,0
+Karnataka,Mysuru,Leprosy Cured,15-35,3,0,0,3
+Karnataka,Mysuru,Leprosy Cured,35-60,17,3,0,20
+Karnataka,Mysuru,Leprosy Cured,60-80,8,6,0,14
+Karnataka,Mysuru,Leprosy Cured,80+,3,4,0,7
+Karnataka,Mysuru,Locomotor Disability,0-6,33,37,0,70
+Karnataka,Mysuru,Locomotor Disability,Jun-15,427,272,0,699
+Karnataka,Mysuru,Locomotor Disability,15-35,2004,1113,0,3117
+Karnataka,Mysuru,Locomotor Disability,35-60,6885,3017,0,9902
+Karnataka,Mysuru,Locomotor Disability,60-80,2340,658,0,2998
+Karnataka,Mysuru,Locomotor Disability,80+,167,44,0,211
+Karnataka,Mysuru,Low Vision,0-6,2,2,0,4
+Karnataka,Mysuru,Low Vision,Jun-15,40,24,0,64
+Karnataka,Mysuru,Low Vision,15-35,183,81,0,264
+Karnataka,Mysuru,Low Vision,35-60,269,185,0,454
+Karnataka,Mysuru,Low Vision,60-80,106,26,0,132
+Karnataka,Mysuru,Low Vision,80+,11,2,0,13
+Karnataka,Mysuru,Mental Illness,0-6,7,1,0,8
+Karnataka,Mysuru,Mental Illness,Jun-15,84,54,0,138
+Karnataka,Mysuru,Mental Illness,15-35,310,272,1,583
+Karnataka,Mysuru,Mental Illness,35-60,411,357,0,768
+Karnataka,Mysuru,Mental Illness,60-80,43,45,0,88
+Karnataka,Mysuru,Mental Illness,80+,0,1,0,1
+Karnataka,Mysuru,Multiple Disabilities,0-6,4,4,0,8
+Karnataka,Mysuru,Multiple Disabilities,Jun-15,45,27,0,72
+Karnataka,Mysuru,Multiple Disabilities,15-35,127,90,0,217
+Karnataka,Mysuru,Multiple Disabilities,35-60,139,75,0,214
+Karnataka,Mysuru,Multiple Disabilities,60-80,42,7,0,49
+Karnataka,Mysuru,Multiple Disabilities,80+,1,1,0,2
+Karnataka,Mysuru,Multiple Sclerosis,0-6,2,1,0,3
+Karnataka,Mysuru,Multiple Sclerosis,Jun-15,1,4,0,5
+Karnataka,Mysuru,Multiple Sclerosis,15-35,4,4,0,8
+Karnataka,Mysuru,Multiple Sclerosis,35-60,8,2,0,10
+Karnataka,Mysuru,Multiple Sclerosis,60-80,1,1,0,2
+Karnataka,Mysuru,Multiple Sclerosis,80+,0,0,0,0
+Karnataka,Mysuru,Muscular Dystrophy,Jun-15,21,7,0,28
+Karnataka,Mysuru,Muscular Dystrophy,15-35,34,10,0,44
+Karnataka,Mysuru,Muscular Dystrophy,35-60,41,18,0,59
+Karnataka,Mysuru,Muscular Dystrophy,60-80,17,2,0,19
+Karnataka,Mysuru,Muscular Dystrophy,80+,0,1,0,1
+Karnataka,Mysuru,Parkinson'S Disease,0-6,0,1,0,1
+Karnataka,Mysuru,Parkinson'S Disease,Jun-15,0,0,0,0
+Karnataka,Mysuru,Parkinson'S Disease,15-35,2,0,0,2
+Karnataka,Mysuru,Parkinson'S Disease,35-60,10,6,0,16
+Karnataka,Mysuru,Parkinson'S Disease,60-80,9,1,0,10
+Karnataka,Mysuru,Parkinson'S Disease,80+,0,0,0,0
+Karnataka,Mysuru,Sickle Cell Disease,Jun-15,0,0,0,0
+Karnataka,Mysuru,Sickle Cell Disease,15-35,4,2,0,6
+Karnataka,Mysuru,Sickle Cell Disease,35-60,0,1,0,1
+Karnataka,Mysuru,Sickle Cell Disease,60-80,1,0,0,1
+Karnataka,Mysuru,Sickle Cell Disease,80+,0,0,0,0
+Karnataka,Mysuru,Specific Learning Disabilities,Jun-15,5,0,0,5
+Karnataka,Mysuru,Specific Learning Disabilities,15-35,13,4,0,17
+Karnataka,Mysuru,Specific Learning Disabilities,35-60,0,2,0,2
+Karnataka,Mysuru,Specific Learning Disabilities,60-80,0,1,0,1
+Karnataka,Mysuru,Specific Learning Disabilities,80+,0,0,0,0
+Karnataka,Mysuru,Speech And Language Disability,0-6,0,2,0,2
+Karnataka,Mysuru,Speech And Language Disability,Jun-15,32,12,0,44
+Karnataka,Mysuru,Speech And Language Disability,15-35,73,31,0,104
+Karnataka,Mysuru,Speech And Language Disability,35-60,81,33,0,114
+Karnataka,Mysuru,Speech And Language Disability,60-80,28,3,0,31
+Karnataka,Mysuru,Speech And Language Disability,80+,1,0,0,1
+Karnataka,Mysuru,Thalassemia,0-6,3,5,0,8
+Karnataka,Mysuru,Thalassemia,Jun-15,24,5,0,29
+Karnataka,Mysuru,Thalassemia,15-35,14,20,0,34
+Karnataka,Mysuru,Thalassemia,35-60,4,0,0,4
+Karnataka,Mysuru,Thalassemia,60-80,1,0,0,1
+Karnataka,Mysuru,Thalassemia,80+,1,0,0,1
+Karnataka,Raichur,Acid Attack Victim,15-35,0,0,0,0
+Karnataka,Raichur,Acid Attack Victim,35-60,1,0,0,1
+Karnataka,Raichur,Autism Spectrum Disorder,0-6,3,0,0,3
+Karnataka,Raichur,Autism Spectrum Disorder,Jun-15,2,0,0,2
+Karnataka,Raichur,Autism Spectrum Disorder,15-35,1,0,0,1
+Karnataka,Raichur,Autism Spectrum Disorder,35-60,0,0,0,0
+Karnataka,Raichur,Blindness,0-6,5,6,0,11
+Karnataka,Raichur,Blindness,Jun-15,74,73,0,147
+Karnataka,Raichur,Blindness,15-35,391,277,0,668
+Karnataka,Raichur,Blindness,35-60,433,227,0,660
+Karnataka,Raichur,Blindness,60-80,135,53,0,188
+Karnataka,Raichur,Blindness,80+,17,8,0,25
+Karnataka,Raichur,Cerebral Palsy,0-6,18,14,0,32
+Karnataka,Raichur,Cerebral Palsy,Jun-15,204,132,0,336
+Karnataka,Raichur,Cerebral Palsy,15-35,193,107,0,300
+Karnataka,Raichur,Cerebral Palsy,35-60,44,21,0,65
+Karnataka,Raichur,Cerebral Palsy,60-80,7,0,0,7
+Karnataka,Raichur,Cerebral Palsy,80+,1,0,0,1
+Karnataka,Raichur,Chronic Neurological Conditions,Jun-15,2,3,0,5
+Karnataka,Raichur,Chronic Neurological Conditions,15-35,3,5,0,8
+Karnataka,Raichur,Chronic Neurological Conditions,35-60,8,3,0,11
+Karnataka,Raichur,Chronic Neurological Conditions,60-80,2,0,0,2
+Karnataka,Raichur,Dwarfism,0-6,0,1,0,1
+Karnataka,Raichur,Dwarfism,Jun-15,15,16,0,31
+Karnataka,Raichur,Dwarfism,15-35,41,76,0,117
+Karnataka,Raichur,Dwarfism,35-60,28,35,0,63
+Karnataka,Raichur,Dwarfism,60-80,0,3,0,3
+Karnataka,Raichur,Hearing Impairment,0-6,31,20,0,51
+Karnataka,Raichur,Hearing Impairment,Jun-15,97,83,0,180
+Karnataka,Raichur,Hearing Impairment,15-35,388,340,0,728
+Karnataka,Raichur,Hearing Impairment,35-60,796,827,0,1623
+Karnataka,Raichur,Hearing Impairment,60-80,276,152,0,428
+Karnataka,Raichur,Hearing Impairment,80+,18,12,0,30
+Karnataka,Raichur,Hemophilia,0-6,4,0,0,4
+Karnataka,Raichur,Hemophilia,Jun-15,10,1,0,11
+Karnataka,Raichur,Hemophilia,15-35,19,2,0,21
+Karnataka,Raichur,Hemophilia,35-60,6,0,0,6
+Karnataka,Raichur,Hemophilia,60-80,0,0,0,0
+Karnataka,Raichur,Intellectual Disability,0-6,146,120,0,266
+Karnataka,Raichur,Intellectual Disability,Jun-15,938,677,1,1616
+Karnataka,Raichur,Intellectual Disability,15-35,1212,927,0,2139
+Karnataka,Raichur,Intellectual Disability,35-60,205,190,0,395
+Karnataka,Raichur,Intellectual Disability,60-80,11,8,0,19
+Karnataka,Raichur,Leprosy Cured,Jun-15,1,1,0,2
+Karnataka,Raichur,Leprosy Cured,15-35,16,4,0,20
+Karnataka,Raichur,Leprosy Cured,35-60,72,30,0,102
+Karnataka,Raichur,Leprosy Cured,60-80,27,15,0,42
+Karnataka,Raichur,Leprosy Cured,80+,2,0,0,2
+Karnataka,Raichur,Locomotor Disability,0-6,42,33,0,75
+Karnataka,Raichur,Locomotor Disability,Jun-15,457,296,0,753
+Karnataka,Raichur,Locomotor Disability,15-35,2609,1574,1,4184
+Karnataka,Raichur,Locomotor Disability,35-60,5781,2278,1,8060
+Karnataka,Raichur,Locomotor Disability,60-80,1274,328,0,1602
+Karnataka,Raichur,Locomotor Disability,80+,51,16,0,67
+Karnataka,Raichur,Low Vision,0-6,2,2,0,4
+Karnataka,Raichur,Low Vision,Jun-15,69,70,0,139
+Karnataka,Raichur,Low Vision,15-35,313,152,1,466
+Karnataka,Raichur,Low Vision,35-60,284,146,0,430
+Karnataka,Raichur,Low Vision,60-80,49,23,0,72
+Karnataka,Raichur,Low Vision,80+,2,5,0,7
+Karnataka,Raichur,Mental Illness,0-6,5,1,0,6
+Karnataka,Raichur,Mental Illness,Jun-15,45,30,0,75
+Karnataka,Raichur,Mental Illness,15-35,132,124,0,256
+Karnataka,Raichur,Mental Illness,35-60,130,101,0,231
+Karnataka,Raichur,Mental Illness,60-80,13,9,0,22
+Karnataka,Raichur,Multiple Disabilities,0-6,21,25,0,46
+Karnataka,Raichur,Multiple Disabilities,Jun-15,250,218,0,468
+Karnataka,Raichur,Multiple Disabilities,15-35,542,369,0,911
+Karnataka,Raichur,Multiple Disabilities,35-60,334,223,0,557
+Karnataka,Raichur,Multiple Disabilities,60-80,82,33,0,115
+Karnataka,Raichur,Multiple Disabilities,80+,8,1,0,9
+Karnataka,Raichur,Multiple Sclerosis,15-35,0,1,0,1
+Karnataka,Raichur,Multiple Sclerosis,35-60,0,1,0,1
+Karnataka,Raichur,Multiple Sclerosis,60-80,1,0,0,1
+Karnataka,Raichur,Muscular Dystrophy,0-6,0,1,0,1
+Karnataka,Raichur,Muscular Dystrophy,Jun-15,36,6,0,42
+Karnataka,Raichur,Muscular Dystrophy,15-35,46,16,0,62
+Karnataka,Raichur,Muscular Dystrophy,35-60,16,6,0,22
+Karnataka,Raichur,Muscular Dystrophy,60-80,0,1,0,1
+Karnataka,Raichur,Parkinson'S Disease,15-35,2,2,0,4
+Karnataka,Raichur,Parkinson'S Disease,35-60,9,4,0,13
+Karnataka,Raichur,Parkinson'S Disease,60-80,12,2,0,14
+Karnataka,Raichur,Parkinson'S Disease,80+,1,0,0,1
+Karnataka,Raichur,Sickle Cell Disease,15-35,0,1,0,1
+Karnataka,Raichur,Sickle Cell Disease,35-60,1,1,0,2
+Karnataka,Raichur,Specific Learning Disabilities,0-6,0,1,0,1
+Karnataka,Raichur,Specific Learning Disabilities,Jun-15,2,0,0,2
+Karnataka,Raichur,Specific Learning Disabilities,15-35,9,1,0,10
+Karnataka,Raichur,Specific Learning Disabilities,35-60,0,0,0,0
+Karnataka,Raichur,Speech And Language Disability,0-6,1,1,0,2
+Karnataka,Raichur,Speech And Language Disability,Jun-15,52,22,0,74
+Karnataka,Raichur,Speech And Language Disability,15-35,72,41,0,113
+Karnataka,Raichur,Speech And Language Disability,35-60,62,24,0,86
+Karnataka,Raichur,Speech And Language Disability,60-80,10,1,0,11
+Karnataka,Raichur,Thalassemia,0-6,10,5,0,15
+Karnataka,Raichur,Thalassemia,Jun-15,24,17,0,41
+Karnataka,Raichur,Thalassemia,15-35,4,4,0,8
+Karnataka,Raichur,Thalassemia,35-60,0,0,0,0
+Karnataka,Ramanagara,Acid Attack Victim,Jun-15,0,0,0,0
+Karnataka,Ramanagara,Acid Attack Victim,15-35,0,1,0,1
+Karnataka,Ramanagara,Acid Attack Victim,35-60,3,4,0,7
+Karnataka,Ramanagara,Acid Attack Victim,60-80,3,2,0,5
+Karnataka,Ramanagara,Autism Spectrum Disorder,0-6,2,1,0,3
+Karnataka,Ramanagara,Autism Spectrum Disorder,Jun-15,2,0,0,2
+Karnataka,Ramanagara,Autism Spectrum Disorder,15-35,1,1,0,2
+Karnataka,Ramanagara,Autism Spectrum Disorder,35-60,2,2,0,4
+Karnataka,Ramanagara,Autism Spectrum Disorder,60-80,1,2,0,3
+Karnataka,Ramanagara,Blindness,0-6,1,1,0,2
+Karnataka,Ramanagara,Blindness,Jun-15,32,24,0,56
+Karnataka,Ramanagara,Blindness,15-35,208,150,0,358
+Karnataka,Ramanagara,Blindness,35-60,539,282,0,821
+Karnataka,Ramanagara,Blindness,60-80,234,82,1,317
+Karnataka,Ramanagara,Blindness,80+,37,12,0,49
+Karnataka,Ramanagara,Cerebral Palsy,0-6,6,6,0,12
+Karnataka,Ramanagara,Cerebral Palsy,Jun-15,30,11,0,41
+Karnataka,Ramanagara,Cerebral Palsy,15-35,56,39,0,95
+Karnataka,Ramanagara,Cerebral Palsy,35-60,41,15,0,56
+Karnataka,Ramanagara,Cerebral Palsy,60-80,8,3,0,11
+Karnataka,Ramanagara,Cerebral Palsy,80+,1,0,0,1
+Karnataka,Ramanagara,Chronic Neurological Conditions,Jun-15,1,1,0,2
+Karnataka,Ramanagara,Chronic Neurological Conditions,15-35,5,4,0,9
+Karnataka,Ramanagara,Chronic Neurological Conditions,35-60,26,3,0,29
+Karnataka,Ramanagara,Chronic Neurological Conditions,60-80,14,2,0,16
+Karnataka,Ramanagara,Dwarfism,Jun-15,1,0,0,1
+Karnataka,Ramanagara,Dwarfism,15-35,3,15,0,18
+Karnataka,Ramanagara,Dwarfism,35-60,10,11,0,21
+Karnataka,Ramanagara,Dwarfism,60-80,2,1,0,3
+Karnataka,Ramanagara,Hearing Impairment,0-6,8,10,0,18
+Karnataka,Ramanagara,Hearing Impairment,Jun-15,103,85,0,188
+Karnataka,Ramanagara,Hearing Impairment,15-35,303,236,0,539
+Karnataka,Ramanagara,Hearing Impairment,35-60,485,357,0,842
+Karnataka,Ramanagara,Hearing Impairment,60-80,231,84,0,315
+Karnataka,Ramanagara,Hearing Impairment,80+,24,7,0,31
+Karnataka,Ramanagara,Hemophilia,Jun-15,2,1,0,3
+Karnataka,Ramanagara,Hemophilia,15-35,7,0,0,7
+Karnataka,Ramanagara,Hemophilia,35-60,14,5,0,19
+Karnataka,Ramanagara,Hemophilia,60-80,13,0,0,13
+Karnataka,Ramanagara,Hemophilia,80+,1,0,0,1
+Karnataka,Ramanagara,Intellectual Disability,0-6,11,9,0,20
+Karnataka,Ramanagara,Intellectual Disability,Jun-15,268,175,0,443
+Karnataka,Ramanagara,Intellectual Disability,15-35,758,524,0,1282
+Karnataka,Ramanagara,Intellectual Disability,35-60,398,390,0,788
+Karnataka,Ramanagara,Intellectual Disability,60-80,26,16,0,42
+Karnataka,Ramanagara,Intellectual Disability,80+,2,0,0,2
+Karnataka,Ramanagara,Leprosy Cured,15-35,1,0,0,1
+Karnataka,Ramanagara,Leprosy Cured,35-60,6,6,0,12
+Karnataka,Ramanagara,Leprosy Cured,60-80,3,2,0,5
+Karnataka,Ramanagara,Leprosy Cured,80+,0,0,0,0
+Karnataka,Ramanagara,Locomotor Disability,0-6,8,3,0,11
+Karnataka,Ramanagara,Locomotor Disability,Jun-15,143,102,0,245
+Karnataka,Ramanagara,Locomotor Disability,15-35,903,502,0,1405
+Karnataka,Ramanagara,Locomotor Disability,35-60,3273,1331,0,4604
+Karnataka,Ramanagara,Locomotor Disability,60-80,1335,377,0,1712
+Karnataka,Ramanagara,Locomotor Disability,80+,116,24,0,140
+Karnataka,Ramanagara,Low Vision,0-6,0,0,0,0
+Karnataka,Ramanagara,Low Vision,Jun-15,14,14,0,28
+Karnataka,Ramanagara,Low Vision,15-35,67,35,0,102
+Karnataka,Ramanagara,Low Vision,35-60,96,50,0,146
+Karnataka,Ramanagara,Low Vision,60-80,19,6,0,25
+Karnataka,Ramanagara,Low Vision,80+,3,2,0,5
+Karnataka,Ramanagara,Mental Illness,0-6,1,1,0,2
+Karnataka,Ramanagara,Mental Illness,Jun-15,17,3,0,20
+Karnataka,Ramanagara,Mental Illness,15-35,50,32,0,82
+Karnataka,Ramanagara,Mental Illness,35-60,89,63,0,152
+Karnataka,Ramanagara,Mental Illness,60-80,16,10,0,26
+Karnataka,Ramanagara,Mental Illness,80+,0,0,0,0
+Karnataka,Ramanagara,Multiple Disabilities,0-6,4,0,0,4
+Karnataka,Ramanagara,Multiple Disabilities,Jun-15,23,15,0,38
+Karnataka,Ramanagara,Multiple Disabilities,15-35,48,42,0,90
+Karnataka,Ramanagara,Multiple Disabilities,35-60,65,27,0,92
+Karnataka,Ramanagara,Multiple Disabilities,60-80,30,6,0,36
+Karnataka,Ramanagara,Multiple Disabilities,80+,2,1,0,3
+Karnataka,Ramanagara,Multiple Sclerosis,0-6,1,0,0,1
+Karnataka,Ramanagara,Multiple Sclerosis,Jun-15,1,0,0,1
+Karnataka,Ramanagara,Multiple Sclerosis,15-35,2,4,0,6
+Karnataka,Ramanagara,Multiple Sclerosis,35-60,12,2,0,14
+Karnataka,Ramanagara,Multiple Sclerosis,60-80,7,1,0,8
+Karnataka,Ramanagara,Multiple Sclerosis,80+,0,0,0,0
+Karnataka,Ramanagara,Muscular Dystrophy,Jun-15,9,2,0,11
+Karnataka,Ramanagara,Muscular Dystrophy,15-35,21,3,0,24
+Karnataka,Ramanagara,Muscular Dystrophy,35-60,30,9,0,39
+Karnataka,Ramanagara,Muscular Dystrophy,60-80,6,6,0,12
+Karnataka,Ramanagara,Muscular Dystrophy,80+,0,0,0,0
+Karnataka,Ramanagara,Parkinson'S Disease,15-35,0,0,0,0
+Karnataka,Ramanagara,Parkinson'S Disease,35-60,9,4,0,13
+Karnataka,Ramanagara,Parkinson'S Disease,60-80,4,0,0,4
+Karnataka,Ramanagara,Sickle Cell Disease,Jun-15,1,0,0,1
+Karnataka,Ramanagara,Sickle Cell Disease,15-35,0,0,0,0
+Karnataka,Ramanagara,Sickle Cell Disease,35-60,0,1,0,1
+Karnataka,Ramanagara,Specific Learning Disabilities,Jun-15,0,0,0,0
+Karnataka,Ramanagara,Specific Learning Disabilities,15-35,1,1,0,2
+Karnataka,Ramanagara,Specific Learning Disabilities,60-80,1,0,0,1
+Karnataka,Ramanagara,Speech And Language Disability,0-6,1,0,0,1
+Karnataka,Ramanagara,Speech And Language Disability,Jun-15,5,3,0,8
+Karnataka,Ramanagara,Speech And Language Disability,15-35,25,16,0,41
+Karnataka,Ramanagara,Speech And Language Disability,35-60,19,25,0,44
+Karnataka,Ramanagara,Speech And Language Disability,60-80,9,2,0,11
+Karnataka,Ramanagara,Speech And Language Disability,80+,1,0,0,1
+Karnataka,Ramanagara,Thalassemia,0-6,0,1,0,1
+Karnataka,Ramanagara,Thalassemia,Jun-15,5,2,0,7
+Karnataka,Ramanagara,Thalassemia,15-35,5,9,0,14
+Karnataka,Ramanagara,Thalassemia,35-60,1,1,0,2
+Karnataka,Ramanagara,Thalassemia,60-80,2,0,0,2
+Karnataka,Shivamogga,Acid Attack Victim,Jun-15,1,0,0,1
+Karnataka,Shivamogga,Acid Attack Victim,15-35,1,0,0,1
+Karnataka,Shivamogga,Acid Attack Victim,35-60,2,6,0,8
+Karnataka,Shivamogga,Acid Attack Victim,60-80,1,0,0,1
+Karnataka,Shivamogga,Acid Attack Victim,80+,1,0,0,1
+Karnataka,Shivamogga,Autism Spectrum Disorder,0-6,0,0,0,0
+Karnataka,Shivamogga,Autism Spectrum Disorder,Jun-15,6,0,0,6
+Karnataka,Shivamogga,Autism Spectrum Disorder,15-35,4,1,0,5
+Karnataka,Shivamogga,Autism Spectrum Disorder,35-60,6,2,0,8
+Karnataka,Shivamogga,Autism Spectrum Disorder,60-80,4,0,0,4
+Karnataka,Shivamogga,Blindness,0-6,0,1,0,1
+Karnataka,Shivamogga,Blindness,Jun-15,55,30,0,85
+Karnataka,Shivamogga,Blindness,15-35,242,190,0,432
+Karnataka,Shivamogga,Blindness,35-60,479,348,0,827
+Karnataka,Shivamogga,Blindness,60-80,175,97,0,272
+Karnataka,Shivamogga,Blindness,80+,10,6,0,16
+Karnataka,Shivamogga,Cerebral Palsy,0-6,15,8,0,23
+Karnataka,Shivamogga,Cerebral Palsy,Jun-15,61,40,0,101
+Karnataka,Shivamogga,Cerebral Palsy,15-35,89,43,0,132
+Karnataka,Shivamogga,Cerebral Palsy,35-60,58,15,0,73
+Karnataka,Shivamogga,Cerebral Palsy,60-80,16,1,0,17
+Karnataka,Shivamogga,Cerebral Palsy,80+,0,0,0,0
+Karnataka,Shivamogga,Chronic Neurological Conditions,0-6,6,4,0,10
+Karnataka,Shivamogga,Chronic Neurological Conditions,Jun-15,65,41,0,106
+Karnataka,Shivamogga,Chronic Neurological Conditions,15-35,197,105,0,302
+Karnataka,Shivamogga,Chronic Neurological Conditions,35-60,599,263,0,862
+Karnataka,Shivamogga,Chronic Neurological Conditions,60-80,263,65,0,328
+Karnataka,Shivamogga,Chronic Neurological Conditions,80+,6,4,0,10
+Karnataka,Shivamogga,Dwarfism,Jun-15,0,1,0,1
+Karnataka,Shivamogga,Dwarfism,15-35,6,9,0,15
+Karnataka,Shivamogga,Dwarfism,35-60,12,14,0,26
+Karnataka,Shivamogga,Dwarfism,60-80,3,7,0,10
+Karnataka,Shivamogga,Dwarfism,80+,0,0,0,0
+Karnataka,Shivamogga,Hearing Impairment,0-6,14,14,0,28
+Karnataka,Shivamogga,Hearing Impairment,Jun-15,124,106,0,230
+Karnataka,Shivamogga,Hearing Impairment,15-35,271,236,0,507
+Karnataka,Shivamogga,Hearing Impairment,35-60,416,307,0,723
+Karnataka,Shivamogga,Hearing Impairment,60-80,228,125,0,353
+Karnataka,Shivamogga,Hearing Impairment,80+,35,10,0,45
+Karnataka,Shivamogga,Hemophilia,0-6,1,0,0,1
+Karnataka,Shivamogga,Hemophilia,Jun-15,6,1,0,7
+Karnataka,Shivamogga,Hemophilia,15-35,7,4,0,11
+Karnataka,Shivamogga,Hemophilia,35-60,11,1,0,12
+Karnataka,Shivamogga,Hemophilia,60-80,4,1,0,5
+Karnataka,Shivamogga,Intellectual Disability,0-6,26,6,0,32
+Karnataka,Shivamogga,Intellectual Disability,Jun-15,413,297,0,710
+Karnataka,Shivamogga,Intellectual Disability,15-35,764,532,0,1296
+Karnataka,Shivamogga,Intellectual Disability,35-60,281,278,0,559
+Karnataka,Shivamogga,Intellectual Disability,60-80,25,20,0,45
+Karnataka,Shivamogga,Intellectual Disability,80+,1,0,0,1
+Karnataka,Shivamogga,Leprosy Cured,15-35,1,0,0,1
+Karnataka,Shivamogga,Leprosy Cured,35-60,5,1,0,6
+Karnataka,Shivamogga,Leprosy Cured,60-80,1,0,0,1
+Karnataka,Shivamogga,Locomotor Disability,0-6,14,9,0,23
+Karnataka,Shivamogga,Locomotor Disability,Jun-15,204,127,0,331
+Karnataka,Shivamogga,Locomotor Disability,15-35,1139,661,0,1800
+Karnataka,Shivamogga,Locomotor Disability,35-60,3552,1980,1,5533
+Karnataka,Shivamogga,Locomotor Disability,60-80,1338,506,1,1845
+Karnataka,Shivamogga,Locomotor Disability,80+,67,27,0,94
+Karnataka,Shivamogga,Low Vision,0-6,1,1,0,2
+Karnataka,Shivamogga,Low Vision,Jun-15,29,27,0,56
+Karnataka,Shivamogga,Low Vision,15-35,108,67,0,175
+Karnataka,Shivamogga,Low Vision,35-60,121,57,0,178
+Karnataka,Shivamogga,Low Vision,60-80,28,11,0,39
+Karnataka,Shivamogga,Low Vision,80+,2,1,0,3
+Karnataka,Shivamogga,Mental Illness,0-6,7,7,0,14
+Karnataka,Shivamogga,Mental Illness,Jun-15,106,82,0,188
+Karnataka,Shivamogga,Mental Illness,15-35,427,279,0,706
+Karnataka,Shivamogga,Mental Illness,35-60,254,285,1,540
+Karnataka,Shivamogga,Mental Illness,60-80,51,35,0,86
+Karnataka,Shivamogga,Mental Illness,80+,0,0,0,0
+Karnataka,Shivamogga,Multiple Disabilities,0-6,5,2,0,7
+Karnataka,Shivamogga,Multiple Disabilities,Jun-15,63,33,0,96
+Karnataka,Shivamogga,Multiple Disabilities,15-35,158,114,0,272
+Karnataka,Shivamogga,Multiple Disabilities,35-60,172,111,0,283
+Karnataka,Shivamogga,Multiple Disabilities,60-80,47,25,0,72
+Karnataka,Shivamogga,Multiple Disabilities,80+,4,2,0,6
+Karnataka,Shivamogga,Multiple Sclerosis,0-6,1,1,0,2
+Karnataka,Shivamogga,Multiple Sclerosis,Jun-15,0,0,0,0
+Karnataka,Shivamogga,Multiple Sclerosis,15-35,2,2,0,4
+Karnataka,Shivamogga,Multiple Sclerosis,35-60,8,4,0,12
+Karnataka,Shivamogga,Multiple Sclerosis,60-80,1,0,0,1
+Karnataka,Shivamogga,Muscular Dystrophy,0-6,0,1,0,1
+Karnataka,Shivamogga,Muscular Dystrophy,Jun-15,13,3,0,16
+Karnataka,Shivamogga,Muscular Dystrophy,15-35,32,9,0,41
+Karnataka,Shivamogga,Muscular Dystrophy,35-60,36,7,0,43
+Karnataka,Shivamogga,Muscular Dystrophy,60-80,9,3,0,12
+Karnataka,Shivamogga,Muscular Dystrophy,80+,1,0,0,1
+Karnataka,Shivamogga,Parkinson'S Disease,15-35,4,1,0,5
+Karnataka,Shivamogga,Parkinson'S Disease,35-60,22,14,0,36
+Karnataka,Shivamogga,Parkinson'S Disease,60-80,19,4,0,23
+Karnataka,Shivamogga,Parkinson'S Disease,80+,0,0,0,0
+Karnataka,Shivamogga,Sickle Cell Disease,Jun-15,0,1,0,1
+Karnataka,Shivamogga,Sickle Cell Disease,15-35,0,1,0,1
+Karnataka,Shivamogga,Sickle Cell Disease,35-60,0,0,0,0
+Karnataka,Shivamogga,Specific Learning Disabilities,Jun-15,0,0,0,0
+Karnataka,Shivamogga,Specific Learning Disabilities,15-35,2,0,0,2
+Karnataka,Shivamogga,Specific Learning Disabilities,35-60,2,3,0,5
+Karnataka,Shivamogga,Specific Learning Disabilities,60-80,0,0,0,0
+Karnataka,Shivamogga,Speech And Language Disability,0-6,0,0,0,0
+Karnataka,Shivamogga,Speech And Language Disability,Jun-15,7,2,0,9
+Karnataka,Shivamogga,Speech And Language Disability,15-35,26,18,0,44
+Karnataka,Shivamogga,Speech And Language Disability,35-60,33,23,0,56
+Karnataka,Shivamogga,Speech And Language Disability,60-80,8,2,0,10
+Karnataka,Shivamogga,Speech And Language Disability,80+,0,1,0,1
+Karnataka,Shivamogga,Thalassemia,0-6,1,1,0,2
+Karnataka,Shivamogga,Thalassemia,Jun-15,21,16,0,37
+Karnataka,Shivamogga,Thalassemia,15-35,10,8,0,18
+Karnataka,Shivamogga,Thalassemia,35-60,1,2,0,3
+Karnataka,Tumakuru,Acid Attack Victim,Jun-15,1,1,0,2
+Karnataka,Tumakuru,Acid Attack Victim,15-35,2,3,0,5
+Karnataka,Tumakuru,Acid Attack Victim,35-60,11,10,0,21
+Karnataka,Tumakuru,Acid Attack Victim,60-80,3,1,0,4
+Karnataka,Tumakuru,Autism Spectrum Disorder,0-6,1,0,0,1
+Karnataka,Tumakuru,Autism Spectrum Disorder,Jun-15,7,6,0,13
+Karnataka,Tumakuru,Autism Spectrum Disorder,15-35,4,0,0,4
+Karnataka,Tumakuru,Autism Spectrum Disorder,35-60,3,2,0,5
+Karnataka,Tumakuru,Autism Spectrum Disorder,60-80,2,0,0,2
+Karnataka,Tumakuru,Blindness,0-6,8,5,0,13
+Karnataka,Tumakuru,Blindness,Jun-15,102,69,0,171
+Karnataka,Tumakuru,Blindness,15-35,682,490,0,1172
+Karnataka,Tumakuru,Blindness,35-60,1397,950,1,2348
+Karnataka,Tumakuru,Blindness,60-80,500,231,0,731
+Karnataka,Tumakuru,Blindness,80+,37,19,0,56
+Karnataka,Tumakuru,Cerebral Palsy,0-6,17,15,0,32
+Karnataka,Tumakuru,Cerebral Palsy,Jun-15,149,109,0,258
+Karnataka,Tumakuru,Cerebral Palsy,15-35,171,98,0,269
+Karnataka,Tumakuru,Cerebral Palsy,35-60,73,29,0,102
+Karnataka,Tumakuru,Cerebral Palsy,60-80,14,5,0,19
+Karnataka,Tumakuru,Chronic Neurological Conditions,0-6,1,2,0,3
+Karnataka,Tumakuru,Chronic Neurological Conditions,Jun-15,11,7,0,18
+Karnataka,Tumakuru,Chronic Neurological Conditions,15-35,17,18,0,35
+Karnataka,Tumakuru,Chronic Neurological Conditions,35-60,74,32,0,106
+Karnataka,Tumakuru,Chronic Neurological Conditions,60-80,26,7,0,33
+Karnataka,Tumakuru,Chronic Neurological Conditions,80+,4,0,0,4
+Karnataka,Tumakuru,Dwarfism,0-6,0,0,0,0
+Karnataka,Tumakuru,Dwarfism,Jun-15,10,13,0,23
+Karnataka,Tumakuru,Dwarfism,15-35,26,60,0,86
+Karnataka,Tumakuru,Dwarfism,35-60,27,42,0,69
+Karnataka,Tumakuru,Dwarfism,60-80,6,4,0,10
+Karnataka,Tumakuru,Dwarfism,80+,1,1,0,2
+Karnataka,Tumakuru,Hearing Impairment,0-6,22,16,0,38
+Karnataka,Tumakuru,Hearing Impairment,Jun-15,203,182,0,385
+Karnataka,Tumakuru,Hearing Impairment,15-35,833,664,0,1497
+Karnataka,Tumakuru,Hearing Impairment,35-60,1546,1231,1,2778
+Karnataka,Tumakuru,Hearing Impairment,60-80,581,239,0,820
+Karnataka,Tumakuru,Hearing Impairment,80+,68,9,0,77
+Karnataka,Tumakuru,Hemophilia,0-6,0,1,0,1
+Karnataka,Tumakuru,Hemophilia,Jun-15,2,0,0,2
+Karnataka,Tumakuru,Hemophilia,15-35,8,0,0,8
+Karnataka,Tumakuru,Hemophilia,35-60,8,4,0,12
+Karnataka,Tumakuru,Hemophilia,60-80,8,0,0,8
+Karnataka,Tumakuru,Intellectual Disability,0-6,50,39,0,89
+Karnataka,Tumakuru,Intellectual Disability,Jun-15,539,381,0,920
+Karnataka,Tumakuru,Intellectual Disability,15-35,1352,892,2,2246
+Karnataka,Tumakuru,Intellectual Disability,35-60,681,527,0,1208
+Karnataka,Tumakuru,Intellectual Disability,60-80,55,36,0,91
+Karnataka,Tumakuru,Intellectual Disability,80+,2,2,0,4
+Karnataka,Tumakuru,Leprosy Cured,Jun-15,2,0,0,2
+Karnataka,Tumakuru,Leprosy Cured,15-35,2,1,0,3
+Karnataka,Tumakuru,Leprosy Cured,35-60,13,8,0,21
+Karnataka,Tumakuru,Leprosy Cured,60-80,7,2,0,9
+Karnataka,Tumakuru,Leprosy Cured,80+,3,1,0,4
+Karnataka,Tumakuru,Locomotor Disability,0-6,64,41,0,105
+Karnataka,Tumakuru,Locomotor Disability,Jun-15,594,357,1,952
+Karnataka,Tumakuru,Locomotor Disability,15-35,2849,1640,0,4489
+Karnataka,Tumakuru,Locomotor Disability,35-60,10083,4552,1,14636
+Karnataka,Tumakuru,Locomotor Disability,60-80,3354,1018,1,4373
+Karnataka,Tumakuru,Locomotor Disability,80+,193,66,0,259
+Karnataka,Tumakuru,Low Vision,0-6,1,1,0,2
+Karnataka,Tumakuru,Low Vision,Jun-15,54,43,0,97
+Karnataka,Tumakuru,Low Vision,15-35,279,182,0,461
+Karnataka,Tumakuru,Low Vision,35-60,463,265,0,728
+Karnataka,Tumakuru,Low Vision,60-80,128,50,0,178
+Karnataka,Tumakuru,Low Vision,80+,13,3,0,16
+Karnataka,Tumakuru,Mental Illness,0-6,20,19,0,39
+Karnataka,Tumakuru,Mental Illness,Jun-15,253,165,1,419
+Karnataka,Tumakuru,Mental Illness,15-35,898,653,0,1551
+Karnataka,Tumakuru,Mental Illness,35-60,973,880,0,1853
+Karnataka,Tumakuru,Mental Illness,60-80,118,87,0,205
+Karnataka,Tumakuru,Mental Illness,80+,2,2,0,4
+Karnataka,Tumakuru,Multiple Disabilities,0-6,11,3,0,14
+Karnataka,Tumakuru,Multiple Disabilities,Jun-15,98,57,0,155
+Karnataka,Tumakuru,Multiple Disabilities,15-35,259,157,0,416
+Karnataka,Tumakuru,Multiple Disabilities,35-60,344,185,0,529
+Karnataka,Tumakuru,Multiple Disabilities,60-80,90,35,0,125
+Karnataka,Tumakuru,Multiple Disabilities,80+,3,2,0,5
+Karnataka,Tumakuru,Multiple Sclerosis,0-6,2,4,0,6
+Karnataka,Tumakuru,Multiple Sclerosis,Jun-15,10,6,0,16
+Karnataka,Tumakuru,Multiple Sclerosis,15-35,24,11,0,35
+Karnataka,Tumakuru,Multiple Sclerosis,35-60,24,12,0,36
+Karnataka,Tumakuru,Multiple Sclerosis,60-80,5,2,0,7
+Karnataka,Tumakuru,Multiple Sclerosis,80+,0,1,0,1
+Karnataka,Tumakuru,Muscular Dystrophy,0-6,3,1,0,4
+Karnataka,Tumakuru,Muscular Dystrophy,Jun-15,14,3,0,17
+Karnataka,Tumakuru,Muscular Dystrophy,15-35,28,9,0,37
+Karnataka,Tumakuru,Muscular Dystrophy,35-60,58,20,0,78
+Karnataka,Tumakuru,Muscular Dystrophy,60-80,14,1,0,15
+Karnataka,Tumakuru,Muscular Dystrophy,80+,1,0,0,1
+Karnataka,Tumakuru,Parkinson'S Disease,Jun-15,0,1,0,1
+Karnataka,Tumakuru,Parkinson'S Disease,15-35,3,1,0,4
+Karnataka,Tumakuru,Parkinson'S Disease,35-60,16,10,0,26
+Karnataka,Tumakuru,Parkinson'S Disease,60-80,5,0,0,5
+Karnataka,Tumakuru,Parkinson'S Disease,80+,1,0,0,1
+Karnataka,Tumakuru,Sickle Cell Disease,15-35,1,2,1,4
+Karnataka,Tumakuru,Sickle Cell Disease,35-60,10,3,0,13
+Karnataka,Tumakuru,Sickle Cell Disease,60-80,2,0,0,2
+Karnataka,Tumakuru,Specific Learning Disabilities,0-6,1,0,0,1
+Karnataka,Tumakuru,Specific Learning Disabilities,Jun-15,1,2,0,3
+Karnataka,Tumakuru,Specific Learning Disabilities,15-35,6,5,0,11
+Karnataka,Tumakuru,Specific Learning Disabilities,35-60,3,3,0,6
+Karnataka,Tumakuru,Specific Learning Disabilities,60-80,1,0,0,1
+Karnataka,Tumakuru,Speech And Language Disability,0-6,6,1,0,7
+Karnataka,Tumakuru,Speech And Language Disability,Jun-15,39,31,0,70
+Karnataka,Tumakuru,Speech And Language Disability,15-35,73,72,0,145
+Karnataka,Tumakuru,Speech And Language Disability,35-60,93,55,0,148
+Karnataka,Tumakuru,Speech And Language Disability,60-80,23,7,0,30
+Karnataka,Tumakuru,Speech And Language Disability,80+,3,0,0,3
+Karnataka,Tumakuru,Thalassemia,0-6,6,3,0,9
+Karnataka,Tumakuru,Thalassemia,Jun-15,15,15,0,30
+Karnataka,Tumakuru,Thalassemia,15-35,12,7,0,19
+Karnataka,Tumakuru,Thalassemia,35-60,3,0,0,3
+Karnataka,Tumakuru,Thalassemia,60-80,0,0,0,0
+Karnataka,Udupi,Acid Attack Victim,15-35,0,0,0,0
+Karnataka,Udupi,Acid Attack Victim,35-60,0,1,0,1
+Karnataka,Udupi,Acid Attack Victim,60-80,0,0,0,0
+Karnataka,Udupi,Acid Attack Victim,80+,0,0,0,0
+Karnataka,Udupi,Autism Spectrum Disorder,0-6,1,1,0,2
+Karnataka,Udupi,Autism Spectrum Disorder,Jun-15,51,8,0,59
+Karnataka,Udupi,Autism Spectrum Disorder,15-35,16,4,0,20
+Karnataka,Udupi,Autism Spectrum Disorder,35-60,1,1,0,2
+Karnataka,Udupi,Blindness,0-6,1,0,0,1
+Karnataka,Udupi,Blindness,Jun-15,15,9,0,24
+Karnataka,Udupi,Blindness,15-35,81,57,0,138
+Karnataka,Udupi,Blindness,35-60,201,149,0,350
+Karnataka,Udupi,Blindness,60-80,169,88,0,257
+Karnataka,Udupi,Blindness,80+,13,8,0,21
+Karnataka,Udupi,Cerebral Palsy,0-6,8,8,0,16
+Karnataka,Udupi,Cerebral Palsy,Jun-15,38,31,0,69
+Karnataka,Udupi,Cerebral Palsy,15-35,103,62,0,165
+Karnataka,Udupi,Cerebral Palsy,35-60,67,51,0,118
+Karnataka,Udupi,Cerebral Palsy,60-80,16,7,0,23
+Karnataka,Udupi,Cerebral Palsy,80+,0,0,0,0
+Karnataka,Udupi,Chronic Neurological Conditions,0-6,0,1,0,1
+Karnataka,Udupi,Chronic Neurological Conditions,Jun-15,2,1,0,3
+Karnataka,Udupi,Chronic Neurological Conditions,15-35,6,4,0,10
+Karnataka,Udupi,Chronic Neurological Conditions,35-60,22,6,0,28
+Karnataka,Udupi,Chronic Neurological Conditions,60-80,6,0,0,6
+Karnataka,Udupi,Chronic Neurological Conditions,80+,0,0,0,0
+Karnataka,Udupi,Dwarfism,Jun-15,3,1,0,4
+Karnataka,Udupi,Dwarfism,15-35,5,16,0,21
+Karnataka,Udupi,Dwarfism,35-60,6,22,0,28
+Karnataka,Udupi,Dwarfism,60-80,1,1,0,2
+Karnataka,Udupi,Hearing Impairment,0-6,11,8,0,19
+Karnataka,Udupi,Hearing Impairment,Jun-15,66,76,0,142
+Karnataka,Udupi,Hearing Impairment,15-35,213,202,0,415
+Karnataka,Udupi,Hearing Impairment,35-60,518,542,1,1061
+Karnataka,Udupi,Hearing Impairment,60-80,213,150,0,363
+Karnataka,Udupi,Hearing Impairment,80+,23,24,0,47
+Karnataka,Udupi,Hemophilia,0-6,1,0,0,1
+Karnataka,Udupi,Hemophilia,Jun-15,5,0,0,5
+Karnataka,Udupi,Hemophilia,15-35,6,1,0,7
+Karnataka,Udupi,Hemophilia,35-60,3,0,0,3
+Karnataka,Udupi,Hemophilia,60-80,2,0,0,2
+Karnataka,Udupi,Intellectual Disability,0-6,6,0,0,6
+Karnataka,Udupi,Intellectual Disability,Jun-15,217,179,0,396
+Karnataka,Udupi,Intellectual Disability,15-35,832,582,0,1414
+Karnataka,Udupi,Intellectual Disability,35-60,646,584,1,1231
+Karnataka,Udupi,Intellectual Disability,60-80,65,57,0,122
+Karnataka,Udupi,Intellectual Disability,80+,0,1,0,1
+Karnataka,Udupi,Leprosy Cured,Jun-15,1,0,0,1
+Karnataka,Udupi,Leprosy Cured,15-35,1,0,0,1
+Karnataka,Udupi,Leprosy Cured,35-60,2,1,0,3
+Karnataka,Udupi,Leprosy Cured,60-80,4,4,0,8
+Karnataka,Udupi,Leprosy Cured,80+,0,0,0,0
+Karnataka,Udupi,Locomotor Disability,0-6,8,15,0,23
+Karnataka,Udupi,Locomotor Disability,Jun-15,117,95,1,213
+Karnataka,Udupi,Locomotor Disability,15-35,501,341,0,842
+Karnataka,Udupi,Locomotor Disability,35-60,2278,1306,0,3584
+Karnataka,Udupi,Locomotor Disability,60-80,1373,535,0,1908
+Karnataka,Udupi,Locomotor Disability,80+,78,46,0,124
+Karnataka,Udupi,Low Vision,0-6,1,2,0,3
+Karnataka,Udupi,Low Vision,Jun-15,20,13,0,33
+Karnataka,Udupi,Low Vision,15-35,109,58,0,167
+Karnataka,Udupi,Low Vision,35-60,142,112,0,254
+Karnataka,Udupi,Low Vision,60-80,96,66,0,162
+Karnataka,Udupi,Low Vision,80+,11,4,0,15
+Karnataka,Udupi,Mental Illness,0-6,0,0,0,0
+Karnataka,Udupi,Mental Illness,Jun-15,21,16,0,37
+Karnataka,Udupi,Mental Illness,15-35,177,116,0,293
+Karnataka,Udupi,Mental Illness,35-60,433,381,0,814
+Karnataka,Udupi,Mental Illness,60-80,84,71,0,155
+Karnataka,Udupi,Mental Illness,80+,2,1,0,3
+Karnataka,Udupi,Multiple Disabilities,0-6,1,0,0,1
+Karnataka,Udupi,Multiple Disabilities,Jun-15,29,25,0,54
+Karnataka,Udupi,Multiple Disabilities,15-35,93,75,0,168
+Karnataka,Udupi,Multiple Disabilities,35-60,127,79,0,206
+Karnataka,Udupi,Multiple Disabilities,60-80,42,28,0,70
+Karnataka,Udupi,Multiple Disabilities,80+,4,3,0,7
+Karnataka,Udupi,Multiple Sclerosis,15-35,1,0,0,1
+Karnataka,Udupi,Multiple Sclerosis,35-60,1,2,0,3
+Karnataka,Udupi,Multiple Sclerosis,60-80,2,0,0,2
+Karnataka,Udupi,Muscular Dystrophy,0-6,1,0,0,1
+Karnataka,Udupi,Muscular Dystrophy,Jun-15,5,1,0,6
+Karnataka,Udupi,Muscular Dystrophy,15-35,15,6,0,21
+Karnataka,Udupi,Muscular Dystrophy,35-60,35,8,0,43
+Karnataka,Udupi,Muscular Dystrophy,60-80,11,3,0,14
+Karnataka,Udupi,Muscular Dystrophy,80+,0,0,0,0
+Karnataka,Udupi,Parkinson'S Disease,35-60,5,2,0,7
+Karnataka,Udupi,Parkinson'S Disease,60-80,14,0,0,14
+Karnataka,Udupi,Sickle Cell Disease,15-35,0,0,0,0
+Karnataka,Udupi,Sickle Cell Disease,35-60,0,1,0,1
+Karnataka,Udupi,Specific Learning Disabilities,Jun-15,0,0,0,0
+Karnataka,Udupi,Specific Learning Disabilities,15-35,0,0,0,0
+Karnataka,Udupi,Specific Learning Disabilities,35-60,3,0,0,3
+Karnataka,Udupi,Speech And Language Disability,0-6,0,1,0,1
+Karnataka,Udupi,Speech And Language Disability,Jun-15,9,4,0,13
+Karnataka,Udupi,Speech And Language Disability,15-35,39,16,0,55
+Karnataka,Udupi,Speech And Language Disability,35-60,45,34,0,79
+Karnataka,Udupi,Speech And Language Disability,60-80,8,9,0,17
+Karnataka,Udupi,Thalassemia,0-6,0,1,0,1
+Karnataka,Udupi,Thalassemia,Jun-15,13,8,0,21
+Karnataka,Udupi,Thalassemia,15-35,8,4,0,12
+Karnataka,Uttara Kannada,Acid Attack Victim,15-35,0,0,0,0
+Karnataka,Uttara Kannada,Acid Attack Victim,35-60,0,3,0,3
+Karnataka,Uttara Kannada,Acid Attack Victim,60-80,1,0,0,1
+Karnataka,Uttara Kannada,Autism Spectrum Disorder,0-6,1,0,0,1
+Karnataka,Uttara Kannada,Autism Spectrum Disorder,Jun-15,30,5,0,35
+Karnataka,Uttara Kannada,Autism Spectrum Disorder,15-35,4,0,0,4
+Karnataka,Uttara Kannada,Autism Spectrum Disorder,35-60,0,1,0,1
+Karnataka,Uttara Kannada,Autism Spectrum Disorder,60-80,0,0,0,0
+Karnataka,Uttara Kannada,Autism Spectrum Disorder,80+,0,0,0,0
+Karnataka,Uttara Kannada,Blindness,0-6,2,0,0,2
+Karnataka,Uttara Kannada,Blindness,Jun-15,20,14,0,34
+Karnataka,Uttara Kannada,Blindness,15-35,101,85,0,186
+Karnataka,Uttara Kannada,Blindness,35-60,286,178,0,464
+Karnataka,Uttara Kannada,Blindness,60-80,212,123,0,335
+Karnataka,Uttara Kannada,Blindness,80+,18,17,0,35
+Karnataka,Uttara Kannada,Cerebral Palsy,0-6,13,7,0,20
+Karnataka,Uttara Kannada,Cerebral Palsy,Jun-15,64,38,0,102
+Karnataka,Uttara Kannada,Cerebral Palsy,15-35,98,60,0,158
+Karnataka,Uttara Kannada,Cerebral Palsy,35-60,65,31,0,96
+Karnataka,Uttara Kannada,Cerebral Palsy,60-80,6,1,0,7
+Karnataka,Uttara Kannada,Cerebral Palsy,80+,0,1,0,1
+Karnataka,Uttara Kannada,Chronic Neurological Conditions,0-6,1,1,0,2
+Karnataka,Uttara Kannada,Chronic Neurological Conditions,Jun-15,3,3,0,6
+Karnataka,Uttara Kannada,Chronic Neurological Conditions,15-35,31,16,0,47
+Karnataka,Uttara Kannada,Chronic Neurological Conditions,35-60,272,58,0,330
+Karnataka,Uttara Kannada,Chronic Neurological Conditions,60-80,130,23,0,153
+Karnataka,Uttara Kannada,Chronic Neurological Conditions,80+,6,1,0,7
+Karnataka,Uttara Kannada,Dwarfism,Jun-15,6,2,0,8
+Karnataka,Uttara Kannada,Dwarfism,15-35,13,24,0,37
+Karnataka,Uttara Kannada,Dwarfism,35-60,20,34,0,54
+Karnataka,Uttara Kannada,Dwarfism,60-80,2,4,0,6
+Karnataka,Uttara Kannada,Hearing Impairment,0-6,11,10,0,21
+Karnataka,Uttara Kannada,Hearing Impairment,Jun-15,96,91,0,187
+Karnataka,Uttara Kannada,Hearing Impairment,15-35,326,244,0,570
+Karnataka,Uttara Kannada,Hearing Impairment,35-60,513,438,0,951
+Karnataka,Uttara Kannada,Hearing Impairment,60-80,223,128,0,351
+Karnataka,Uttara Kannada,Hearing Impairment,80+,17,9,0,26
+Karnataka,Uttara Kannada,Hemophilia,Jun-15,5,1,0,6
+Karnataka,Uttara Kannada,Hemophilia,15-35,6,1,0,7
+Karnataka,Uttara Kannada,Hemophilia,35-60,5,1,0,6
+Karnataka,Uttara Kannada,Hemophilia,60-80,0,0,0,0
+Karnataka,Uttara Kannada,Hemophilia,80+,0,0,0,0
+Karnataka,Uttara Kannada,Intellectual Disability,0-6,28,21,0,49
+Karnataka,Uttara Kannada,Intellectual Disability,Jun-15,424,287,0,711
+Karnataka,Uttara Kannada,Intellectual Disability,15-35,1116,738,0,1854
+Karnataka,Uttara Kannada,Intellectual Disability,35-60,565,496,0,1061
+Karnataka,Uttara Kannada,Intellectual Disability,60-80,59,43,0,102
+Karnataka,Uttara Kannada,Intellectual Disability,80+,1,0,0,1
+Karnataka,Uttara Kannada,Leprosy Cured,15-35,1,3,0,4
+Karnataka,Uttara Kannada,Leprosy Cured,35-60,2,2,0,4
+Karnataka,Uttara Kannada,Leprosy Cured,60-80,2,3,0,5
+Karnataka,Uttara Kannada,Leprosy Cured,80+,0,0,0,0
+Karnataka,Uttara Kannada,Locomotor Disability,0-6,16,18,0,34
+Karnataka,Uttara Kannada,Locomotor Disability,Jun-15,188,133,0,321
+Karnataka,Uttara Kannada,Locomotor Disability,15-35,951,553,0,1504
+Karnataka,Uttara Kannada,Locomotor Disability,35-60,3302,1722,0,5024
+Karnataka,Uttara Kannada,Locomotor Disability,60-80,1273,460,0,1733
+Karnataka,Uttara Kannada,Locomotor Disability,80+,80,37,0,117
+Karnataka,Uttara Kannada,Low Vision,0-6,1,9,0,10
+Karnataka,Uttara Kannada,Low Vision,Jun-15,94,91,0,185
+Karnataka,Uttara Kannada,Low Vision,15-35,393,237,0,630
+Karnataka,Uttara Kannada,Low Vision,35-60,614,446,0,1060
+Karnataka,Uttara Kannada,Low Vision,60-80,261,170,0,431
+Karnataka,Uttara Kannada,Low Vision,80+,8,9,0,17
+Karnataka,Uttara Kannada,Mental Illness,0-6,1,0,0,1
+Karnataka,Uttara Kannada,Mental Illness,Jun-15,24,12,0,36
+Karnataka,Uttara Kannada,Mental Illness,15-35,111,95,0,206
+Karnataka,Uttara Kannada,Mental Illness,35-60,401,384,0,785
+Karnataka,Uttara Kannada,Mental Illness,60-80,101,86,0,187
+Karnataka,Uttara Kannada,Mental Illness,80+,0,2,0,2
+Karnataka,Uttara Kannada,Multiple Disabilities,0-6,15,8,0,23
+Karnataka,Uttara Kannada,Multiple Disabilities,Jun-15,154,92,0,246
+Karnataka,Uttara Kannada,Multiple Disabilities,15-35,273,190,0,463
+Karnataka,Uttara Kannada,Multiple Disabilities,35-60,226,140,0,366
+Karnataka,Uttara Kannada,Multiple Disabilities,60-80,50,16,0,66
+Karnataka,Uttara Kannada,Multiple Disabilities,80+,1,1,0,2
+Karnataka,Uttara Kannada,Multiple Sclerosis,0-6,0,0,0,0
+Karnataka,Uttara Kannada,Multiple Sclerosis,Jun-15,1,0,0,1
+Karnataka,Uttara Kannada,Multiple Sclerosis,15-35,0,0,0,0
+Karnataka,Uttara Kannada,Multiple Sclerosis,35-60,0,1,0,1
+Karnataka,Uttara Kannada,Multiple Sclerosis,60-80,0,1,0,1
+Karnataka,Uttara Kannada,Muscular Dystrophy,0-6,1,0,0,1
+Karnataka,Uttara Kannada,Muscular Dystrophy,Jun-15,7,2,0,9
+Karnataka,Uttara Kannada,Muscular Dystrophy,15-35,11,5,0,16
+Karnataka,Uttara Kannada,Muscular Dystrophy,35-60,11,11,0,22
+Karnataka,Uttara Kannada,Muscular Dystrophy,60-80,1,2,0,3
+Karnataka,Uttara Kannada,Muscular Dystrophy,80+,0,0,0,0
+Karnataka,Uttara Kannada,Parkinson'S Disease,15-35,0,0,0,0
+Karnataka,Uttara Kannada,Parkinson'S Disease,35-60,5,1,0,6
+Karnataka,Uttara Kannada,Parkinson'S Disease,60-80,5,3,0,8
+Karnataka,Uttara Kannada,Parkinson'S Disease,80+,0,0,0,0
+Karnataka,Uttara Kannada,Sickle Cell Disease,15-35,0,0,0,0
+Karnataka,Uttara Kannada,Sickle Cell Disease,35-60,0,1,0,1
+Karnataka,Uttara Kannada,Sickle Cell Disease,60-80,0,0,0,0
+Karnataka,Uttara Kannada,Specific Learning Disabilities,Jun-15,3,0,0,3
+Karnataka,Uttara Kannada,Specific Learning Disabilities,15-35,3,2,0,5
+Karnataka,Uttara Kannada,Specific Learning Disabilities,35-60,0,1,0,1
+Karnataka,Uttara Kannada,Specific Learning Disabilities,60-80,0,0,0,0
+Karnataka,Uttara Kannada,Speech And Language Disability,0-6,0,1,0,1
+Karnataka,Uttara Kannada,Speech And Language Disability,Jun-15,5,5,0,10
+Karnataka,Uttara Kannada,Speech And Language Disability,15-35,13,12,0,25
+Karnataka,Uttara Kannada,Speech And Language Disability,35-60,17,6,0,23
+Karnataka,Uttara Kannada,Speech And Language Disability,60-80,1,0,0,1
+Karnataka,Uttara Kannada,Speech And Language Disability,80+,1,0,0,1
+Karnataka,Uttara Kannada,Thalassemia,0-6,7,3,0,10
+Karnataka,Uttara Kannada,Thalassemia,Jun-15,10,10,0,20
+Karnataka,Uttara Kannada,Thalassemia,15-35,8,6,0,14
+Karnataka,Uttara Kannada,Thalassemia,35-60,0,2,0,2
+Karnataka,Uttara Kannada,Thalassemia,60-80,0,1,0,1
+Karnataka,Vijayanagar,Acid Attack Victim,Jun-15,0,0,0,0
+Karnataka,Vijayanagar,Acid Attack Victim,15-35,0,1,0,1
+Karnataka,Vijayanagar,Acid Attack Victim,35-60,0,0,0,0
+Karnataka,Vijayanagar,Acid Attack Victim,60-80,0,0,0,0
+Karnataka,Vijayanagar,Autism Spectrum Disorder,15-35,2,1,0,3
+Karnataka,Vijayanagar,Autism Spectrum Disorder,35-60,0,1,0,1
+Karnataka,Vijayanagar,Blindness,0-6,2,1,0,3
+Karnataka,Vijayanagar,Blindness,Jun-15,34,25,1,60
+Karnataka,Vijayanagar,Blindness,15-35,80,54,0,134
+Karnataka,Vijayanagar,Blindness,35-60,150,81,0,231
+Karnataka,Vijayanagar,Blindness,60-80,43,19,0,62
+Karnataka,Vijayanagar,Blindness,80+,4,1,0,5
+Karnataka,Vijayanagar,Cerebral Palsy,0-6,18,12,0,30
+Karnataka,Vijayanagar,Cerebral Palsy,Jun-15,57,24,0,81
+Karnataka,Vijayanagar,Cerebral Palsy,15-35,66,46,0,112
+Karnataka,Vijayanagar,Cerebral Palsy,35-60,89,27,0,116
+Karnataka,Vijayanagar,Cerebral Palsy,60-80,24,6,0,30
+Karnataka,Vijayanagar,Cerebral Palsy,80+,1,0,0,1
+Karnataka,Vijayanagar,Chronic Neurological Conditions,0-6,0,0,0,0
+Karnataka,Vijayanagar,Chronic Neurological Conditions,Jun-15,2,0,0,2
+Karnataka,Vijayanagar,Chronic Neurological Conditions,15-35,23,12,0,35
+Karnataka,Vijayanagar,Chronic Neurological Conditions,35-60,83,25,0,108
+Karnataka,Vijayanagar,Chronic Neurological Conditions,60-80,20,2,0,22
+Karnataka,Vijayanagar,Dwarfism,0-6,1,0,0,1
+Karnataka,Vijayanagar,Dwarfism,Jun-15,0,2,0,2
+Karnataka,Vijayanagar,Dwarfism,15-35,7,15,0,22
+Karnataka,Vijayanagar,Dwarfism,35-60,3,6,0,9
+Karnataka,Vijayanagar,Hearing Impairment,0-6,22,13,0,35
+Karnataka,Vijayanagar,Hearing Impairment,Jun-15,81,78,0,159
+Karnataka,Vijayanagar,Hearing Impairment,15-35,321,225,0,546
+Karnataka,Vijayanagar,Hearing Impairment,35-60,394,440,0,834
+Karnataka,Vijayanagar,Hearing Impairment,60-80,91,43,0,134
+Karnataka,Vijayanagar,Hearing Impairment,80+,11,1,0,12
+Karnataka,Vijayanagar,Hemophilia,Jun-15,3,0,0,3
+Karnataka,Vijayanagar,Hemophilia,15-35,1,0,0,1
+Karnataka,Vijayanagar,Hemophilia,35-60,0,0,0,0
+Karnataka,Vijayanagar,Hemophilia,60-80,0,0,0,0
+Karnataka,Vijayanagar,Intellectual Disability,0-6,52,42,0,94
+Karnataka,Vijayanagar,Intellectual Disability,Jun-15,233,165,0,398
+Karnataka,Vijayanagar,Intellectual Disability,15-35,237,161,0,398
+Karnataka,Vijayanagar,Intellectual Disability,35-60,84,76,0,160
+Karnataka,Vijayanagar,Intellectual Disability,60-80,6,4,0,10
+Karnataka,Vijayanagar,Intellectual Disability,80+,0,1,0,1
+Karnataka,Vijayanagar,Leprosy Cured,0-6,1,0,0,1
+Karnataka,Vijayanagar,Leprosy Cured,15-35,2,3,0,5
+Karnataka,Vijayanagar,Leprosy Cured,35-60,11,6,0,17
+Karnataka,Vijayanagar,Leprosy Cured,60-80,4,2,0,6
+Karnataka,Vijayanagar,Leprosy Cured,80+,1,0,0,1
+Karnataka,Vijayanagar,Locomotor Disability,0-6,31,17,0,48
+Karnataka,Vijayanagar,Locomotor Disability,Jun-15,212,130,0,342
+Karnataka,Vijayanagar,Locomotor Disability,15-35,613,354,0,967
+Karnataka,Vijayanagar,Locomotor Disability,35-60,1255,586,0,1841
+Karnataka,Vijayanagar,Locomotor Disability,60-80,257,65,0,322
+Karnataka,Vijayanagar,Locomotor Disability,80+,4,6,0,10
+Karnataka,Vijayanagar,Low Vision,0-6,3,0,0,3
+Karnataka,Vijayanagar,Low Vision,Jun-15,21,16,0,37
+Karnataka,Vijayanagar,Low Vision,15-35,42,28,0,70
+Karnataka,Vijayanagar,Low Vision,35-60,42,27,0,69
+Karnataka,Vijayanagar,Low Vision,60-80,4,3,0,7
+Karnataka,Vijayanagar,Low Vision,80+,1,0,0,1
+Karnataka,Vijayanagar,Mental Illness,0-6,5,2,0,7
+Karnataka,Vijayanagar,Mental Illness,Jun-15,48,37,0,85
+Karnataka,Vijayanagar,Mental Illness,15-35,170,111,0,281
+Karnataka,Vijayanagar,Mental Illness,35-60,99,92,0,191
+Karnataka,Vijayanagar,Mental Illness,60-80,16,10,0,26
+Karnataka,Vijayanagar,Multiple Disabilities,0-6,1,2,0,3
+Karnataka,Vijayanagar,Multiple Disabilities,Jun-15,58,34,0,92
+Karnataka,Vijayanagar,Multiple Disabilities,15-35,83,63,0,146
+Karnataka,Vijayanagar,Multiple Disabilities,35-60,45,39,0,84
+Karnataka,Vijayanagar,Multiple Disabilities,60-80,11,6,0,17
+Karnataka,Vijayanagar,Multiple Sclerosis,0-6,1,0,0,1
+Karnataka,Vijayanagar,Multiple Sclerosis,Jun-15,2,0,0,2
+Karnataka,Vijayanagar,Multiple Sclerosis,15-35,0,1,0,1
+Karnataka,Vijayanagar,Multiple Sclerosis,35-60,2,0,0,2
+Karnataka,Vijayanagar,Muscular Dystrophy,Jun-15,5,2,0,7
+Karnataka,Vijayanagar,Muscular Dystrophy,15-35,4,5,0,9
+Karnataka,Vijayanagar,Muscular Dystrophy,35-60,4,4,0,8
+Karnataka,Vijayanagar,Muscular Dystrophy,60-80,0,0,0,0
+Karnataka,Vijayanagar,Parkinson'S Disease,15-35,1,0,0,1
+Karnataka,Vijayanagar,Parkinson'S Disease,35-60,7,1,0,8
+Karnataka,Vijayanagar,Parkinson'S Disease,60-80,3,2,0,5
+Karnataka,Vijayanagar,Sickle Cell Disease,Jun-15,0,1,0,1
+Karnataka,Vijayanagar,Sickle Cell Disease,15-35,1,0,0,1
+Karnataka,Vijayanagar,Sickle Cell Disease,35-60,2,1,0,3
+Karnataka,Vijayanagar,Specific Learning Disabilities,Jun-15,0,0,0,0
+Karnataka,Vijayanagar,Specific Learning Disabilities,15-35,2,0,0,2
+Karnataka,Vijayanagar,Specific Learning Disabilities,35-60,0,1,0,1
+Karnataka,Vijayanagar,Specific Learning Disabilities,60-80,0,1,0,1
+Karnataka,Vijayanagar,Speech And Language Disability,0-6,6,2,0,8
+Karnataka,Vijayanagar,Speech And Language Disability,Jun-15,21,9,0,30
+Karnataka,Vijayanagar,Speech And Language Disability,15-35,18,12,0,30
+Karnataka,Vijayanagar,Speech And Language Disability,35-60,13,9,0,22
+Karnataka,Vijayanagar,Speech And Language Disability,60-80,3,1,0,4
+Karnataka,Vijayanagar,Thalassemia,0-6,2,3,0,5
+Karnataka,Vijayanagar,Thalassemia,Jun-15,4,2,0,6
+Karnataka,Vijayanagar,Thalassemia,15-35,1,2,0,3
+Karnataka,Vijayanagar,Thalassemia,35-60,2,0,0,2
+Karnataka,Vijayapura,Acid Attack Victim,Jun-15,1,0,0,1
+Karnataka,Vijayapura,Acid Attack Victim,15-35,5,7,0,12
+Karnataka,Vijayapura,Acid Attack Victim,35-60,12,2,0,14
+Karnataka,Vijayapura,Acid Attack Victim,60-80,3,0,0,3
+Karnataka,Vijayapura,Autism Spectrum Disorder,0-6,0,0,0,0
+Karnataka,Vijayapura,Autism Spectrum Disorder,Jun-15,3,1,0,4
+Karnataka,Vijayapura,Autism Spectrum Disorder,15-35,0,1,0,1
+Karnataka,Vijayapura,Autism Spectrum Disorder,35-60,3,1,0,4
+Karnataka,Vijayapura,Autism Spectrum Disorder,60-80,1,0,0,1
+Karnataka,Vijayapura,Blindness,0-6,14,10,0,24
+Karnataka,Vijayapura,Blindness,Jun-15,168,122,1,291
+Karnataka,Vijayapura,Blindness,15-35,664,445,0,1109
+Karnataka,Vijayapura,Blindness,35-60,865,485,0,1350
+Karnataka,Vijayapura,Blindness,60-80,238,96,0,334
+Karnataka,Vijayapura,Blindness,80+,17,11,1,29
+Karnataka,Vijayapura,Cerebral Palsy,0-6,37,26,0,63
+Karnataka,Vijayapura,Cerebral Palsy,Jun-15,266,152,0,418
+Karnataka,Vijayapura,Cerebral Palsy,15-35,195,127,0,322
+Karnataka,Vijayapura,Cerebral Palsy,35-60,60,20,0,80
+Karnataka,Vijayapura,Cerebral Palsy,60-80,7,2,0,9
+Karnataka,Vijayapura,Chronic Neurological Conditions,Jun-15,0,1,0,1
+Karnataka,Vijayapura,Chronic Neurological Conditions,15-35,11,2,0,13
+Karnataka,Vijayapura,Chronic Neurological Conditions,35-60,11,6,0,17
+Karnataka,Vijayapura,Chronic Neurological Conditions,60-80,4,2,0,6
+Karnataka,Vijayapura,Dwarfism,0-6,1,0,0,1
+Karnataka,Vijayapura,Dwarfism,Jun-15,9,11,0,20
+Karnataka,Vijayapura,Dwarfism,15-35,26,53,0,79
+Karnataka,Vijayapura,Dwarfism,35-60,27,13,0,40
+Karnataka,Vijayapura,Dwarfism,60-80,1,1,0,2
+Karnataka,Vijayapura,Hearing Impairment,0-6,30,32,0,62
+Karnataka,Vijayapura,Hearing Impairment,Jun-15,326,283,0,609
+Karnataka,Vijayapura,Hearing Impairment,15-35,674,497,1,1172
+Karnataka,Vijayapura,Hearing Impairment,35-60,597,534,0,1131
+Karnataka,Vijayapura,Hearing Impairment,60-80,121,62,0,183
+Karnataka,Vijayapura,Hearing Impairment,80+,8,5,0,13
+Karnataka,Vijayapura,Hemophilia,0-6,2,0,0,2
+Karnataka,Vijayapura,Hemophilia,Jun-15,9,0,0,9
+Karnataka,Vijayapura,Hemophilia,15-35,16,3,0,19
+Karnataka,Vijayapura,Hemophilia,35-60,14,4,0,18
+Karnataka,Vijayapura,Hemophilia,60-80,3,0,0,3
+Karnataka,Vijayapura,Intellectual Disability,0-6,42,28,0,70
+Karnataka,Vijayapura,Intellectual Disability,Jun-15,736,461,1,1198
+Karnataka,Vijayapura,Intellectual Disability,15-35,1244,961,1,2206
+Karnataka,Vijayapura,Intellectual Disability,35-60,390,311,2,703
+Karnataka,Vijayapura,Intellectual Disability,60-80,20,12,0,32
+Karnataka,Vijayapura,Intellectual Disability,80+,0,1,0,1
+Karnataka,Vijayapura,Leprosy Cured,Jun-15,1,0,0,1
+Karnataka,Vijayapura,Leprosy Cured,15-35,8,2,0,10
+Karnataka,Vijayapura,Leprosy Cured,35-60,15,12,0,27
+Karnataka,Vijayapura,Leprosy Cured,60-80,14,9,0,23
+Karnataka,Vijayapura,Leprosy Cured,80+,4,0,0,4
+Karnataka,Vijayapura,Locomotor Disability,0-6,71,50,0,121
+Karnataka,Vijayapura,Locomotor Disability,Jun-15,829,518,0,1347
+Karnataka,Vijayapura,Locomotor Disability,15-35,3749,2049,2,5800
+Karnataka,Vijayapura,Locomotor Disability,35-60,7871,3369,5,11245
+Karnataka,Vijayapura,Locomotor Disability,60-80,1653,434,1,2088
+Karnataka,Vijayapura,Locomotor Disability,80+,73,11,0,84
+Karnataka,Vijayapura,Low Vision,0-6,1,1,0,2
+Karnataka,Vijayapura,Low Vision,Jun-15,49,31,0,80
+Karnataka,Vijayapura,Low Vision,15-35,192,121,0,313
+Karnataka,Vijayapura,Low Vision,35-60,218,86,0,304
+Karnataka,Vijayapura,Low Vision,60-80,22,10,0,32
+Karnataka,Vijayapura,Low Vision,80+,2,0,0,2
+Karnataka,Vijayapura,Mental Illness,0-6,12,7,0,19
+Karnataka,Vijayapura,Mental Illness,Jun-15,131,99,0,230
+Karnataka,Vijayapura,Mental Illness,15-35,411,303,0,714
+Karnataka,Vijayapura,Mental Illness,35-60,337,253,0,590
+Karnataka,Vijayapura,Mental Illness,60-80,20,22,0,42
+Karnataka,Vijayapura,Mental Illness,80+,1,0,0,1
+Karnataka,Vijayapura,Multiple Disabilities,0-6,1,4,0,5
+Karnataka,Vijayapura,Multiple Disabilities,Jun-15,45,30,0,75
+Karnataka,Vijayapura,Multiple Disabilities,15-35,111,61,0,172
+Karnataka,Vijayapura,Multiple Disabilities,35-60,101,58,1,160
+Karnataka,Vijayapura,Multiple Disabilities,60-80,19,2,0,21
+Karnataka,Vijayapura,Multiple Disabilities,80+,1,0,0,1
+Karnataka,Vijayapura,Multiple Sclerosis,0-6,0,0,0,0
+Karnataka,Vijayapura,Multiple Sclerosis,Jun-15,0,1,0,1
+Karnataka,Vijayapura,Multiple Sclerosis,15-35,1,1,0,2
+Karnataka,Vijayapura,Multiple Sclerosis,35-60,4,1,0,5
+Karnataka,Vijayapura,Multiple Sclerosis,60-80,0,0,0,0
+Karnataka,Vijayapura,Muscular Dystrophy,0-6,1,0,0,1
+Karnataka,Vijayapura,Muscular Dystrophy,Jun-15,21,5,0,26
+Karnataka,Vijayapura,Muscular Dystrophy,15-35,27,12,0,39
+Karnataka,Vijayapura,Muscular Dystrophy,35-60,19,6,0,25
+Karnataka,Vijayapura,Muscular Dystrophy,60-80,3,1,0,4
+Karnataka,Vijayapura,Muscular Dystrophy,80+,0,0,0,0
+Karnataka,Vijayapura,Parkinson'S Disease,15-35,2,2,0,4
+Karnataka,Vijayapura,Parkinson'S Disease,35-60,13,3,0,16
+Karnataka,Vijayapura,Parkinson'S Disease,60-80,2,1,0,3
+Karnataka,Vijayapura,Sickle Cell Disease,Jun-15,1,1,0,2
+Karnataka,Vijayapura,Sickle Cell Disease,15-35,0,0,0,0
+Karnataka,Vijayapura,Sickle Cell Disease,35-60,2,2,0,4
+Karnataka,Vijayapura,Specific Learning Disabilities,Jun-15,0,1,0,1
+Karnataka,Vijayapura,Specific Learning Disabilities,15-35,1,0,0,1
+Karnataka,Vijayapura,Specific Learning Disabilities,35-60,4,0,0,4
+Karnataka,Vijayapura,Speech And Language Disability,0-6,5,3,0,8
+Karnataka,Vijayapura,Speech And Language Disability,Jun-15,31,21,0,52
+Karnataka,Vijayapura,Speech And Language Disability,15-35,35,20,0,55
+Karnataka,Vijayapura,Speech And Language Disability,35-60,32,13,0,45
+Karnataka,Vijayapura,Speech And Language Disability,60-80,3,0,0,3
+Karnataka,Vijayapura,Thalassemia,0-6,7,7,0,14
+Karnataka,Vijayapura,Thalassemia,Jun-15,11,12,0,23
+Karnataka,Vijayapura,Thalassemia,15-35,13,3,0,16
+Karnataka,Vijayapura,Thalassemia,35-60,3,2,0,5
+Karnataka,Vijayapura,Thalassemia,60-80,0,0,0,0
+Karnataka,Yadgir,Acid Attack Victim,Jun-15,1,0,0,1
+Karnataka,Yadgir,Acid Attack Victim,15-35,4,7,0,11
+Karnataka,Yadgir,Acid Attack Victim,35-60,7,5,0,12
+Karnataka,Yadgir,Autism Spectrum Disorder,0-6,0,0,0,0
+Karnataka,Yadgir,Autism Spectrum Disorder,Jun-15,2,0,0,2
+Karnataka,Yadgir,Autism Spectrum Disorder,15-35,1,1,0,2
+Karnataka,Yadgir,Autism Spectrum Disorder,35-60,0,0,0,0
+Karnataka,Yadgir,Blindness,0-6,20,22,0,42
+Karnataka,Yadgir,Blindness,Jun-15,221,193,0,414
+Karnataka,Yadgir,Blindness,15-35,910,1354,1,2265
+Karnataka,Yadgir,Blindness,35-60,1928,2214,1,4143
+Karnataka,Yadgir,Blindness,60-80,260,160,0,420
+Karnataka,Yadgir,Blindness,80+,12,5,0,17
+Karnataka,Yadgir,Cerebral Palsy,0-6,29,15,0,44
+Karnataka,Yadgir,Cerebral Palsy,Jun-15,43,21,0,64
+Karnataka,Yadgir,Cerebral Palsy,15-35,11,16,0,27
+Karnataka,Yadgir,Cerebral Palsy,35-60,6,1,0,7
+Karnataka,Yadgir,Cerebral Palsy,60-80,3,0,0,3
+Karnataka,Yadgir,Chronic Neurological Conditions,0-6,0,1,0,1
+Karnataka,Yadgir,Chronic Neurological Conditions,Jun-15,4,1,0,5
+Karnataka,Yadgir,Chronic Neurological Conditions,15-35,2,2,0,4
+Karnataka,Yadgir,Chronic Neurological Conditions,35-60,5,8,0,13
+Karnataka,Yadgir,Chronic Neurological Conditions,60-80,3,0,0,3
+Karnataka,Yadgir,Dwarfism,0-6,1,0,0,1
+Karnataka,Yadgir,Dwarfism,Jun-15,1,6,0,7
+Karnataka,Yadgir,Dwarfism,15-35,21,27,0,48
+Karnataka,Yadgir,Dwarfism,35-60,10,9,0,19
+Karnataka,Yadgir,Dwarfism,60-80,2,3,0,5
+Karnataka,Yadgir,Hearing Impairment,0-6,11,7,0,18
+Karnataka,Yadgir,Hearing Impairment,Jun-15,111,86,0,197
+Karnataka,Yadgir,Hearing Impairment,15-35,207,174,0,381
+Karnataka,Yadgir,Hearing Impairment,35-60,155,103,0,258
+Karnataka,Yadgir,Hearing Impairment,60-80,41,13,0,54
+Karnataka,Yadgir,Hearing Impairment,80+,4,1,0,5
+Karnataka,Yadgir,Hemophilia,Jun-15,2,1,0,3
+Karnataka,Yadgir,Hemophilia,15-35,4,0,0,4
+Karnataka,Yadgir,Hemophilia,35-60,0,0,0,0
+Karnataka,Yadgir,Intellectual Disability,0-6,38,21,0,59
+Karnataka,Yadgir,Intellectual Disability,Jun-15,256,188,0,444
+Karnataka,Yadgir,Intellectual Disability,15-35,290,276,0,566
+Karnataka,Yadgir,Intellectual Disability,35-60,81,66,0,147
+Karnataka,Yadgir,Intellectual Disability,60-80,2,4,0,6
+Karnataka,Yadgir,Leprosy Cured,15-35,7,1,0,8
+Karnataka,Yadgir,Leprosy Cured,35-60,18,7,0,25
+Karnataka,Yadgir,Leprosy Cured,60-80,2,3,0,5
+Karnataka,Yadgir,Leprosy Cured,80+,1,0,0,1
+Karnataka,Yadgir,Locomotor Disability,0-6,62,43,0,105
+Karnataka,Yadgir,Locomotor Disability,Jun-15,626,357,0,983
+Karnataka,Yadgir,Locomotor Disability,15-35,3045,1599,0,4644
+Karnataka,Yadgir,Locomotor Disability,35-60,6029,2638,1,8668
+Karnataka,Yadgir,Locomotor Disability,60-80,1098,368,0,1466
+Karnataka,Yadgir,Locomotor Disability,80+,52,20,0,72
+Karnataka,Yadgir,Low Vision,0-6,4,3,0,7
+Karnataka,Yadgir,Low Vision,Jun-15,41,25,0,66
+Karnataka,Yadgir,Low Vision,15-35,201,161,0,362
+Karnataka,Yadgir,Low Vision,35-60,194,200,1,395
+Karnataka,Yadgir,Low Vision,60-80,25,14,0,39
+Karnataka,Yadgir,Low Vision,80+,0,0,0,0
+Karnataka,Yadgir,Mental Illness,0-6,31,15,0,46
+Karnataka,Yadgir,Mental Illness,Jun-15,202,127,0,329
+Karnataka,Yadgir,Mental Illness,15-35,288,320,0,608
+Karnataka,Yadgir,Mental Illness,35-60,186,196,0,382
+Karnataka,Yadgir,Mental Illness,60-80,4,5,0,9
+Karnataka,Yadgir,Multiple Disabilities,0-6,3,3,0,6
+Karnataka,Yadgir,Multiple Disabilities,Jun-15,50,34,0,84
+Karnataka,Yadgir,Multiple Disabilities,15-35,109,75,0,184
+Karnataka,Yadgir,Multiple Disabilities,35-60,65,37,0,102
+Karnataka,Yadgir,Multiple Disabilities,60-80,10,7,0,17
+Karnataka,Yadgir,Multiple Disabilities,80+,0,1,0,1
+Karnataka,Yadgir,Multiple Sclerosis,0-6,1,1,0,2
+Karnataka,Yadgir,Multiple Sclerosis,Jun-15,0,1,0,1
+Karnataka,Yadgir,Multiple Sclerosis,15-35,1,2,0,3
+Karnataka,Yadgir,Multiple Sclerosis,35-60,1,0,0,1
+Karnataka,Yadgir,Multiple Sclerosis,60-80,1,0,0,1
+Karnataka,Yadgir,Muscular Dystrophy,Jun-15,1,2,0,3
+Karnataka,Yadgir,Muscular Dystrophy,15-35,7,3,0,10
+Karnataka,Yadgir,Muscular Dystrophy,35-60,5,0,0,5
+Karnataka,Yadgir,Muscular Dystrophy,60-80,0,1,0,1
+Karnataka,Yadgir,Parkinson'S Disease,35-60,3,2,0,5
+Karnataka,Yadgir,Sickle Cell Disease,35-60,0,0,0,0
+Karnataka,Yadgir,Specific Learning Disabilities,Jun-15,0,0,0,0
+Karnataka,Yadgir,Specific Learning Disabilities,35-60,0,1,0,1
+Karnataka,Yadgir,Speech And Language Disability,0-6,1,1,0,2
+Karnataka,Yadgir,Speech And Language Disability,Jun-15,11,12,0,23
+Karnataka,Yadgir,Speech And Language Disability,15-35,13,11,0,24
+Karnataka,Yadgir,Speech And Language Disability,35-60,13,7,0,20
+Karnataka,Yadgir,Speech And Language Disability,60-80,1,0,0,1
+Karnataka,Yadgir,Thalassemia,0-6,3,2,0,5
+Karnataka,Yadgir,Thalassemia,Jun-15,8,8,0,16
+Karnataka,Yadgir,Thalassemia,15-35,3,1,0,4
+Karnataka,Yadgir,Thalassemia,35-60,0,0,0,0
